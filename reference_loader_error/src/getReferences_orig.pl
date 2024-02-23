@@ -7,8 +7,8 @@
 #takes about 5h to run on the whole XB library
 
 #3.0	just goes and gets the PMID and exports PMID cited_by PMID... therefore relies on citation updater to get new reference names, skipping the output splitter algorithms, added cited by in same loop
-#Author: Kevin Burns
-#Modified by: Vaneet Lotay
+#Author: John Smith
+#Modified by: Jane Smith
 
 use LWP::Simple;
 use Math::Round;
@@ -37,8 +37,8 @@ my $cvTermID = 65742; #CVtermID for 'refers to'
 my $hasError = 1;
 my $statusEmailSubject;
 my $sendmail = "/usr/lib/sendmail";
-my $toStatusEmail = "vaneet.lotay\@ucalgary.ca";
-#my $toStatusEmail = "vaneet.lotay\@ucalgary.ca; xendevs\@ucalgary.ca";
+my $toStatusEmail = "john.smith\@ucalgary.ca";
+#my $toStatusEmail = "john.smith\@ucalgary.ca; jane.smith\@ucalgary.ca";
 my $fromEmail = "srv-xenbase-noreply\@ucalgary.ca";
 
 my $DB = $ARGV[0];#database name to add references to for Xenbase papers
