@@ -1,0 +1,2512 @@
+ANATOMY_ITEM_ID	ANATOMY_NAME	PHYLONODE_ID	ORGANISM_NAME	STARTS_AT_STAGE_NAME	ENDS_AT_STAGE_NAME	PHYLONODE_ANATOMYITEM_ID
+1	root node	325	E. tribuloides			1752
+2	life cycle period	325	E. tribuloides			1753
+3	echinoderm anatomy	325	E. tribuloides			1754
+4	anatomical structure	325	E. tribuloides			1755
+5	anatomical system	325	E. tribuloides			1756
+6	anatomical region	325	E. tribuloides			1757
+7	anatomical space	325	E. tribuloides			1758
+8	whole organism	325	E. tribuloides	previtellogenic primary oocyte stage	adult stage	1759
+9	multicellular organism	325	E. tribuloides	2-cell stage	adult stage	1760
+10	embryo	325	E. tribuloides	1-cell stage	prism stage	1761
+11	larva	325	E. tribuloides	early pluteus larva stage	metamorphic larva stage	1762
+12	juvenile	325	E. tribuloides	early juvenile stage	late juvenile stage	1763
+13	adult	325	E. tribuloides	adult stage		1764
+14	digestive system	325	E. tribuloides	blastopore formation stage	adult stage	1765
+15	embryonic digestive system	325	E. tribuloides		prism stage	1766
+16	larval digestive system	325	E. tribuloides	early pluteus larva stage	metamorphic larva stage	1767
+17	juvenile digestive system	325	E. tribuloides	early juvenile stage	late juvenile stage	1768
+18	adult digestive system	325	E. tribuloides	adult stage		1769
+19	immune system	325	E. tribuloides	late gastrula stage	adult stage	1770
+20	embryonic immune system	325	E. tribuloides		prism stage	1771
+21	larval immune system	325	E. tribuloides	early pluteus larva stage	metamorphic larva stage	1772
+22	juvenile immune system	325	E. tribuloides	early juvenile stage	late juvenile stage	1773
+23	adult immune system	325	E. tribuloides	adult stage		1774
+24	reproductive system	325	E. tribuloides	early juvenile stage	adult stage	1775
+25	nervous system	325	E. tribuloides	mesenchyme blastula phase	adult stage	1776
+26	embryonic nervous system	325	E. tribuloides		prism stage	1777
+27	larval nervous system	325	E. tribuloides	early pluteus larva stage	competent pluteus larva stage	1778
+28	juvenile nervous system	325	E. tribuloides	early juvenile stage	late juvenile stage	1779
+29	adult nervous system	325	E. tribuloides	adult stage		1780
+30	muscular system	325	E. tribuloides	early pluteus larva stage	adult stage	1781
+31	larval muscular system	325	E. tribuloides		metamorphic larva stage	1782
+32	juvenile muscular system	325	E. tribuloides	early juvenile stage	late juvenile stage	1783
+33	adult muscular system	325	E. tribuloides	adult stage		1784
+34	endoskeleton	325	E. tribuloides	mid-gastrula stage	adult stage	1785
+37	rudiment endoskeleton	325	E. tribuloides	8-arm pluteus larva stage	metamorphic larva stage	1786
+38	juvenile endoskeleton	325	E. tribuloides	early juvenile stage	late juvenile stage	1787
+39	adult endoskeleton	325	E. tribuloides	adult stage		1788
+40	water vascular system	325	E. tribuloides	6-arm pluteus larva stage	adult stage	1789
+41	hemal system	325	E. tribuloides	8-arm pluteus larva stage	adult stage	1790
+42	animal hemisphere	325	E. tribuloides	mature oocyte stage	late swimming blastula stage	1791
+43	vegetal hemisphere	325	E. tribuloides	mature oocyte stage	late swimming blastula stage	1792
+44	cell cortex	325	E. tribuloides	mature oocyte stage		1793
+45	cleavage furrow	325	E. tribuloides	1-cell stage		1794
+46	animal cortex	325	E. tribuloides	fully grown oocyte with centered germinal vesicle stage	1-cell stage	1795
+47	vegetal cortex	325	E. tribuloides	fully grown oocyte with centered germinal vesicle stage	1-cell stage	1796
+48	animal pole	325	E. tribuloides	fully grown oocyte with centered germinal vesicle stage	prism stage	1797
+49	vegetal pole	325	E. tribuloides	fully grown oocyte with centered germinal vesicle stage	prism stage	1798
+50	animal pole domain	325	E. tribuloides	very early blastula stage	prism stage	1799
+51	blastopore	325	E. tribuloides	blastopore formation stage	prism stage	1800
+52	blastopore lip	325	E. tribuloides	blastopore formation stage		1801
+54	embryonic cell	325	E. tribuloides	2-cell stage	prism stage	1802
+55	vegetal plate	325	E. tribuloides	swimming blastula stage	late mesenchyme blastula stage	1803
+56	cell	325	E. tribuloides	previtellogenic primary oocyte stage	adult stage	1804
+57	cell part	325	E. tribuloides	previtellogenic primary oocyte stage	adult stage	1805
+58	digestive system element	325	E. tribuloides	blastopore formation stage	adult stage	1806
+59	skeletal element	325	E. tribuloides	mid-gastrula stage	adult stage	1807
+60	embryonic structure	325	E. tribuloides	1-cell stage	prism stage	1808
+61	larval structure	325	E. tribuloides	early pluteus larva stage	metamorphic larva stage	1809
+62	juvenile structure	325	E. tribuloides	early juvenile stage	late juvenile stage	1810
+63	adult structure	325	E. tribuloides	early juvenile stage	adult stage	1811
+64	tissue	325	E. tribuloides	60-cell stage	adult stage	1812
+65	rudiment	325	E. tribuloides	6-arm pluteus larva stage	metamorphic larva stage	1813
+66	rudiment structure	325	E. tribuloides	6-arm pluteus larva stage	metamorphic larva stage	1814
+67	non-rudiment adult structure	325	E. tribuloides	6-arm pluteus larva stage	metamorphic larva stage	1815
+68	intracellular part	325	E. tribuloides			1816
+69	cytoskeleton	325	E. tribuloides			1817
+70	microtubule	325	E. tribuloides			1818
+71	nucleus	325	E. tribuloides	mature oocyte stage		1819
+72	oocyte	325	E. tribuloides	oogenesis period	oogenesis period	1820
+73	germinal vesicle	325	E. tribuloides	not fully grown oocyte stage	fully grown oocyte with off-centered germinal vesicle stage	1821
+75	cytoplasm	325	E. tribuloides	not fully grown oocyte stage		1822
+76	centrosome	325	E. tribuloides	fully grown oocyte with off-centered germinal vesicle stage		1823
+77	mitotic spindle	325	E. tribuloides	1-cell stage		1824
+78	meiotic spindle	325	E. tribuloides	fully grown oocyte with off-centered germinal vesicle stage	fully grown oocyte with off-centered germinal vesicle stage	1825
+79	fertilization envelope	325	E. tribuloides	1-cell stage	hatched blastula stage	1826
+80	spermatozoid	325	E. tribuloides	spermatogenesis period	spermatogenesis period	1827
+81	aster	325	E. tribuloides	fully grown oocyte with off-centered germinal vesicle stage		1828
+82	sperm aster	325	E. tribuloides	mature spermatozoid stage	mature spermatozoid stage	1829
+83	acellular membrane	325	E. tribuloides	mature oocyte stage	mature oocyte stage	1830
+84	vitelline membrane	325	E. tribuloides			1831
+85	hyaline layer	325	E. tribuloides	1-cell stage	prism stage	1832
+86	microvillus	325	E. tribuloides	1-cell stage	1-cell stage	1833
+88	secretory vesicle	325	E. tribuloides	1-cell stage	1-cell stage	1834
+89	cilium	325	E. tribuloides	late blastula stage	adult stage	1835
+90	filopodium	325	E. tribuloides	early mesenchyme blastula stage	late gastrula stage	1836
+91	basal lamina	325	E. tribuloides		4-arm pluteus larva stage	1837
+94	cortical granule	325	E. tribuloides	mature oocyte stage		1838
+96	mitochondrion	325	E. tribuloides			1839
+97	actin cytoskeleton	325	E. tribuloides			1840
+98	actin filament	325	E. tribuloides			1841
+99	nuclear part	325	E. tribuloides	mature oocyte stage		1842
+100	nucleoplasm	325	E. tribuloides			1843
+101	nuclear envelope	325	E. tribuloides			1844
+102	endoplasmic reticulum	325	E. tribuloides			1845
+103	spermatozoid entry point	325	E. tribuloides	mature oocyte stage	1-cell stage	1846
+104	plasma membrane	325	E. tribuloides			1847
+105	polar body	325	E. tribuloides	fully grown oocyte with off-centered germinal vesicle stage	fully grown oocyte with no nucleus stage	1848
+106	spermatozoid part	325	E. tribuloides	spermatogenesis period	spermatogenesis period	1849
+107	spermatozoid head	325	E. tribuloides			1850
+108	spermatozoid flagellum	325	E. tribuloides			1851
+109	acrosomal vesicle	325	E. tribuloides	spermatogenesis period	spermatogenesis period	1852
+111	presumptive primordial germ cell	325	E. tribuloides	32-cell stage	metamorphic larva stage	1853
+112	primordial germ cell	325	E. tribuloides	early juvenile stage		1854
+113	germ cell	325	E. tribuloides	adult stage		1855
+114	gamete	325	E. tribuloides	gametogenesis	gametogenesis	1856
+115	immature occyte	325	E. tribuloides		fully grown oocyte with no nucleus stage	1857
+116	mature oocyte	325	E. tribuloides	mature oocyte stage	mature oocyte stage	1858
+117	blastomere	325	E. tribuloides		60-cell stage	1859
+118	blastomere of 2-cell embryo	325	E. tribuloides		2-cell stage	1860
+119	blastomere of 4-cell embryo	325	E. tribuloides	4-cell stage	4-cell stage	1861
+122	cell tier	325	E. tribuloides	8-cell stage	late blastula stage	1862
+128	presumptive neuron	325	E. tribuloides	mesenchyme blastula phase	adult stage	1863
+129	animal pole domain presumptive neuron	325	E. tribuloides	mesenchyme blastula phase	prism stage	1864
+130	ectoderm presumptive neuron	325	E. tribuloides	mesenchyme blastula phase	prism stage	1865
+131	ciliary band presumptive neuron	325	E. tribuloides	mesenchyme blastula phase	competent pluteus larva stage	1866
+133	neuron	325	E. tribuloides	early pluteus larva stage	adult stage	1867
+134	larval neuron	325	E. tribuloides	early pluteus larva stage	competent pluteus larva stage	1868
+135	serotonergic neuron	325	E. tribuloides	early pluteus larva stage	competent pluteus larva stage	1869
+139	sensory neuron	325	E. tribuloides			1870
+142	neural structure	325	E. tribuloides	prism stage	adult stage	1871
+143	axon tract	325	E. tribuloides	early pluteus larva stage	adult stage	1872
+144	ciliary band neuron	325	E. tribuloides	early pluteus larva stage	competent pluteus larva stage	1873
+145	ectoderm	325	E. tribuloides	60-cell stage	metamorphic larva stage	1874
+146	presumptive ciliary band cell	325	E. tribuloides	late blastula stage	late gastrula stage	1875
+148	ganglion	325	E. tribuloides			1876
+149	apical ganglion	325	E. tribuloides	early pluteus larva stage	competent pluteus larva stage	1877
+150	adult neuron	325	E. tribuloides	8-arm pluteus larva stage		1878
+151	circumoral nerve ring	325	E. tribuloides	8-arm pluteus larva stage		1879
+152	enteric nerve plexus	325	E. tribuloides	late juvenile stage		1880
+153	radial nerve cord	325	E. tribuloides	8-arm pluteus larva stage		1881
+154	primary podia associated neuron	325	E. tribuloides		late juvenile stage	1882
+155	secondary podia associated neuron	325	E. tribuloides	early juvenile stage		1883
+156	definitive spine associated neuron	325	E. tribuloides			1884
+157	pedicellaria associated neuron	325	E. tribuloides			1885
+158	basiepidermal nerve plexus	325	E. tribuloides	8-arm pluteus larva stage		1886
+159	animal quartet	325	E. tribuloides		8-cell stage	1887
+160	vegetal quartet	325	E. tribuloides		8-cell stage	1888
+169	germ layer	325	E. tribuloides	early mesenchyme blastula stage		1889
+170	embryonic tissue	325	E. tribuloides	16-cell stage	prism stage	1890
+171	presumptive ectoderm	325	E. tribuloides	16-cell stage	swimming blastula stage	1891
+174	ventral ectoderm	325	E. tribuloides	60-cell stage	competent pluteus larva stage	1892
+175	dorsal ectoderm	325	E. tribuloides	60-cell stage	competent pluteus larva stage	1893
+176	ectoendoderm	325	E. tribuloides	60-cell stage	hatched blastula stage	1894
+177	endomesoderm	325	E. tribuloides	60-cell stage	hatched blastula stage	1895
+192	apical tuft	325	E. tribuloides	hatched blastula stage	prism stage	1896
+193	larval tissue	325	E. tribuloides	early pluteus larva stage	competent pluteus larva stage	1897
+194	rudiment tissue	325	E. tribuloides	6-arm pluteus larva stage	metamorphic larva stage	1898
+195	juvenile tissue	325	E. tribuloides	early juvenile stage	late juvenile stage	1899
+196	adult tissue	325	E. tribuloides	early juvenile stage		1900
+197	presumptive stomodeum	325	E. tribuloides	mesenchyme blastula phase		1901
+198	stomodeum	325	E. tribuloides	prism stage		1902
+199	ciliary band	325	E. tribuloides	mesenchyme blastula phase	competent pluteus larva stage	1903
+224	skeletal rod	325	E. tribuloides	late gastrula stage	early juvenile stage	1904
+251	mouth	325	E. tribuloides	early pluteus larva stage	adult stage	1905
+252	larval mouth	325	E. tribuloides		competent pluteus larva stage	1906
+253	anus	325	E. tribuloides	early pluteus larva stage	adult stage	1907
+254	larval anus	325	E. tribuloides		competent pluteus larva stage	1908
+255	presumptive endoderm	325	E. tribuloides	early blastula stage	swimming blastula stage	1909
+256	endoderm	325	E. tribuloides	late swimming blastula stage	competent pluteus larva stage	1910
+257	archenteron	325	E. tribuloides	blastopore formation stage	early pluteus larva stage	1911
+258	hindgut	325	E. tribuloides	late gastrula stage	prism stage	1912
+259	dorsal hindgut	325	E. tribuloides	late gastrula stage	prism stage	1913
+260	ventral hindgut	325	E. tribuloides	late gastrula stage	prism stage	1914
+261	midgut	325	E. tribuloides	mid-gastrula stage	prism stage	1915
+262	ventral midgut	325	E. tribuloides	mid-gastrula stage	prism stage	1916
+263	dorsal midgut	325	E. tribuloides	mid-gastrula stage	prism stage	1917
+264	anterior midgut	325	E. tribuloides	mid-gastrula stage	prism stage	1918
+265	posterior midgut	325	E. tribuloides	mid-gastrula stage	prism stage	1919
+266	anterior hindgut	325	E. tribuloides	late gastrula stage	prism stage	1920
+267	posterior hindgut	325	E. tribuloides	late gastrula stage	prism stage	1921
+268	foregut	325	E. tribuloides	mid-gastrula stage	prism stage	1922
+269	ventral foregut	325	E. tribuloides	mid-gastrula stage	prism stage	1923
+270	dorsal foregut	325	E. tribuloides	mid-gastrula stage	prism stage	1924
+271	anterior foregut	325	E. tribuloides	mid-gastrula stage	prism stage	1925
+272	posterior foregut	325	E. tribuloides	mid-gastrula stage	prism stage	1926
+273	tip of archenteron	325	E. tribuloides	early gastrula stage	prism stage	1927
+274	presumptive mesoderm	325	E. tribuloides	16-cell stage	swimming blastula stage	1928
+275	mesoderm	325	E. tribuloides	16-cell stage	competent pluteus larva stage	1929
+288	embryonic non-skeletogenic mesoderm	325	E. tribuloides	late swimming blastula stage	late gastrula stage	1930
+291	embryonic non-skeletogenic mesenchyme	325	E. tribuloides	early gastrula stage	prism stage	1931
+292	embryonic non-skeletogenic mesenchyme cell	325	E. tribuloides	early gastrula stage	prism stage	1932
+293	larval non-skeletogenic mesenchyme	325	E. tribuloides	early pluteus larva stage	competent pluteus larva stage	1933
+294	larval non-skeletogenic mesenchyme cell	325	E. tribuloides	early pluteus larva stage	competent pluteus larva stage	1934
+296	presumptive pigment cell	325	E. tribuloides	mesenchyme blastula phase	late gastrula stage	1935
+297	pigment cell	325	E. tribuloides	early gastrula stage	late juvenile stage	1936
+299	larval pigment cell	325	E. tribuloides	early pluteus larva stage	metamorphic larva stage	1937
+300	juvenile pigment cell	325	E. tribuloides	early juvenile stage		1938
+301	rudiment pigment cell	325	E. tribuloides	8-arm pluteus larva stage	metamorphic larva stage	1939
+306	amoeboid cell	325	E. tribuloides	early pluteus larva stage		1940
+307	muscle precursor cell	325	E. tribuloides	late gastrula stage	early pluteus larva stage	1941
+308	muscle	325	E. tribuloides			1942
+309	larval muscle	325	E. tribuloides			1943
+310	rudiment muscle	325	E. tribuloides	8-arm pluteus larva stage		1944
+311	juvenile muscle	325	E. tribuloides			1945
+312	adult muscle	325	E. tribuloides	adult stage		1946
+313	blastocoel	325	E. tribuloides	very early blastula stage	prism stage	1947
+314	sphincter	325	E. tribuloides	prism stage		1948
+315	pyloric sphincter	325	E. tribuloides	early pluteus larva stage	competent pluteus larva stage	1949
+316	cardiac sphincter	325	E. tribuloides	4-arm pluteus larva stage	competent pluteus larva stage	1950
+317	anal sphincter	325	E. tribuloides	4-arm pluteus larva stage	competent pluteus larva stage	1951
+318	sphincter muscle	325	E. tribuloides	4-arm pluteus larva stage		1952
+319	sphincter muscle cell	325	E. tribuloides	4-arm pluteus larva stage		1953
+320	pyloric sphincteric muscle	325	E. tribuloides		competent pluteus larva stage	1954
+321	cardiac sphincteric muscle	325	E. tribuloides		competent pluteus larva stage	1955
+322	anal sphincteric muscle	325	E. tribuloides		competent pluteus larva stage	1956
+323	larval esophagus	325	E. tribuloides	early pluteus larva stage	competent pluteus larva stage	1957
+324	circumesophageal muscle	325	E. tribuloides	4-arm pluteus larva stage		1958
+325	circumesophageal muscle cell	325	E. tribuloides	4-arm pluteus larva stage	competent pluteus larva stage	1959
+326	larval stomach	325	E. tribuloides	4-arm pluteus larva stage	competent pluteus larva stage	1960
+327	larval intestine	325	E. tribuloides	4-arm pluteus larva stage	competent pluteus larva stage	1961
+330	coelom	325	E. tribuloides	prism stage	adult stage	1962
+331	unpaired coelomic pouch	325	E. tribuloides		prism stage	1963
+332	right coelomic pouch	325	E. tribuloides	early pluteus larva stage	6-arm pluteus larva stage	1964
+333	left coelomic pouch	325	E. tribuloides	early pluteus larva stage	6-arm pluteus larva stage	1965
+334	right coelomic constriction	325	E. tribuloides	early pluteus larva stage	6-arm pluteus larva stage	1966
+335	left coelomic constriction	325	E. tribuloides	early pluteus larva stage	6-arm pluteus larva stage	1967
+336	larval epithelium	325	E. tribuloides		metamorphic larva stage	1968
+338	oral epithelium	325	E. tribuloides			1969
+339	aboral epithelium	325	E. tribuloides			1970
+342	axocoel	325	E. tribuloides	6-arm pluteus larva stage	8-arm pluteus larva stage	1971
+343	left axocoel	325	E. tribuloides	8-arm pluteus larva stage	competent pluteus larva stage	1972
+344	axial coelom	325	E. tribuloides	early juvenile stage		1973
+345	hydrocoel	325	E. tribuloides	6-arm pluteus larva stage	8-arm pluteus larva stage	1974
+346	somatocoel	325	E. tribuloides	6-arm pluteus larva stage	8-arm pluteus larva stage	1975
+347	left hydrocoel	325	E. tribuloides			1976
+348	left somatocoel	325	E. tribuloides			1977
+350	right somatocoel	325	E. tribuloides			1978
+351	axial complex	325	E. tribuloides	early juvenile stage	adult stage	1979
+352	stone canal	325	E. tribuloides	8-arm pluteus larva stage	adult stage	1980
+353	ring canal	325	E. tribuloides	8-arm pluteus larva stage	adult stage	1981
+354	radial canal	325	E. tribuloides	8-arm pluteus larva stage	adult stage	1982
+355	primary pore canal	325	E. tribuloides	4-arm pluteus larva stage	4-arm pluteus larva stage	1983
+356	hydropore	325	E. tribuloides	4-arm pluteus larva stage	adult stage	1984
+357	right axocoel	325	E. tribuloides			1985
+358	right hydrocoel	325	E. tribuloides			1986
+360	axial organ	325	E. tribuloides	early juvenile stage	adult stage	1987
+368	adult skeletogenic mesenchyme	325	E. tribuloides	early juvenile stage		1988
+370	ambulacra	325	E. tribuloides	8-arm pluteus larva stage	adult stage	1989
+371	interambulacra	325	E. tribuloides	8-arm pluteus larva stage	adult stage	1990
+373	appendage	325	E. tribuloides			1991
+382	podia	325	E. tribuloides	8-arm pluteus larva stage	adult stage	1992
+383	primary podia	325	E. tribuloides		late juvenile stage	1993
+388	spine	325	E. tribuloides	8-arm pluteus larva stage	adult stage	1994
+389	juvenile spine	325	E. tribuloides		late juvenile stage	1995
+390	definitive spine	325	E. tribuloides			1996
+393	adult mouth	325	E. tribuloides	late juvenile stage		1997
+394	adult anus	325	E. tribuloides	late juvenile stage		1998
+396	tooth	325	E. tribuloides	early juvenile stage	adult stage	1999
+397	madreporite	325	E. tribuloides	early juvenile stage		2000
+398	gonopore	325	E. tribuloides	early juvenile stage	adult stage	2001
+399	gonad	325	E. tribuloides	adult stage		2002
+400	ovary	325	E. tribuloides			2003
+401	testis	325	E. tribuloides			2004
+402	juvenile digestive tract	325	E. tribuloides	early juvenile stage	late juvenile stage	2005
+403	adult digestive tract	325	E. tribuloides	adult stage	adult stage	2006
+404	mesentery	325	E. tribuloides	early juvenile stage	adult stage	2007
+405	perivisceral cavity	325	E. tribuloides	early juvenile stage	adult stage	2008
+406	photosensory cell	325	E. tribuloides	early juvenile stage		2009
+489	embryonic territory	325	E. tribuloides	16-cell stage	open mouth stage	2535
+490	adult organism	325	E. tribuloides	adult stage		2536
+491	embryonic muscular system	325	E. tribuloides	early pluteus stage	open mouth stage	2537
+492	extracellular matrix	325	E. tribuloides	1-cell stage	adult stage	2538
+493	blastomere of 8-cell embryo	325	E. tribuloides	8-cell stage	8-cell stage	2539
+494	blastomere of 16-cell embryo	325	E. tribuloides	16-cell stage	16-cell stage	2540
+495	presumptive animal pole domain neuron	325	E. tribuloides	vegetal plate stage	late gastrula stage	2541
+496	presumptive ectoderm neuron	325	E. tribuloides	vegetal plate stage	late prism stage	2542
+497	presumptive ciliary band neuron	325	E. tribuloides	early prism stage	late prism stage	2543
+498	presumptive endoderm-associated neuron	325	E. tribuloides	late gastrula stage	late gastrula stage	2544
+499	postoral neuron	325	E. tribuloides	early prism stage	larval development	2545
+500	presumptive postoral neuron	325	E. tribuloides	mesenchyme blastula stage	late gastrula stage	2546
+501	synaptotagmin-B-expressing neuron	325	E. tribuloides	late gastrula stage	adulthood	2547
+502	nitric oxide synthase-expressing neuron	325	E. tribuloides	larval development	adulthood	2548
+503	cholinergic neuron	325	E. tribuloides	early pluteus stage	adulthood	2549
+504	catecholaminergic/cholinergic neuron	325	E. tribuloides	early pluteus stage	larval development	2550
+505	endoderm-associated neuron	325	E. tribuloides	early prism stage	larval development	2551
+506	lateral ganglion	325	E. tribuloides	late prism stage	larval development	2552
+507	right lateral ganglion	325	E. tribuloides			2553
+508	left lateral ganglion	325	E. tribuloides			2554
+509	presumptive ventral ectoderm	325	E. tribuloides	60-cell stage	mid-gastrula stage	2555
+510	presumptive dorsal ectoderm	325	E. tribuloides	vegetal plate stage	mid-gastrula stage	2556
+511	anterior neuroectoderm	325	E. tribuloides	60-cell stage	mesenchyme blastula stage	2557
+512	equatorial ectoderm	325	E. tribuloides	60-cell stage	mesenchyme blastula stage	2558
+513	inner anterior neuroectoderm	325	E. tribuloides	mesenchyme blastula stage	late prism stage	2559
+514	outer anterior neuroectoderm	325	E. tribuloides	mesenchyme blastula stage	late prism stage	2560
+515	central ventral ectoderm	325	E. tribuloides	vegetal plate stage	late gastrula stage	2561
+516	near apical ectoderm	325	E. tribuloides	vegetal plate stage	late gastrula stage	2562
+517	lateral border ectoderm	325	E. tribuloides	mesenchyme blastula stage	early prism stage	2563
+518	ventral border ectoderm	325	E. tribuloides	mesenchyme blastula stage	early prism stage	2564
+519	dorsal border ectoderm	325	E. tribuloides	mesenchyme blastula stage	early prism stage	2565
+520	animal lateral ectoderm	325	E. tribuloides	mesenchyme blastula stage	early gastrula stage	2566
+521	right animal lateral ectoderm	325	E. tribuloides	mesenchyme blastula stage	early gastrula stage	2567
+522	left animal lateral ectoderm	325	E. tribuloides	mesenchyme blastula stage	early gastrula stage	2568
+523	postoral arm tip ectoderm	325	E. tribuloides	late prism stage	larval development	2569
+524	right postoral arm tip ectoderm	325	E. tribuloides	late prism stage	larval development	2570
+525	left postoral arm tip ectoderm	325	E. tribuloides	late prism stage	larval development	2571
+526	presumptive ciliary band	325	E. tribuloides	mesenchyme blastula stage	early pluteus stage	2572
+527	arm	325	E. tribuloides	open mouth stage	larval development	2573
+528	anterolateral arm	325	E. tribuloides	larval development		2574
+529	postoral arm	325	E. tribuloides			2575
+530	anterolateral rod	325	E. tribuloides	late prism stage	larval development	2576
+531	postoral rod	325	E. tribuloides	early prism stage	larval development	2577
+532	dorsoventral connecting rod	325	E. tribuloides		larval development	2578
+533	ventral transverse rod	325	E. tribuloides		larval development	2579
+534	distal tip of body rod	325	E. tribuloides	early prism stage	larval development	2580
+535	distal tip of right body rod	325	E. tribuloides	early prism stage	larval development	2581
+536	distal tip of left body rod	325	E. tribuloides	early prism stage	larval development	2582
+537	recurrent rod	325	E. tribuloides	late prism stage	larval development	2583
+538	presumptive embryonic skeletogenic mesoderm	325	E. tribuloides	32-cell stage	vegetal plate stage	2584
+539	ventrolateral skeletogenic mesenchyme cluster	325	E. tribuloides	mid-gastrula stage	early prism stage	2585
+540	presumptive embryonic non-skeletogenic mesoderm	325	E. tribuloides	late blastula stage	early prism stage	2586
+541	ventral presumptive embryonic non-skeletogenic mesoderm	325	E. tribuloides	vegetal plate stage	early gastrula stage	2587
+542	dorsal presumptive embryonic non-skeletogenic mesoderm	325	E. tribuloides	vegetal plate stage	early gastrula stage	2588
+543	presumptive muscle cell	325	E. tribuloides	early prism stage	larval development	2589
+544	muscle cell	325	E. tribuloides	early pluteus stage	adulthood	2590
+545	presumptive blastocoel	325	E. tribuloides	28-cell stage	60-cell stage	2591
+546	pyloric sphincter muscle cell	325	E. tribuloides	open mouth stage	larval development	2592
+547	cardiac sphincter muscle cell	325	E. tribuloides	early pluteus stage	larval development	2593
+548	anal sphincter muscle cell	325	E. tribuloides	early pluteus stage	larval development	2594
+549	primary pore canal rudiment	325	E. tribuloides	open mouth stage	larval development	2595
+550	posterior enterocoel	325	E. tribuloides	late organogenesis stage	larval development	2596
+551	left anterior coelomic pouch	325	E. tribuloides	mid-organogenesis stage	larval development	2597
+552	right anterior coelomic pouch	325	E. tribuloides	mid-organogenesis stage	larval development	2598
+553	preoral ciliary band	325	E. tribuloides	open mouth stage	larval development	2599
+554	postoral ciliary band	325	E. tribuloides	open mouth stage	larval development	2600
+1	root node	336	L. variegatus			2010
+2	life cycle period	336	L. variegatus			2011
+3	echinoderm anatomy	336	L. variegatus			2012
+4	anatomical structure	336	L. variegatus			2013
+5	anatomical system	336	L. variegatus			2014
+6	anatomical region	336	L. variegatus			2015
+7	anatomical space	336	L. variegatus			2016
+8	whole organism	336	L. variegatus	previtellogenic primary oocyte stage	adult stage	2017
+9	multicellular organism	336	L. variegatus	2-cell stage	adult stage	2018
+10	embryo	336	L. variegatus	1-cell stage	prism stage	2019
+11	larva	336	L. variegatus	early pluteus larva stage	metamorphic larva stage	2020
+12	juvenile	336	L. variegatus	early juvenile stage	late juvenile stage	2021
+13	adult	336	L. variegatus	adult stage		2022
+14	digestive system	336	L. variegatus	blastopore formation stage	adult stage	2023
+15	embryonic digestive system	336	L. variegatus		prism stage	2024
+16	larval digestive system	336	L. variegatus	early pluteus larva stage	metamorphic larva stage	2025
+17	juvenile digestive system	336	L. variegatus	early juvenile stage	late juvenile stage	2026
+18	adult digestive system	336	L. variegatus	adult stage		2027
+19	immune system	336	L. variegatus	late gastrula stage	adult stage	2028
+20	embryonic immune system	336	L. variegatus		prism stage	2029
+21	larval immune system	336	L. variegatus	early pluteus larva stage	metamorphic larva stage	2030
+22	juvenile immune system	336	L. variegatus	early juvenile stage	late juvenile stage	2031
+23	adult immune system	336	L. variegatus	adult stage		2032
+24	reproductive system	336	L. variegatus	early juvenile stage	adult stage	2033
+25	nervous system	336	L. variegatus	mesenchyme blastula phase	adult stage	2034
+26	embryonic nervous system	336	L. variegatus		prism stage	2035
+27	larval nervous system	336	L. variegatus	early pluteus larva stage	competent pluteus larva stage	2036
+28	juvenile nervous system	336	L. variegatus	early juvenile stage	late juvenile stage	2037
+29	adult nervous system	336	L. variegatus	adult stage		2038
+30	muscular system	336	L. variegatus	early pluteus larva stage	adult stage	2039
+31	larval muscular system	336	L. variegatus		metamorphic larva stage	2040
+32	juvenile muscular system	336	L. variegatus	early juvenile stage	late juvenile stage	2041
+33	adult muscular system	336	L. variegatus	adult stage		2042
+34	endoskeleton	336	L. variegatus	mid-gastrula stage	adult stage	2043
+37	rudiment endoskeleton	336	L. variegatus	8-arm pluteus larva stage	metamorphic larva stage	2044
+38	juvenile endoskeleton	336	L. variegatus	early juvenile stage	late juvenile stage	2045
+39	adult endoskeleton	336	L. variegatus	adult stage		2046
+40	water vascular system	336	L. variegatus	6-arm pluteus larva stage	adult stage	2047
+41	hemal system	336	L. variegatus	8-arm pluteus larva stage	adult stage	2048
+42	animal hemisphere	336	L. variegatus	mature oocyte stage	late swimming blastula stage	2049
+43	vegetal hemisphere	336	L. variegatus	mature oocyte stage	late swimming blastula stage	2050
+44	cell cortex	336	L. variegatus	mature oocyte stage		2051
+45	cleavage furrow	336	L. variegatus	1-cell stage		2052
+46	animal cortex	336	L. variegatus	fully grown oocyte with centered germinal vesicle stage	1-cell stage	2053
+47	vegetal cortex	336	L. variegatus	fully grown oocyte with centered germinal vesicle stage	1-cell stage	2054
+48	animal pole	336	L. variegatus	fully grown oocyte with centered germinal vesicle stage	prism stage	2055
+49	vegetal pole	336	L. variegatus	fully grown oocyte with centered germinal vesicle stage	prism stage	2056
+50	animal pole domain	336	L. variegatus	very early blastula stage	prism stage	2057
+51	blastopore	336	L. variegatus	blastopore formation stage	prism stage	2058
+52	blastopore lip	336	L. variegatus	blastopore formation stage		2059
+54	embryonic cell	336	L. variegatus	2-cell stage	prism stage	2060
+55	vegetal plate	336	L. variegatus	swimming blastula stage	late mesenchyme blastula stage	2061
+56	cell	336	L. variegatus	previtellogenic primary oocyte stage	adult stage	2062
+57	cell part	336	L. variegatus	previtellogenic primary oocyte stage	adult stage	2063
+58	digestive system element	336	L. variegatus	blastopore formation stage	adult stage	2064
+59	skeletal element	336	L. variegatus	mid-gastrula stage	adult stage	2065
+60	embryonic structure	336	L. variegatus	1-cell stage	prism stage	2066
+61	larval structure	336	L. variegatus	early pluteus larva stage	metamorphic larva stage	2067
+62	juvenile structure	336	L. variegatus	early juvenile stage	late juvenile stage	2068
+63	adult structure	336	L. variegatus	early juvenile stage	adult stage	2069
+64	tissue	336	L. variegatus	60-cell stage	adult stage	2070
+65	rudiment	336	L. variegatus	6-arm pluteus larva stage	metamorphic larva stage	2071
+66	rudiment structure	336	L. variegatus	6-arm pluteus larva stage	metamorphic larva stage	2072
+67	non-rudiment adult structure	336	L. variegatus	6-arm pluteus larva stage	metamorphic larva stage	2073
+68	intracellular part	336	L. variegatus			2074
+69	cytoskeleton	336	L. variegatus			2075
+70	microtubule	336	L. variegatus			2076
+71	nucleus	336	L. variegatus	mature oocyte stage		2077
+72	oocyte	336	L. variegatus	oogenesis period	oogenesis period	2078
+73	germinal vesicle	336	L. variegatus	not fully grown oocyte stage	fully grown oocyte with off-centered germinal vesicle stage	2079
+74	equatorial pigment band	336	L. variegatus	fully grown oocyte with centered germinal vesicle stage	prism stage	2080
+75	cytoplasm	336	L. variegatus	not fully grown oocyte stage		2081
+76	centrosome	336	L. variegatus	fully grown oocyte with off-centered germinal vesicle stage		2082
+77	mitotic spindle	336	L. variegatus	1-cell stage		2083
+78	meiotic spindle	336	L. variegatus	fully grown oocyte with off-centered germinal vesicle stage	fully grown oocyte with off-centered germinal vesicle stage	2084
+79	fertilization envelope	336	L. variegatus	1-cell stage	hatched blastula stage	2085
+80	spermatozoid	336	L. variegatus	spermatogenesis period	spermatogenesis period	2086
+81	aster	336	L. variegatus	fully grown oocyte with off-centered germinal vesicle stage		2087
+82	sperm aster	336	L. variegatus	mature spermatozoid stage	mature spermatozoid stage	2088
+83	acellular membrane	336	L. variegatus	mature oocyte stage	mature oocyte stage	2089
+84	vitelline membrane	336	L. variegatus			2090
+85	hyaline layer	336	L. variegatus	1-cell stage	prism stage	2091
+86	microvillus	336	L. variegatus	1-cell stage	1-cell stage	2092
+88	secretory vesicle	336	L. variegatus	1-cell stage	1-cell stage	2093
+89	cilium	336	L. variegatus	late blastula stage	adult stage	2094
+90	filopodium	336	L. variegatus	early mesenchyme blastula stage	late gastrula stage	2095
+91	basal lamina	336	L. variegatus		4-arm pluteus larva stage	2096
+94	cortical granule	336	L. variegatus	mature oocyte stage		2097
+96	mitochondrion	336	L. variegatus			2098
+97	actin cytoskeleton	336	L. variegatus			2099
+98	actin filament	336	L. variegatus			2100
+99	nuclear part	336	L. variegatus	mature oocyte stage		2101
+100	nucleoplasm	336	L. variegatus			2102
+101	nuclear envelope	336	L. variegatus			2103
+102	endoplasmic reticulum	336	L. variegatus			2104
+103	spermatozoid entry point	336	L. variegatus	mature oocyte stage	1-cell stage	2105
+104	plasma membrane	336	L. variegatus			2106
+105	polar body	336	L. variegatus	fully grown oocyte with off-centered germinal vesicle stage	fully grown oocyte with no nucleus stage	2107
+106	spermatozoid part	336	L. variegatus	spermatogenesis period	spermatogenesis period	2108
+107	spermatozoid head	336	L. variegatus			2109
+108	spermatozoid flagellum	336	L. variegatus			2110
+109	acrosomal vesicle	336	L. variegatus	spermatogenesis period	spermatogenesis period	2111
+111	presumptive primordial germ cell	336	L. variegatus	32-cell stage	metamorphic larva stage	2112
+112	primordial germ cell	336	L. variegatus	early juvenile stage		2113
+113	germ cell	336	L. variegatus	adult stage		2114
+114	gamete	336	L. variegatus	gametogenesis	gametogenesis	2115
+115	immature occyte	336	L. variegatus		fully grown oocyte with no nucleus stage	2116
+116	mature oocyte	336	L. variegatus	mature oocyte stage	mature oocyte stage	2117
+117	blastomere	336	L. variegatus		60-cell stage	2118
+118	blastomere of 2-cell embryo	336	L. variegatus		2-cell stage	2119
+119	blastomere of 4-cell embryo	336	L. variegatus	4-cell stage	4-cell stage	2120
+122	cell tier	336	L. variegatus	8-cell stage	late blastula stage	2121
+128	presumptive neuron	336	L. variegatus	mesenchyme blastula phase	adult stage	2122
+129	animal pole domain presumptive neuron	336	L. variegatus	mesenchyme blastula phase	prism stage	2123
+130	ectoderm presumptive neuron	336	L. variegatus	mesenchyme blastula phase	prism stage	2124
+131	ciliary band presumptive neuron	336	L. variegatus	mesenchyme blastula phase	competent pluteus larva stage	2125
+133	neuron	336	L. variegatus	early pluteus larva stage	adult stage	2126
+134	larval neuron	336	L. variegatus	early pluteus larva stage	competent pluteus larva stage	2127
+135	serotonergic neuron	336	L. variegatus	early pluteus larva stage	competent pluteus larva stage	2128
+139	sensory neuron	336	L. variegatus			2129
+142	neural structure	336	L. variegatus	prism stage	adult stage	2130
+143	axon tract	336	L. variegatus	early pluteus larva stage	adult stage	2131
+144	ciliary band neuron	336	L. variegatus	early pluteus larva stage	competent pluteus larva stage	2132
+145	ectoderm	336	L. variegatus	60-cell stage	metamorphic larva stage	2133
+146	presumptive ciliary band cell	336	L. variegatus	late blastula stage	late gastrula stage	2134
+148	ganglion	336	L. variegatus			2135
+149	apical ganglion	336	L. variegatus	early pluteus larva stage	competent pluteus larva stage	2136
+150	adult neuron	336	L. variegatus	8-arm pluteus larva stage		2137
+151	circumoral nerve ring	336	L. variegatus	8-arm pluteus larva stage		2138
+152	enteric nerve plexus	336	L. variegatus	late juvenile stage		2139
+153	radial nerve cord	336	L. variegatus	8-arm pluteus larva stage		2140
+154	primary podia associated neuron	336	L. variegatus		late juvenile stage	2141
+155	secondary podia associated neuron	336	L. variegatus	early juvenile stage		2142
+156	definitive spine associated neuron	336	L. variegatus			2143
+157	pedicellaria associated neuron	336	L. variegatus			2144
+158	basiepidermal nerve plexus	336	L. variegatus	8-arm pluteus larva stage		2145
+159	animal quartet	336	L. variegatus		8-cell stage	2146
+160	vegetal quartet	336	L. variegatus		8-cell stage	2147
+169	germ layer	336	L. variegatus	early mesenchyme blastula stage		2148
+170	embryonic tissue	336	L. variegatus	16-cell stage	prism stage	2149
+171	presumptive ectoderm	336	L. variegatus	16-cell stage	swimming blastula stage	2150
+174	ventral ectoderm	336	L. variegatus	60-cell stage	competent pluteus larva stage	2151
+175	dorsal ectoderm	336	L. variegatus	60-cell stage	competent pluteus larva stage	2152
+176	ectoendoderm	336	L. variegatus	60-cell stage	hatched blastula stage	2153
+177	endomesoderm	336	L. variegatus	60-cell stage	hatched blastula stage	2154
+192	apical tuft	336	L. variegatus	hatched blastula stage	prism stage	2155
+193	larval tissue	336	L. variegatus	early pluteus larva stage	competent pluteus larva stage	2156
+194	rudiment tissue	336	L. variegatus	6-arm pluteus larva stage	metamorphic larva stage	2157
+195	juvenile tissue	336	L. variegatus	early juvenile stage	late juvenile stage	2158
+196	adult tissue	336	L. variegatus	early juvenile stage		2159
+197	presumptive stomodeum	336	L. variegatus	mesenchyme blastula phase		2160
+198	stomodeum	336	L. variegatus	prism stage		2161
+199	ciliary band	336	L. variegatus	mesenchyme blastula phase	competent pluteus larva stage	2162
+224	skeletal rod	336	L. variegatus	late gastrula stage	early juvenile stage	2163
+251	mouth	336	L. variegatus	early pluteus larva stage	adult stage	2164
+252	larval mouth	336	L. variegatus		competent pluteus larva stage	2165
+253	anus	336	L. variegatus	early pluteus larva stage	adult stage	2166
+254	larval anus	336	L. variegatus		competent pluteus larva stage	2167
+255	presumptive endoderm	336	L. variegatus	early blastula stage	swimming blastula stage	2168
+256	endoderm	336	L. variegatus	late swimming blastula stage	competent pluteus larva stage	2169
+257	archenteron	336	L. variegatus	blastopore formation stage	early pluteus larva stage	2170
+258	hindgut	336	L. variegatus	late gastrula stage	prism stage	2171
+259	dorsal hindgut	336	L. variegatus	late gastrula stage	prism stage	2172
+260	ventral hindgut	336	L. variegatus	late gastrula stage	prism stage	2173
+261	midgut	336	L. variegatus	mid-gastrula stage	prism stage	2174
+262	ventral midgut	336	L. variegatus	mid-gastrula stage	prism stage	2175
+263	dorsal midgut	336	L. variegatus	mid-gastrula stage	prism stage	2176
+264	anterior midgut	336	L. variegatus	mid-gastrula stage	prism stage	2177
+265	posterior midgut	336	L. variegatus	mid-gastrula stage	prism stage	2178
+266	anterior hindgut	336	L. variegatus	late gastrula stage	prism stage	2179
+267	posterior hindgut	336	L. variegatus	late gastrula stage	prism stage	2180
+268	foregut	336	L. variegatus	mid-gastrula stage	prism stage	2181
+269	ventral foregut	336	L. variegatus	mid-gastrula stage	prism stage	2182
+270	dorsal foregut	336	L. variegatus	mid-gastrula stage	prism stage	2183
+271	anterior foregut	336	L. variegatus	mid-gastrula stage	prism stage	2184
+272	posterior foregut	336	L. variegatus	mid-gastrula stage	prism stage	2185
+273	tip of archenteron	336	L. variegatus	early gastrula stage	prism stage	2186
+274	presumptive mesoderm	336	L. variegatus	16-cell stage	swimming blastula stage	2187
+275	mesoderm	336	L. variegatus	16-cell stage	competent pluteus larva stage	2188
+288	embryonic non-skeletogenic mesoderm	336	L. variegatus	late swimming blastula stage	late gastrula stage	2189
+291	embryonic non-skeletogenic mesenchyme	336	L. variegatus	early gastrula stage	prism stage	2190
+292	embryonic non-skeletogenic mesenchyme cell	336	L. variegatus	early gastrula stage	prism stage	2191
+293	larval non-skeletogenic mesenchyme	336	L. variegatus	early pluteus larva stage	competent pluteus larva stage	2192
+294	larval non-skeletogenic mesenchyme cell	336	L. variegatus	early pluteus larva stage	competent pluteus larva stage	2193
+296	presumptive pigment cell	336	L. variegatus	mesenchyme blastula phase	late gastrula stage	2194
+297	pigment cell	336	L. variegatus	early gastrula stage	late juvenile stage	2195
+299	larval pigment cell	336	L. variegatus	early pluteus larva stage	metamorphic larva stage	2196
+300	juvenile pigment cell	336	L. variegatus	early juvenile stage		2197
+301	rudiment pigment cell	336	L. variegatus	8-arm pluteus larva stage	metamorphic larva stage	2198
+306	amoeboid cell	336	L. variegatus	early pluteus larva stage		2199
+307	muscle precursor cell	336	L. variegatus	late gastrula stage	early pluteus larva stage	2200
+308	muscle	336	L. variegatus			2201
+309	larval muscle	336	L. variegatus			2202
+310	rudiment muscle	336	L. variegatus	8-arm pluteus larva stage		2203
+311	juvenile muscle	336	L. variegatus			2204
+312	adult muscle	336	L. variegatus	adult stage		2205
+313	blastocoel	336	L. variegatus	very early blastula stage	prism stage	2206
+314	sphincter	336	L. variegatus	prism stage		2207
+315	pyloric sphincter	336	L. variegatus	early pluteus larva stage	competent pluteus larva stage	2208
+316	cardiac sphincter	336	L. variegatus	4-arm pluteus larva stage	competent pluteus larva stage	2209
+317	anal sphincter	336	L. variegatus	4-arm pluteus larva stage	competent pluteus larva stage	2210
+318	sphincter muscle	336	L. variegatus	4-arm pluteus larva stage		2211
+319	sphincter muscle cell	336	L. variegatus	4-arm pluteus larva stage		2212
+320	pyloric sphincteric muscle	336	L. variegatus		competent pluteus larva stage	2213
+321	cardiac sphincteric muscle	336	L. variegatus		competent pluteus larva stage	2214
+322	anal sphincteric muscle	336	L. variegatus		competent pluteus larva stage	2215
+323	larval esophagus	336	L. variegatus	early pluteus larva stage	competent pluteus larva stage	2216
+324	circumesophageal muscle	336	L. variegatus	4-arm pluteus larva stage		2217
+325	circumesophageal muscle cell	336	L. variegatus	4-arm pluteus larva stage	competent pluteus larva stage	2218
+326	larval stomach	336	L. variegatus	4-arm pluteus larva stage	competent pluteus larva stage	2219
+327	larval intestine	336	L. variegatus	4-arm pluteus larva stage	competent pluteus larva stage	2220
+330	coelom	336	L. variegatus	prism stage	adult stage	2221
+331	unpaired coelomic pouch	336	L. variegatus		prism stage	2222
+332	right coelomic pouch	336	L. variegatus	early pluteus larva stage	6-arm pluteus larva stage	2223
+333	left coelomic pouch	336	L. variegatus	early pluteus larva stage	6-arm pluteus larva stage	2224
+334	right coelomic constriction	336	L. variegatus	early pluteus larva stage	6-arm pluteus larva stage	2225
+335	left coelomic constriction	336	L. variegatus	early pluteus larva stage	6-arm pluteus larva stage	2226
+336	larval epithelium	336	L. variegatus		metamorphic larva stage	2227
+338	oral epithelium	336	L. variegatus			2228
+339	aboral epithelium	336	L. variegatus			2229
+342	axocoel	336	L. variegatus	6-arm pluteus larva stage	8-arm pluteus larva stage	2230
+343	left axocoel	336	L. variegatus	8-arm pluteus larva stage	competent pluteus larva stage	2231
+344	axial coelom	336	L. variegatus	early juvenile stage		2232
+345	hydrocoel	336	L. variegatus	6-arm pluteus larva stage	8-arm pluteus larva stage	2233
+346	somatocoel	336	L. variegatus	6-arm pluteus larva stage	8-arm pluteus larva stage	2234
+347	left hydrocoel	336	L. variegatus			2235
+348	left somatocoel	336	L. variegatus			2236
+350	right somatocoel	336	L. variegatus			2237
+351	axial complex	336	L. variegatus	early juvenile stage	adult stage	2238
+352	stone canal	336	L. variegatus	8-arm pluteus larva stage	adult stage	2239
+353	ring canal	336	L. variegatus	8-arm pluteus larva stage	adult stage	2240
+354	radial canal	336	L. variegatus	8-arm pluteus larva stage	adult stage	2241
+355	primary pore canal	336	L. variegatus	4-arm pluteus larva stage	4-arm pluteus larva stage	2242
+356	hydropore	336	L. variegatus	4-arm pluteus larva stage	adult stage	2243
+357	right axocoel	336	L. variegatus			2244
+358	right hydrocoel	336	L. variegatus			2245
+360	axial organ	336	L. variegatus	early juvenile stage	adult stage	2246
+368	adult skeletogenic mesenchyme	336	L. variegatus	early juvenile stage		2247
+370	ambulacra	336	L. variegatus	8-arm pluteus larva stage	adult stage	2248
+371	interambulacra	336	L. variegatus	8-arm pluteus larva stage	adult stage	2249
+373	appendage	336	L. variegatus			2250
+382	podia	336	L. variegatus	8-arm pluteus larva stage	adult stage	2251
+383	primary podia	336	L. variegatus		late juvenile stage	2252
+388	spine	336	L. variegatus	8-arm pluteus larva stage	adult stage	2253
+389	juvenile spine	336	L. variegatus		late juvenile stage	2254
+390	definitive spine	336	L. variegatus			2255
+393	adult mouth	336	L. variegatus	late juvenile stage		2256
+394	adult anus	336	L. variegatus	late juvenile stage		2257
+396	tooth	336	L. variegatus	early juvenile stage	adult stage	2258
+397	madreporite	336	L. variegatus	early juvenile stage		2259
+398	gonopore	336	L. variegatus	early juvenile stage	adult stage	2260
+399	gonad	336	L. variegatus	adult stage		2261
+400	ovary	336	L. variegatus			2262
+401	testis	336	L. variegatus			2263
+402	juvenile digestive tract	336	L. variegatus	early juvenile stage	late juvenile stage	2264
+403	adult digestive tract	336	L. variegatus	adult stage	adult stage	2265
+404	mesentery	336	L. variegatus	early juvenile stage	adult stage	2266
+405	perivisceral cavity	336	L. variegatus	early juvenile stage	adult stage	2267
+406	photosensory cell	336	L. variegatus	early juvenile stage		2268
+489	embryonic territory	336	L. variegatus	16-cell stage	open mouth stage	2601
+490	adult organism	336	L. variegatus	adult stage		2602
+491	embryonic muscular system	336	L. variegatus	early pluteus stage	open mouth stage	2603
+492	extracellular matrix	336	L. variegatus	1-cell stage	adult stage	2604
+493	blastomere of 8-cell embryo	336	L. variegatus	8-cell stage	8-cell stage	2605
+494	blastomere of 16-cell embryo	336	L. variegatus	16-cell stage	16-cell stage	2606
+495	presumptive animal pole domain neuron	336	L. variegatus	vegetal plate stage	late gastrula stage	2607
+496	presumptive ectoderm neuron	336	L. variegatus	vegetal plate stage	late prism stage	2608
+497	presumptive ciliary band neuron	336	L. variegatus	early prism stage	late prism stage	2609
+498	presumptive endoderm-associated neuron	336	L. variegatus	late gastrula stage	late gastrula stage	2610
+499	postoral neuron	336	L. variegatus	early prism stage	larval development	2611
+500	presumptive postoral neuron	336	L. variegatus	mesenchyme blastula stage	late gastrula stage	2612
+501	synaptotagmin-B-expressing neuron	336	L. variegatus	late gastrula stage	adulthood	2613
+502	nitric oxide synthase-expressing neuron	336	L. variegatus	larval development	adulthood	2614
+503	cholinergic neuron	336	L. variegatus	early pluteus stage	adulthood	2615
+504	catecholaminergic/cholinergic neuron	336	L. variegatus	early pluteus stage	larval development	2616
+505	endoderm-associated neuron	336	L. variegatus	early prism stage	larval development	2617
+506	lateral ganglion	336	L. variegatus	late prism stage	larval development	2618
+507	right lateral ganglion	336	L. variegatus			2619
+508	left lateral ganglion	336	L. variegatus			2620
+509	presumptive ventral ectoderm	336	L. variegatus	60-cell stage	mid-gastrula stage	2621
+510	presumptive dorsal ectoderm	336	L. variegatus	vegetal plate stage	mid-gastrula stage	2622
+511	anterior neuroectoderm	336	L. variegatus	60-cell stage	mesenchyme blastula stage	2623
+512	equatorial ectoderm	336	L. variegatus	60-cell stage	mesenchyme blastula stage	2624
+513	inner anterior neuroectoderm	336	L. variegatus	mesenchyme blastula stage	late prism stage	2625
+514	outer anterior neuroectoderm	336	L. variegatus	mesenchyme blastula stage	late prism stage	2626
+515	central ventral ectoderm	336	L. variegatus	vegetal plate stage	late gastrula stage	2627
+516	near apical ectoderm	336	L. variegatus	vegetal plate stage	late gastrula stage	2628
+517	lateral border ectoderm	336	L. variegatus	mesenchyme blastula stage	early prism stage	2629
+518	ventral border ectoderm	336	L. variegatus	mesenchyme blastula stage	early prism stage	2630
+519	dorsal border ectoderm	336	L. variegatus	mesenchyme blastula stage	early prism stage	2631
+520	animal lateral ectoderm	336	L. variegatus	mesenchyme blastula stage	early gastrula stage	2632
+521	right animal lateral ectoderm	336	L. variegatus	mesenchyme blastula stage	early gastrula stage	2633
+522	left animal lateral ectoderm	336	L. variegatus	mesenchyme blastula stage	early gastrula stage	2634
+523	postoral arm tip ectoderm	336	L. variegatus	late prism stage	larval development	2635
+524	right postoral arm tip ectoderm	336	L. variegatus	late prism stage	larval development	2636
+525	left postoral arm tip ectoderm	336	L. variegatus	late prism stage	larval development	2637
+526	presumptive ciliary band	336	L. variegatus	mesenchyme blastula stage	early pluteus stage	2638
+527	arm	336	L. variegatus	open mouth stage	larval development	2639
+528	anterolateral arm	336	L. variegatus	larval development		2640
+529	postoral arm	336	L. variegatus			2641
+530	anterolateral rod	336	L. variegatus	late prism stage	larval development	2642
+531	postoral rod	336	L. variegatus	early prism stage	larval development	2643
+532	dorsoventral connecting rod	336	L. variegatus		larval development	2644
+533	ventral transverse rod	336	L. variegatus		larval development	2645
+534	distal tip of body rod	336	L. variegatus	early prism stage	larval development	2646
+535	distal tip of right body rod	336	L. variegatus	early prism stage	larval development	2647
+536	distal tip of left body rod	336	L. variegatus	early prism stage	larval development	2648
+537	recurrent rod	336	L. variegatus	late prism stage	larval development	2649
+538	presumptive embryonic skeletogenic mesoderm	336	L. variegatus	32-cell stage	vegetal plate stage	2650
+539	ventrolateral skeletogenic mesenchyme cluster	336	L. variegatus	mid-gastrula stage	early prism stage	2651
+540	presumptive embryonic non-skeletogenic mesoderm	336	L. variegatus	late blastula stage	early prism stage	2652
+541	ventral presumptive embryonic non-skeletogenic mesoderm	336	L. variegatus	vegetal plate stage	early gastrula stage	2653
+542	dorsal presumptive embryonic non-skeletogenic mesoderm	336	L. variegatus	vegetal plate stage	early gastrula stage	2654
+543	presumptive muscle cell	336	L. variegatus	early prism stage	larval development	2655
+544	muscle cell	336	L. variegatus	early pluteus stage	adulthood	2656
+545	presumptive blastocoel	336	L. variegatus	28-cell stage	60-cell stage	2657
+546	pyloric sphincter muscle cell	336	L. variegatus	open mouth stage	larval development	2658
+547	cardiac sphincter muscle cell	336	L. variegatus	early pluteus stage	larval development	2659
+548	anal sphincter muscle cell	336	L. variegatus	early pluteus stage	larval development	2660
+549	primary pore canal rudiment	336	L. variegatus	open mouth stage	larval development	2661
+550	posterior enterocoel	336	L. variegatus	late organogenesis stage	larval development	2662
+551	left anterior coelomic pouch	336	L. variegatus	mid-organogenesis stage	larval development	2663
+552	right anterior coelomic pouch	336	L. variegatus	mid-organogenesis stage	larval development	2664
+553	preoral ciliary band	336	L. variegatus	open mouth stage	larval development	2665
+554	postoral ciliary band	336	L. variegatus	open mouth stage	larval development	2666
+1	root node	539	P. lividus			416
+2	life cycle period	539	P. lividus			417
+3	echinoderm anatomy	539	P. lividus			418
+4	anatomical structure	539	P. lividus			419
+5	anatomical system	539	P. lividus			420
+6	anatomical region	539	P. lividus			421
+7	anatomical space	539	P. lividus			422
+8	whole organism	539	P. lividus	previtellogenic primary oocyte stage	adult stage	423
+9	multicellular organism	539	P. lividus	2-cell stage	adult stage	424
+10	embryo	539	P. lividus	1-cell stage	prism stage	425
+11	larva	539	P. lividus	early pluteus larva stage	metamorphic larva stage	426
+12	juvenile	539	P. lividus	early juvenile stage	late juvenile stage	427
+13	adult	539	P. lividus	adult stage		428
+14	digestive system	539	P. lividus	blastopore formation stage	adult stage	429
+15	embryonic digestive system	539	P. lividus		prism stage	430
+16	larval digestive system	539	P. lividus	early pluteus larva stage	metamorphic larva stage	431
+17	juvenile digestive system	539	P. lividus	early juvenile stage	late juvenile stage	432
+18	adult digestive system	539	P. lividus	adult stage		433
+19	immune system	539	P. lividus	late gastrula stage	adult stage	434
+20	embryonic immune system	539	P. lividus		prism stage	435
+21	larval immune system	539	P. lividus	early pluteus larva stage	metamorphic larva stage	436
+22	juvenile immune system	539	P. lividus	early juvenile stage	late juvenile stage	437
+23	adult immune system	539	P. lividus	adult stage		438
+24	reproductive system	539	P. lividus	early juvenile stage	adult stage	439
+25	nervous system	539	P. lividus	mesenchyme blastula phase	adult stage	440
+26	embryonic nervous system	539	P. lividus		prism stage	441
+27	larval nervous system	539	P. lividus	early pluteus larva stage	competent pluteus larva stage	442
+28	juvenile nervous system	539	P. lividus	early juvenile stage	late juvenile stage	443
+29	adult nervous system	539	P. lividus	adult stage		444
+30	muscular system	539	P. lividus	early pluteus larva stage	adult stage	445
+31	larval muscular system	539	P. lividus		metamorphic larva stage	446
+32	juvenile muscular system	539	P. lividus	early juvenile stage	late juvenile stage	447
+33	adult muscular system	539	P. lividus	adult stage		448
+34	endoskeleton	539	P. lividus	mid-gastrula stage	adult stage	449
+35	embryonic endoskeleton	539	P. lividus		prism stage	450
+36	larval endoskeleton	539	P. lividus	early pluteus larva stage	metamorphic larva stage	451
+37	rudiment endoskeleton	539	P. lividus	8-arm pluteus larva stage	metamorphic larva stage	452
+38	juvenile endoskeleton	539	P. lividus	early juvenile stage	late juvenile stage	453
+39	adult endoskeleton	539	P. lividus	adult stage		454
+40	water vascular system	539	P. lividus	6-arm pluteus larva stage	adult stage	455
+41	hemal system	539	P. lividus	8-arm pluteus larva stage	adult stage	456
+42	animal hemisphere	539	P. lividus	mature oocyte stage	late swimming blastula stage	457
+43	vegetal hemisphere	539	P. lividus	mature oocyte stage	late swimming blastula stage	458
+44	cell cortex	539	P. lividus	mature oocyte stage		459
+45	cleavage furrow	539	P. lividus	1-cell stage		460
+46	animal cortex	539	P. lividus	fully grown oocyte with centered germinal vesicle stage	1-cell stage	461
+47	vegetal cortex	539	P. lividus	fully grown oocyte with centered germinal vesicle stage	1-cell stage	462
+48	animal pole	539	P. lividus	fully grown oocyte with centered germinal vesicle stage	prism stage	463
+49	vegetal pole	539	P. lividus	fully grown oocyte with centered germinal vesicle stage	prism stage	464
+50	animal pole domain	539	P. lividus	very early blastula stage	prism stage	465
+51	blastopore	539	P. lividus	blastopore formation stage	prism stage	466
+52	blastopore lip	539	P. lividus	blastopore formation stage		467
+53	bottle cell	539	P. lividus	blastopore formation stage	blastopore formation stage	468
+54	embryonic cell	539	P. lividus	2-cell stage	prism stage	469
+55	vegetal plate	539	P. lividus	swimming blastula stage	late mesenchyme blastula stage	470
+56	cell	539	P. lividus	previtellogenic primary oocyte stage	adult stage	471
+57	cell part	539	P. lividus	previtellogenic primary oocyte stage	adult stage	472
+58	digestive system element	539	P. lividus	blastopore formation stage	adult stage	473
+59	skeletal element	539	P. lividus	mid-gastrula stage	adult stage	474
+60	embryonic structure	539	P. lividus	1-cell stage	prism stage	475
+61	larval structure	539	P. lividus	early pluteus larva stage	metamorphic larva stage	476
+62	juvenile structure	539	P. lividus	early juvenile stage	late juvenile stage	477
+63	adult structure	539	P. lividus	early juvenile stage	adult stage	478
+64	tissue	539	P. lividus	60-cell stage	adult stage	479
+65	rudiment	539	P. lividus	6-arm pluteus larva stage	metamorphic larva stage	480
+66	rudiment structure	539	P. lividus	6-arm pluteus larva stage	metamorphic larva stage	481
+67	non-rudiment adult structure	539	P. lividus	6-arm pluteus larva stage	metamorphic larva stage	482
+68	intracellular part	539	P. lividus			483
+69	cytoskeleton	539	P. lividus			484
+70	microtubule	539	P. lividus			485
+71	nucleus	539	P. lividus	mature oocyte stage		486
+72	oocyte	539	P. lividus	oogenesis period	oogenesis period	487
+73	germinal vesicle	539	P. lividus	not fully grown oocyte stage	fully grown oocyte with off-centered germinal vesicle stage	488
+74	equatorial pigment band	539	P. lividus	fully grown oocyte with centered germinal vesicle stage	prism stage	489
+75	cytoplasm	539	P. lividus	not fully grown oocyte stage		490
+76	centrosome	539	P. lividus	fully grown oocyte with off-centered germinal vesicle stage		491
+77	mitotic spindle	539	P. lividus	1-cell stage		492
+78	meiotic spindle	539	P. lividus	fully grown oocyte with off-centered germinal vesicle stage	fully grown oocyte with off-centered germinal vesicle stage	493
+79	fertilization envelope	539	P. lividus	1-cell stage	hatched blastula stage	494
+80	spermatozoid	539	P. lividus	spermatogenesis period	spermatogenesis period	495
+81	aster	539	P. lividus	fully grown oocyte with off-centered germinal vesicle stage		496
+82	sperm aster	539	P. lividus	mature spermatozoid stage	mature spermatozoid stage	497
+83	acellular membrane	539	P. lividus	mature oocyte stage	mature oocyte stage	498
+84	vitelline membrane	539	P. lividus			499
+85	hyaline layer	539	P. lividus	1-cell stage	prism stage	500
+86	microvillus	539	P. lividus	1-cell stage	1-cell stage	501
+87	apical lamina	539	P. lividus	1-cell stage	prism stage	502
+88	secretory vesicle	539	P. lividus	1-cell stage	1-cell stage	503
+89	cilium	539	P. lividus	late blastula stage	adult stage	504
+90	filopodium	539	P. lividus	early mesenchyme blastula stage	late gastrula stage	505
+91	basal lamina	539	P. lividus		4-arm pluteus larva stage	506
+92	basal laminar vesicle	539	P. lividus	mature oocyte stage	4-arm pluteus larva stage	507
+93	apical vesicle	539	P. lividus	mature oocyte stage		508
+94	cortical granule	539	P. lividus	mature oocyte stage		509
+95	echinonectin vesicle	539	P. lividus	mature oocyte stage		510
+96	mitochondrion	539	P. lividus			511
+97	actin cytoskeleton	539	P. lividus			512
+98	actin filament	539	P. lividus			513
+99	nuclear part	539	P. lividus	mature oocyte stage		514
+100	nucleoplasm	539	P. lividus			515
+101	nuclear envelope	539	P. lividus			516
+102	endoplasmic reticulum	539	P. lividus			517
+103	spermatozoid entry point	539	P. lividus	mature oocyte stage	1-cell stage	518
+104	plasma membrane	539	P. lividus			519
+105	polar body	539	P. lividus	fully grown oocyte with off-centered germinal vesicle stage	fully grown oocyte with no nucleus stage	520
+106	spermatozoid part	539	P. lividus	spermatogenesis period	spermatogenesis period	521
+107	spermatozoid head	539	P. lividus			522
+108	spermatozoid flagellum	539	P. lividus			523
+109	acrosomal vesicle	539	P. lividus	spermatogenesis period	spermatogenesis period	524
+110	small micromere descendant cell	539	P. lividus	very early blastula stage	competent pluteus larva stage	525
+111	presumptive primordial germ cell	539	P. lividus	32-cell stage	metamorphic larva stage	526
+112	primordial germ cell	539	P. lividus	early juvenile stage		527
+113	germ cell	539	P. lividus	adult stage		528
+114	gamete	539	P. lividus	gametogenesis	gametogenesis	529
+115	immature occyte	539	P. lividus		fully grown oocyte with no nucleus stage	530
+116	mature oocyte	539	P. lividus	mature oocyte stage	mature oocyte stage	531
+117	blastomere	539	P. lividus		60-cell stage	532
+118	blastomere of 2-cell embryo	539	P. lividus		2-cell stage	533
+119	blastomere of 4-cell embryo	539	P. lividus	4-cell stage	4-cell stage	534
+120	mesomere	539	P. lividus	16-cell stage	16-cell stage	535
+121	macromere	539	P. lividus	16-cell stage	16-cell stage	536
+122	cell tier	539	P. lividus	8-cell stage	late blastula stage	537
+123	macromere daughter cell tier	539	P. lividus	28-cell stage	32-cell stage	538
+124	micromere	539	P. lividus	16-cell stage	28-cell stage	539
+125	large micromere	539	P. lividus	32-cell stage		540
+126	large micromere descendant cell	539	P. lividus	very early blastula stage	early mesenchyme blastula stage	541
+127	small micromere	539	P. lividus	32-cell stage		542
+128	presumptive neuron	539	P. lividus	mesenchyme blastula phase	adult stage	543
+129	animal pole domain presumptive neuron	539	P. lividus	mesenchyme blastula phase	prism stage	544
+130	ectoderm presumptive neuron	539	P. lividus	mesenchyme blastula phase	prism stage	545
+131	ciliary band presumptive neuron	539	P. lividus	mesenchyme blastula phase	competent pluteus larva stage	546
+132	endoderm associated presumptive neuron	539	P. lividus	late gastrula stage	competent pluteus larva stage	547
+133	neuron	539	P. lividus	early pluteus larva stage	adult stage	548
+134	larval neuron	539	P. lividus	early pluteus larva stage	competent pluteus larva stage	549
+135	serotonergic neuron	539	P. lividus	early pluteus larva stage	competent pluteus larva stage	550
+136	synaptotagmin-B neuron	539	P. lividus	early pluteus larva stage	adult stage	551
+137	dopaminergic neuron	539	P. lividus		metamorphic larva stage	552
+138	GABAergic neuron	539	P. lividus		metamorphic larva stage	553
+139	sensory neuron	539	P. lividus			554
+140	biopolar neuron	539	P. lividus			555
+141	multipolar neuron	539	P. lividus			556
+142	neural structure	539	P. lividus	prism stage	adult stage	557
+143	axon tract	539	P. lividus	early pluteus larva stage	adult stage	558
+144	ciliary band neuron	539	P. lividus	early pluteus larva stage	competent pluteus larva stage	559
+145	ectoderm	539	P. lividus	60-cell stage	metamorphic larva stage	560
+146	presumptive ciliary band cell	539	P. lividus	late blastula stage	late gastrula stage	561
+147	endoderm associated neuron	539	P. lividus	4-arm pluteus larva stage		562
+148	ganglion	539	P. lividus			563
+149	apical ganglion	539	P. lividus	early pluteus larva stage	competent pluteus larva stage	564
+150	adult neuron	539	P. lividus	8-arm pluteus larva stage		565
+151	circumoral nerve ring	539	P. lividus	8-arm pluteus larva stage		566
+152	enteric nerve plexus	539	P. lividus	late juvenile stage		567
+153	radial nerve cord	539	P. lividus	8-arm pluteus larva stage		568
+154	primary podia associated neuron	539	P. lividus		late juvenile stage	569
+155	secondary podia associated neuron	539	P. lividus	early juvenile stage		570
+156	definitive spine associated neuron	539	P. lividus			571
+157	pedicellaria associated neuron	539	P. lividus			572
+158	basiepidermal nerve plexus	539	P. lividus	8-arm pluteus larva stage		573
+159	animal quartet	539	P. lividus		8-cell stage	574
+160	vegetal quartet	539	P. lividus		8-cell stage	575
+161	animal tier 1	539	P. lividus	28-cell stage	60-cell stage	576
+162	animal tier 2	539	P. lividus	28-cell stage	60-cell stage	577
+163	vegetal tier 1	539	P. lividus	56-cell stage	early blastula stage	578
+164	vegetal tier 2	539	P. lividus	56-cell stage	early blastula stage	579
+165	vegetal tier 1 upper	539	P. lividus	mid-blastula stage		580
+166	vegetal tier 1 lower	539	P. lividus	mid-blastula stage		581
+167	vegetal tier 2 upper	539	P. lividus	mid-blastula stage		582
+168	vegetal tier 2 lower	539	P. lividus	mid-blastula stage		583
+169	germ layer	539	P. lividus	early mesenchyme blastula stage		584
+170	embryonic tissue	539	P. lividus	16-cell stage	prism stage	585
+171	presumptive ectoderm	539	P. lividus	16-cell stage	swimming blastula stage	586
+172	animal ectoderm	539	P. lividus	60-cell stage	hatched blastula stage	587
+173	vegetal ectoderm	539	P. lividus	early blastula stage	hatched blastula stage	588
+174	ventral ectoderm	539	P. lividus	60-cell stage	competent pluteus larva stage	589
+175	dorsal ectoderm	539	P. lividus	60-cell stage	competent pluteus larva stage	590
+176	ectoendoderm	539	P. lividus	60-cell stage	hatched blastula stage	591
+177	endomesoderm	539	P. lividus	60-cell stage	hatched blastula stage	592
+178	inner animal pole domain	539	P. lividus	mesenchyme blastula phase	prism stage	593
+179	outer animal pole domain	539	P. lividus	mesenchyme blastula phase	prism stage	594
+180	central ectoderm	539	P. lividus	late blastula stage	late gastrula stage	595
+181	border ectoderm	539	P. lividus	mesenchyme blastula phase	mesenchyme blastula phase	596
+182	near-apical ectoderm	539	P. lividus	mesenchyme blastula phase	invagination phase	597
+183	apical ectoderm	539	P. lividus	blastula period	prism stage	598
+184	veg1-lateral ectoderm	539	P. lividus	mesenchyme blastula phase	invagination phase	599
+185	veg-1 oral ectoderm	539	P. lividus	mesenchyme blastula phase	invagination phase	600
+186	lateral ectoderm	539	P. lividus	mesenchyme blastula phase	invagination phase	601
+187	right lateral ectoderm	539	P. lividus			602
+188	left lateral ectoderm	539	P. lividus			603
+189	arm tip ectoderm	539	P. lividus	early pluteus larva stage	competent pluteus larva stage	604
+190	dorsal arm tip ectoderm	539	P. lividus	early pluteus larva stage	competent pluteus larva stage	605
+191	ventral arm tip ectoderm	539	P. lividus	early pluteus larva stage	competent pluteus larva stage	606
+192	apical tuft	539	P. lividus	hatched blastula stage	prism stage	607
+193	larval tissue	539	P. lividus	early pluteus larva stage	competent pluteus larva stage	608
+194	rudiment tissue	539	P. lividus	6-arm pluteus larva stage	metamorphic larva stage	609
+195	juvenile tissue	539	P. lividus	early juvenile stage	late juvenile stage	610
+196	adult tissue	539	P. lividus	early juvenile stage		611
+197	presumptive stomodeum	539	P. lividus	mesenchyme blastula phase		612
+198	stomodeum	539	P. lividus	prism stage		613
+199	ciliary band	539	P. lividus	mesenchyme blastula phase	competent pluteus larva stage	614
+200	oral hood ciliary band	539	P. lividus		competent pluteus larva stage	615
+201	arm ciliary band	539	P. lividus		competent pluteus larva stage	616
+202	animal pole ciliary band	539	P. lividus	mesenchyme blastula phase		617
+203	vegetal ciliary band	539	P. lividus	mesenchyme blastula phase		618
+204	lateral ciliary band	539	P. lividus	mesenchyme blastula phase		619
+205	oral hood	539	P. lividus		competent pluteus larva stage	620
+206	apex	539	P. lividus		competent pluteus larva stage	621
+207	larval arm	539	P. lividus		competent pluteus larva stage	622
+208	right anterolateral arm	539	P. lividus	4-arm pluteus larva stage		623
+209	left anterolateral arm	539	P. lividus	4-arm pluteus larva stage		624
+210	right postoral arm	539	P. lividus			625
+211	left postoral arm	539	P. lividus			626
+212	right posterodorsal arm	539	P. lividus	6-arm pluteus larva stage		627
+213	left posterodorsal arm	539	P. lividus	6-arm pluteus larva stage		628
+214	right preoral arm	539	P. lividus	8-arm pluteus larva stage		629
+215	left preoral arm	539	P. lividus	8-arm pluteus larva stage		630
+216	spicule rudiment	539	P. lividus			631
+217	spicule granule	539	P. lividus			632
+218	triradiate spicule rudiment	539	P. lividus			633
+219	right ventrolateral triradiate spicule rudiment	539	P. lividus		late gastrula stage	634
+220	left ventrolateral triradiate spicule rudiment	539	P. lividus		late gastrula stage	635
+221	hexaradiate spicule rudiment	539	P. lividus	8-arm pluteus larva stage		636
+222	larval spicule	539	P. lividus	early pluteus larva stage		637
+223	embryonic skeletogenic mesenchyme	539	P. lividus	early mesenchyme blastula stage	prism stage	638
+224	skeletal rod	539	P. lividus	late gastrula stage	early juvenile stage	639
+225	anonymous rod	539	P. lividus	prism stage	competent pluteus larva stage	640
+226	right anonymous rod	539	P. lividus	prism stage	competent pluteus larva stage	641
+227	left anonymous rod	539	P. lividus	prism stage	competent pluteus larva stage	642
+228	right dorsoventral connecting rod	539	P. lividus	prism stage	competent pluteus larva stage	643
+229	right anterolateral rod	539	P. lividus	prism stage	competent pluteus larva stage	644
+230	left dorsoventral connecting rod	539	P. lividus	prism stage	competent pluteus larva stage	645
+231	left anterolateral rod	539	P. lividus	prism stage	competent pluteus larva stage	646
+232	right postoral rod	539	P. lividus	prism stage	competent pluteus larva stage	647
+233	left postoral rod	539	P. lividus	prism stage	competent pluteus larva stage	648
+234	right posterodorsal rod	539	P. lividus	6-arm pluteus larva stage	competent pluteus larva stage	649
+235	left posterodorsal rod	539	P. lividus	6-arm pluteus larva stage	competent pluteus larva stage	650
+236	dorsal arch	539	P. lividus	6-arm pluteus larva stage	competent pluteus larva stage	651
+237	right preoral rod	539	P. lividus	8-arm pluteus larva stage	competent pluteus larva stage	652
+238	left preoral rod	539	P. lividus	8-arm pluteus larva stage	competent pluteus larva stage	653
+239	right ventral transverse rod	539	P. lividus	prism stage	competent pluteus larva stage	654
+240	left ventral transverse rod	539	P. lividus	prism stage	competent pluteus larva stage	655
+241	posterior tip of body rod	539	P. lividus	prism stage	competent pluteus larva stage	656
+242	scheitel	539	P. lividus	early pluteus larva stage	competent pluteus larva stage	657
+243	body rod	539	P. lividus	prism stage	competent pluteus larva stage	658
+244	left body rod	539	P. lividus			659
+245	right body rod	539	P. lividus			660
+246	posterior tip of left body rod	539	P. lividus			661
+247	posteror tip of right body rod	539	P. lividus			662
+248	right recurrent rod	539	P. lividus	4-arm pluteus larva stage	competent pluteus larva stage	663
+249	left recurrent rod	539	P. lividus	4-arm pluteus larva stage	competent pluteus larva stage	664
+250	posterior transverse rod	539	P. lividus	6-arm pluteus larva stage	competent pluteus larva stage	665
+251	mouth	539	P. lividus	early pluteus larva stage	adult stage	666
+252	larval mouth	539	P. lividus		competent pluteus larva stage	667
+253	anus	539	P. lividus	early pluteus larva stage	adult stage	668
+254	larval anus	539	P. lividus		competent pluteus larva stage	669
+255	presumptive endoderm	539	P. lividus	early blastula stage	swimming blastula stage	670
+256	endoderm	539	P. lividus	late swimming blastula stage	competent pluteus larva stage	671
+257	archenteron	539	P. lividus	blastopore formation stage	early pluteus larva stage	672
+258	hindgut	539	P. lividus	late gastrula stage	prism stage	673
+259	dorsal hindgut	539	P. lividus	late gastrula stage	prism stage	674
+260	ventral hindgut	539	P. lividus	late gastrula stage	prism stage	675
+261	midgut	539	P. lividus	mid-gastrula stage	prism stage	676
+262	ventral midgut	539	P. lividus	mid-gastrula stage	prism stage	677
+263	dorsal midgut	539	P. lividus	mid-gastrula stage	prism stage	678
+264	anterior midgut	539	P. lividus	mid-gastrula stage	prism stage	679
+265	posterior midgut	539	P. lividus	mid-gastrula stage	prism stage	680
+266	anterior hindgut	539	P. lividus	late gastrula stage	prism stage	681
+267	posterior hindgut	539	P. lividus	late gastrula stage	prism stage	682
+268	foregut	539	P. lividus	mid-gastrula stage	prism stage	683
+269	ventral foregut	539	P. lividus	mid-gastrula stage	prism stage	684
+270	dorsal foregut	539	P. lividus	mid-gastrula stage	prism stage	685
+271	anterior foregut	539	P. lividus	mid-gastrula stage	prism stage	686
+272	posterior foregut	539	P. lividus	mid-gastrula stage	prism stage	687
+273	tip of archenteron	539	P. lividus	early gastrula stage	prism stage	688
+274	presumptive mesoderm	539	P. lividus	16-cell stage	swimming blastula stage	689
+275	mesoderm	539	P. lividus	16-cell stage	competent pluteus larva stage	690
+276	embryonic skeletogenic mesoderm	539	P. lividus	32-cell stage	late swimming blastula stage	691
+277	embryonic skeletogenic mesenchyme cell	539	P. lividus	early mesenchyme blastula stage	prism stage	692
+278	syncytium	539	P. lividus			693
+279	embryonic skeletogenic mesenchyme syncytium	539	P. lividus	early gastrula stage	prism stage	694
+280	subequatorial skeletogenic mesenchyme ring	539	P. lividus	blastopore formation stage	prism stage	695
+281	ventral skeletogenic mesenchyme chain	539	P. lividus	early gastrula stage	prism stage	696
+282	dorsal skeletogenic mesenchyme chain	539	P. lividus	early gastrula stage	prism stage	697
+283	right ventrolateral skeletogenic mesenchyme cluster	539	P. lividus	early gastrula stage	prism stage	698
+284	left ventrolateral skeletogenic mesenchyme cluster	539	P. lividus	early gastrula stage	prism stage	699
+285	lateral chain of skeletogenic mesenchyme	539	P. lividus	early gastrula stage	prism stage	700
+286	right lateral chain of skeletogenic mesenchyme	539	P. lividus	early gastrula stage	prism stage	701
+287	left lateral chain of skeletogenic mesenchyme	539	P. lividus	early gastrula stage	prism stage	702
+288	embryonic non-skeletogenic mesoderm	539	P. lividus	late swimming blastula stage	late gastrula stage	703
+289	ventral non-skeletogenic mesoderm	539	P. lividus	mesenchyme blastula phase	early gastrula stage	704
+290	dorsal non-skeletogenic mesoderm	539	P. lividus	mesenchyme blastula phase	early gastrula stage	705
+291	embryonic non-skeletogenic mesenchyme	539	P. lividus	early gastrula stage	prism stage	706
+292	embryonic non-skeletogenic mesenchyme cell	539	P. lividus	early gastrula stage	prism stage	707
+293	larval non-skeletogenic mesenchyme	539	P. lividus	early pluteus larva stage	competent pluteus larva stage	708
+294	larval non-skeletogenic mesenchyme cell	539	P. lividus	early pluteus larva stage	competent pluteus larva stage	709
+295	presumptive blastocoelar cell	539	P. lividus	mesenchyme blastula phase	late gastrula stage	710
+296	presumptive pigment cell	539	P. lividus	mesenchyme blastula phase	late gastrula stage	711
+297	pigment cell	539	P. lividus	early gastrula stage	late juvenile stage	712
+298	embryonic pigment cell	539	P. lividus		prism stage	713
+299	larval pigment cell	539	P. lividus	early pluteus larva stage	metamorphic larva stage	714
+300	juvenile pigment cell	539	P. lividus	early juvenile stage		715
+301	rudiment pigment cell	539	P. lividus	8-arm pluteus larva stage	metamorphic larva stage	716
+302	blastocoelar cell	539	P. lividus	late gastrula stage	metamorphic larva stage	717
+303	globular cell	539	P. lividus	early pluteus larva stage		718
+304	filopodial cell	539	P. lividus	early pluteus larva stage		719
+305	ovoid cell	539	P. lividus	early pluteus larva stage		720
+306	amoeboid cell	539	P. lividus	early pluteus larva stage		721
+307	muscle precursor cell	539	P. lividus	late gastrula stage	early pluteus larva stage	722
+308	muscle	539	P. lividus			723
+309	larval muscle	539	P. lividus			724
+310	rudiment muscle	539	P. lividus	8-arm pluteus larva stage		725
+311	juvenile muscle	539	P. lividus			726
+312	adult muscle	539	P. lividus	adult stage		727
+313	blastocoel	539	P. lividus	very early blastula stage	prism stage	728
+314	sphincter	539	P. lividus	prism stage		729
+315	pyloric sphincter	539	P. lividus	early pluteus larva stage	competent pluteus larva stage	730
+316	cardiac sphincter	539	P. lividus	4-arm pluteus larva stage	competent pluteus larva stage	731
+317	anal sphincter	539	P. lividus	4-arm pluteus larva stage	competent pluteus larva stage	732
+318	sphincter muscle	539	P. lividus	4-arm pluteus larva stage		733
+319	sphincter muscle cell	539	P. lividus	4-arm pluteus larva stage		734
+320	pyloric sphincteric muscle	539	P. lividus		competent pluteus larva stage	735
+321	cardiac sphincteric muscle	539	P. lividus		competent pluteus larva stage	736
+322	anal sphincteric muscle	539	P. lividus		competent pluteus larva stage	737
+323	larval esophagus	539	P. lividus	early pluteus larva stage	competent pluteus larva stage	738
+324	circumesophageal muscle	539	P. lividus	4-arm pluteus larva stage		739
+325	circumesophageal muscle cell	539	P. lividus	4-arm pluteus larva stage	competent pluteus larva stage	740
+326	larval stomach	539	P. lividus	4-arm pluteus larva stage	competent pluteus larva stage	741
+327	larval intestine	539	P. lividus	4-arm pluteus larva stage	competent pluteus larva stage	742
+328	larval skeletogenic mesenchyme	539	P. lividus	early pluteus larva stage	competent pluteus larva stage	743
+329	larval skeletogenic mesenchyme cell	539	P. lividus	early pluteus larva stage	competent pluteus larva stage	744
+330	coelom	539	P. lividus	prism stage	adult stage	745
+331	unpaired coelomic pouch	539	P. lividus		prism stage	746
+332	right coelomic pouch	539	P. lividus	early pluteus larva stage	6-arm pluteus larva stage	747
+333	left coelomic pouch	539	P. lividus	early pluteus larva stage	6-arm pluteus larva stage	748
+334	right coelomic constriction	539	P. lividus	early pluteus larva stage	6-arm pluteus larva stage	749
+335	left coelomic constriction	539	P. lividus	early pluteus larva stage	6-arm pluteus larva stage	750
+336	larval epithelium	539	P. lividus		metamorphic larva stage	751
+337	vestibule	539	P. lividus	6-arm pluteus larva stage	8-arm pluteus larva stage	752
+338	oral epithelium	539	P. lividus			753
+339	aboral epithelium	539	P. lividus			754
+340	left lateral field	539	P. lividus			755
+341	vestibular pore	539	P. lividus	competent pluteus larva stage	competent pluteus larva stage	756
+342	axocoel	539	P. lividus	6-arm pluteus larva stage	8-arm pluteus larva stage	757
+343	left axocoel	539	P. lividus	8-arm pluteus larva stage	competent pluteus larva stage	758
+344	axial coelom	539	P. lividus	early juvenile stage		759
+345	hydrocoel	539	P. lividus	6-arm pluteus larva stage	8-arm pluteus larva stage	760
+346	somatocoel	539	P. lividus	6-arm pluteus larva stage	8-arm pluteus larva stage	761
+347	left hydrocoel	539	P. lividus			762
+348	left somatocoel	539	P. lividus			763
+349	right axohydrocoel	539	P. lividus	6-arm pluteus larva stage	8-arm pluteus larva stage	764
+350	right somatocoel	539	P. lividus			765
+351	axial complex	539	P. lividus	early juvenile stage	adult stage	766
+352	stone canal	539	P. lividus	8-arm pluteus larva stage	adult stage	767
+353	ring canal	539	P. lividus	8-arm pluteus larva stage	adult stage	768
+354	radial canal	539	P. lividus	8-arm pluteus larva stage	adult stage	769
+355	primary pore canal	539	P. lividus	4-arm pluteus larva stage	4-arm pluteus larva stage	770
+356	hydropore	539	P. lividus	4-arm pluteus larva stage	adult stage	771
+357	right axocoel	539	P. lividus			772
+358	right hydrocoel	539	P. lividus			773
+359	axial sinus	539	P. lividus	early juvenile stage	adult stage	774
+360	axial organ	539	P. lividus	early juvenile stage	adult stage	775
+361	dorsal sac	539	P. lividus	early juvenile stage	adult stage	776
+362	ciliated epaulette	539	P. lividus	6-arm pluteus larva stage	competent pluteus larva stage	777
+363	anterior ciliated epaulette	539	P. lividus	8-arm pluteus larva stage	competent pluteus larva stage	778
+364	posterior ciliated epaulette	539	P. lividus	8-arm pluteus larva stage	competent pluteus larva stage	779
+365	lateral field	539	P. lividus	8-arm pluteus larva stage	competent pluteus larva stage	780
+366	right lateral field	539	P. lividus			781
+367	ambulacral plate	539	P. lividus	8-arm pluteus larva stage		782
+368	adult skeletogenic mesenchyme	539	P. lividus	early juvenile stage		783
+369	interambulacral plate	539	P. lividus	8-arm pluteus larva stage		784
+370	ambulacra	539	P. lividus	8-arm pluteus larva stage	adult stage	785
+371	interambulacra	539	P. lividus	8-arm pluteus larva stage	adult stage	786
+372	genital plate	539	P. lividus	8-arm pluteus larva stage		787
+373	appendage	539	P. lividus			788
+374	pedicellaria	539	P. lividus	8-arm pluteus larva stage	adult stage	789
+375	ocular plate	539	P. lividus	8-arm pluteus larva stage		790
+376	buccal plate	539	P. lividus	early juvenile stage		791
+377	genital plate AB	539	P. lividus			792
+378	genital plate BC	539	P. lividus			793
+379	genital plate CD	539	P. lividus			794
+380	genital plate DE	539	P. lividus			795
+381	genital plate EA	539	P. lividus			796
+382	podia	539	P. lividus	8-arm pluteus larva stage	adult stage	797
+383	primary podia	539	P. lividus		late juvenile stage	798
+384	disk of primary podia	539	P. lividus	8-arm pluteus larva stage	late juvenile stage	799
+385	secondary podia	539	P. lividus	early juvenile stage		800
+386	disk of secondary podia	539	P. lividus	early juvenile stage		801
+387	buccal podia	539	P. lividus	early juvenile stage		802
+388	spine	539	P. lividus	8-arm pluteus larva stage	adult stage	803
+389	juvenile spine	539	P. lividus		late juvenile stage	804
+390	definitive spine	539	P. lividus			805
+391	sphaeridium	539	P. lividus	early juvenile stage	adult stage	806
+392	ampulla	539	P. lividus	early juvenile stage	adult stage	807
+393	adult mouth	539	P. lividus	late juvenile stage		808
+394	adult anus	539	P. lividus	late juvenile stage		809
+395	Aristotles lantern	539	P. lividus	early juvenile stage	adult stage	810
+396	tooth	539	P. lividus	early juvenile stage	adult stage	811
+397	madreporite	539	P. lividus	early juvenile stage		812
+398	gonopore	539	P. lividus	early juvenile stage	adult stage	813
+399	gonad	539	P. lividus	adult stage		814
+400	ovary	539	P. lividus			815
+401	testis	539	P. lividus			816
+402	juvenile digestive tract	539	P. lividus	early juvenile stage	late juvenile stage	817
+403	adult digestive tract	539	P. lividus	adult stage	adult stage	818
+404	mesentery	539	P. lividus	early juvenile stage	adult stage	819
+405	perivisceral cavity	539	P. lividus	early juvenile stage	adult stage	820
+406	photosensory cell	539	P. lividus	early juvenile stage		821
+489	embryonic territory	539	P. lividus	16-cell stage	open mouth stage	2667
+490	adult organism	539	P. lividus	adult stage		2668
+491	embryonic muscular system	539	P. lividus	early pluteus stage	open mouth stage	2669
+492	extracellular matrix	539	P. lividus	1-cell stage	adult stage	2670
+493	blastomere of 8-cell embryo	539	P. lividus	8-cell stage	8-cell stage	2671
+494	blastomere of 16-cell embryo	539	P. lividus	16-cell stage	16-cell stage	2672
+495	presumptive animal pole domain neuron	539	P. lividus	vegetal plate stage	late gastrula stage	2673
+496	presumptive ectoderm neuron	539	P. lividus	vegetal plate stage	late prism stage	2674
+497	presumptive ciliary band neuron	539	P. lividus	early prism stage	late prism stage	2675
+498	presumptive endoderm-associated neuron	539	P. lividus	late gastrula stage	late gastrula stage	2676
+499	postoral neuron	539	P. lividus	early prism stage	larval development	2677
+500	presumptive postoral neuron	539	P. lividus	mesenchyme blastula stage	late gastrula stage	2678
+501	synaptotagmin-B-expressing neuron	539	P. lividus	late gastrula stage	adulthood	2679
+502	nitric oxide synthase-expressing neuron	539	P. lividus	larval development	adulthood	2680
+503	cholinergic neuron	539	P. lividus	early pluteus stage	adulthood	2681
+504	catecholaminergic/cholinergic neuron	539	P. lividus	early pluteus stage	larval development	2682
+505	endoderm-associated neuron	539	P. lividus	early prism stage	larval development	2683
+506	lateral ganglion	539	P. lividus	late prism stage	larval development	2684
+507	right lateral ganglion	539	P. lividus			2685
+508	left lateral ganglion	539	P. lividus			2686
+509	presumptive ventral ectoderm	539	P. lividus	60-cell stage	mid-gastrula stage	2687
+510	presumptive dorsal ectoderm	539	P. lividus	vegetal plate stage	mid-gastrula stage	2688
+511	anterior neuroectoderm	539	P. lividus	60-cell stage	mesenchyme blastula stage	2689
+512	equatorial ectoderm	539	P. lividus	60-cell stage	mesenchyme blastula stage	2690
+513	inner anterior neuroectoderm	539	P. lividus	mesenchyme blastula stage	late prism stage	2691
+514	outer anterior neuroectoderm	539	P. lividus	mesenchyme blastula stage	late prism stage	2692
+515	central ventral ectoderm	539	P. lividus	vegetal plate stage	late gastrula stage	2693
+516	near apical ectoderm	539	P. lividus	vegetal plate stage	late gastrula stage	2694
+517	lateral border ectoderm	539	P. lividus	mesenchyme blastula stage	early prism stage	2695
+518	ventral border ectoderm	539	P. lividus	mesenchyme blastula stage	early prism stage	2696
+519	dorsal border ectoderm	539	P. lividus	mesenchyme blastula stage	early prism stage	2697
+520	animal lateral ectoderm	539	P. lividus	mesenchyme blastula stage	early gastrula stage	2698
+521	right animal lateral ectoderm	539	P. lividus	mesenchyme blastula stage	early gastrula stage	2699
+522	left animal lateral ectoderm	539	P. lividus	mesenchyme blastula stage	early gastrula stage	2700
+523	postoral arm tip ectoderm	539	P. lividus	late prism stage	larval development	2701
+524	right postoral arm tip ectoderm	539	P. lividus	late prism stage	larval development	2702
+525	left postoral arm tip ectoderm	539	P. lividus	late prism stage	larval development	2703
+526	presumptive ciliary band	539	P. lividus	mesenchyme blastula stage	early pluteus stage	2704
+527	arm	539	P. lividus	open mouth stage	larval development	2705
+528	anterolateral arm	539	P. lividus	larval development		2706
+529	postoral arm	539	P. lividus			2707
+530	anterolateral rod	539	P. lividus	late prism stage	larval development	2708
+531	postoral rod	539	P. lividus	early prism stage	larval development	2709
+532	dorsoventral connecting rod	539	P. lividus		larval development	2710
+533	ventral transverse rod	539	P. lividus		larval development	2711
+534	distal tip of body rod	539	P. lividus	early prism stage	larval development	2712
+535	distal tip of right body rod	539	P. lividus	early prism stage	larval development	2713
+536	distal tip of left body rod	539	P. lividus	early prism stage	larval development	2714
+537	recurrent rod	539	P. lividus	late prism stage	larval development	2715
+538	presumptive embryonic skeletogenic mesoderm	539	P. lividus	32-cell stage	vegetal plate stage	2716
+539	ventrolateral skeletogenic mesenchyme cluster	539	P. lividus	mid-gastrula stage	early prism stage	2717
+540	presumptive embryonic non-skeletogenic mesoderm	539	P. lividus	late blastula stage	early prism stage	2718
+541	ventral presumptive embryonic non-skeletogenic mesoderm	539	P. lividus	vegetal plate stage	early gastrula stage	2719
+542	dorsal presumptive embryonic non-skeletogenic mesoderm	539	P. lividus	vegetal plate stage	early gastrula stage	2720
+543	presumptive muscle cell	539	P. lividus	early prism stage	larval development	2721
+544	muscle cell	539	P. lividus	early pluteus stage	adulthood	2722
+545	presumptive blastocoel	539	P. lividus	28-cell stage	60-cell stage	2723
+546	pyloric sphincter muscle cell	539	P. lividus	open mouth stage	larval development	2724
+547	cardiac sphincter muscle cell	539	P. lividus	early pluteus stage	larval development	2725
+548	anal sphincter muscle cell	539	P. lividus	early pluteus stage	larval development	2726
+549	primary pore canal rudiment	539	P. lividus	open mouth stage	larval development	2727
+550	posterior enterocoel	539	P. lividus	late organogenesis stage	larval development	2728
+551	left anterior coelomic pouch	539	P. lividus	mid-organogenesis stage	larval development	2729
+552	right anterior coelomic pouch	539	P. lividus	mid-organogenesis stage	larval development	2730
+553	preoral ciliary band	539	P. lividus	open mouth stage	larval development	2731
+554	postoral ciliary band	539	P. lividus	open mouth stage	larval development	2732
+1	root node	546	P. miniata			1488
+2	life cycle period	546	P. miniata			1489
+3	echinoderm anatomy	546	P. miniata			1490
+4	anatomical structure	546	P. miniata			1491
+5	anatomical system	546	P. miniata			1492
+6	anatomical region	546	P. miniata			1493
+7	anatomical space	546	P. miniata			1494
+8	whole organism	546	P. miniata	previtellogenic primary oocyte stage	adult stage	1495
+9	multicellular organism	546	P. miniata	2-cell stage	adult stage	1496
+10	embryo	546	P. miniata	1-cell stage	prism stage	1497
+11	larva	546	P. miniata	early pluteus larva stage	metamorphic larva stage	1498
+12	juvenile	546	P. miniata	early juvenile stage	late juvenile stage	1499
+13	adult	546	P. miniata	adult stage		1500
+14	digestive system	546	P. miniata	blastopore formation stage	adult stage	1501
+15	embryonic digestive system	546	P. miniata		prism stage	1502
+16	larval digestive system	546	P. miniata	early pluteus larva stage	metamorphic larva stage	1503
+17	juvenile digestive system	546	P. miniata	early juvenile stage	late juvenile stage	1504
+18	adult digestive system	546	P. miniata	adult stage		1505
+19	immune system	546	P. miniata	late gastrula stage	adult stage	1506
+20	embryonic immune system	546	P. miniata		prism stage	1507
+21	larval immune system	546	P. miniata	early pluteus larva stage	metamorphic larva stage	1508
+22	juvenile immune system	546	P. miniata	early juvenile stage	late juvenile stage	1509
+23	adult immune system	546	P. miniata	adult stage		1510
+24	reproductive system	546	P. miniata	early juvenile stage	adult stage	1511
+25	nervous system	546	P. miniata	mesenchyme blastula phase	adult stage	1512
+26	embryonic nervous system	546	P. miniata		prism stage	1513
+27	larval nervous system	546	P. miniata	early pluteus larva stage	competent pluteus larva stage	1514
+28	juvenile nervous system	546	P. miniata	early juvenile stage	late juvenile stage	1515
+29	adult nervous system	546	P. miniata	adult stage		1516
+30	muscular system	546	P. miniata	early pluteus larva stage	adult stage	1517
+31	larval muscular system	546	P. miniata		metamorphic larva stage	1518
+32	juvenile muscular system	546	P. miniata	early juvenile stage	late juvenile stage	1519
+33	adult muscular system	546	P. miniata	adult stage		1520
+34	endoskeleton	546	P. miniata	mid-gastrula stage	adult stage	1521
+37	rudiment endoskeleton	546	P. miniata	8-arm pluteus larva stage	metamorphic larva stage	1522
+38	juvenile endoskeleton	546	P. miniata	early juvenile stage	late juvenile stage	1523
+39	adult endoskeleton	546	P. miniata	adult stage		1524
+40	water vascular system	546	P. miniata	6-arm pluteus larva stage	adult stage	1525
+41	hemal system	546	P. miniata	8-arm pluteus larva stage	adult stage	1526
+42	animal hemisphere	546	P. miniata	mature oocyte stage	late swimming blastula stage	1527
+43	vegetal hemisphere	546	P. miniata	mature oocyte stage	late swimming blastula stage	1528
+44	cell cortex	546	P. miniata	mature oocyte stage		1529
+45	cleavage furrow	546	P. miniata	1-cell stage		1530
+46	animal cortex	546	P. miniata	fully grown oocyte with centered germinal vesicle stage	1-cell stage	1531
+47	vegetal cortex	546	P. miniata	fully grown oocyte with centered germinal vesicle stage	1-cell stage	1532
+48	animal pole	546	P. miniata	fully grown oocyte with centered germinal vesicle stage	prism stage	1533
+49	vegetal pole	546	P. miniata	fully grown oocyte with centered germinal vesicle stage	prism stage	1534
+50	animal pole domain	546	P. miniata	very early blastula stage	prism stage	1535
+51	blastopore	546	P. miniata	blastopore formation stage	prism stage	1536
+52	blastopore lip	546	P. miniata	blastopore formation stage		1537
+54	embryonic cell	546	P. miniata	2-cell stage	prism stage	1538
+55	vegetal plate	546	P. miniata	swimming blastula stage	late mesenchyme blastula stage	1539
+56	cell	546	P. miniata	previtellogenic primary oocyte stage	adult stage	1540
+57	cell part	546	P. miniata	previtellogenic primary oocyte stage	adult stage	1541
+58	digestive system element	546	P. miniata	blastopore formation stage	adult stage	1542
+59	skeletal element	546	P. miniata	mid-gastrula stage	adult stage	1543
+60	embryonic structure	546	P. miniata	1-cell stage	prism stage	1544
+61	larval structure	546	P. miniata	early pluteus larva stage	metamorphic larva stage	1545
+62	juvenile structure	546	P. miniata	early juvenile stage	late juvenile stage	1546
+63	adult structure	546	P. miniata	early juvenile stage	adult stage	1547
+64	tissue	546	P. miniata	60-cell stage	adult stage	1548
+65	rudiment	546	P. miniata	6-arm pluteus larva stage	metamorphic larva stage	1549
+66	rudiment structure	546	P. miniata	6-arm pluteus larva stage	metamorphic larva stage	1550
+67	non-rudiment adult structure	546	P. miniata	6-arm pluteus larva stage	metamorphic larva stage	1551
+68	intracellular part	546	P. miniata			1552
+69	cytoskeleton	546	P. miniata			1553
+70	microtubule	546	P. miniata			1554
+71	nucleus	546	P. miniata	mature oocyte stage		1555
+72	oocyte	546	P. miniata	oogenesis period	oogenesis period	1556
+73	germinal vesicle	546	P. miniata	not fully grown oocyte stage	fully grown oocyte with off-centered germinal vesicle stage	1557
+75	cytoplasm	546	P. miniata	not fully grown oocyte stage		1558
+76	centrosome	546	P. miniata	fully grown oocyte with off-centered germinal vesicle stage		1559
+77	mitotic spindle	546	P. miniata	1-cell stage		1560
+78	meiotic spindle	546	P. miniata	fully grown oocyte with off-centered germinal vesicle stage	fully grown oocyte with off-centered germinal vesicle stage	1561
+79	fertilization envelope	546	P. miniata	1-cell stage	hatched blastula stage	1562
+80	spermatozoid	546	P. miniata	spermatogenesis period	spermatogenesis period	1563
+81	aster	546	P. miniata	fully grown oocyte with off-centered germinal vesicle stage		1564
+82	sperm aster	546	P. miniata	mature spermatozoid stage	mature spermatozoid stage	1565
+83	acellular membrane	546	P. miniata	mature oocyte stage	mature oocyte stage	1566
+84	vitelline membrane	546	P. miniata			1567
+85	hyaline layer	546	P. miniata	1-cell stage	prism stage	1568
+86	microvillus	546	P. miniata	1-cell stage	1-cell stage	1569
+88	secretory vesicle	546	P. miniata	1-cell stage	1-cell stage	1570
+89	cilium	546	P. miniata	late blastula stage	adult stage	1571
+90	filopodium	546	P. miniata	early mesenchyme blastula stage	late gastrula stage	1572
+91	basal lamina	546	P. miniata		4-arm pluteus larva stage	1573
+94	cortical granule	546	P. miniata	mature oocyte stage		1574
+96	mitochondrion	546	P. miniata			1575
+97	actin cytoskeleton	546	P. miniata			1576
+98	actin filament	546	P. miniata			1577
+99	nuclear part	546	P. miniata	mature oocyte stage		1578
+100	nucleoplasm	546	P. miniata			1579
+101	nuclear envelope	546	P. miniata			1580
+102	endoplasmic reticulum	546	P. miniata			1581
+103	spermatozoid entry point	546	P. miniata	mature oocyte stage	1-cell stage	1582
+104	plasma membrane	546	P. miniata			1583
+105	polar body	546	P. miniata	fully grown oocyte with off-centered germinal vesicle stage	fully grown oocyte with no nucleus stage	1584
+106	spermatozoid part	546	P. miniata	spermatogenesis period	spermatogenesis period	1585
+107	spermatozoid head	546	P. miniata			1586
+108	spermatozoid flagellum	546	P. miniata			1587
+109	acrosomal vesicle	546	P. miniata	spermatogenesis period	spermatogenesis period	1588
+111	presumptive primordial germ cell	546	P. miniata	32-cell stage	metamorphic larva stage	1589
+112	primordial germ cell	546	P. miniata	early juvenile stage		1590
+113	germ cell	546	P. miniata	adult stage		1591
+114	gamete	546	P. miniata	gametogenesis	gametogenesis	1592
+115	immature occyte	546	P. miniata		fully grown oocyte with no nucleus stage	1593
+116	mature oocyte	546	P. miniata	mature oocyte stage	mature oocyte stage	1594
+117	blastomere	546	P. miniata		60-cell stage	1595
+118	blastomere of 2-cell embryo	546	P. miniata		2-cell stage	1596
+119	blastomere of 4-cell embryo	546	P. miniata	4-cell stage	4-cell stage	1597
+122	cell tier	546	P. miniata	8-cell stage	late blastula stage	1598
+128	presumptive neuron	546	P. miniata	mesenchyme blastula phase	adult stage	1599
+129	animal pole domain presumptive neuron	546	P. miniata	mesenchyme blastula phase	prism stage	1600
+130	ectoderm presumptive neuron	546	P. miniata	mesenchyme blastula phase	prism stage	1601
+131	ciliary band presumptive neuron	546	P. miniata	mesenchyme blastula phase	competent pluteus larva stage	1602
+133	neuron	546	P. miniata	early pluteus larva stage	adult stage	1603
+134	larval neuron	546	P. miniata	early pluteus larva stage	competent pluteus larva stage	1604
+135	serotonergic neuron	546	P. miniata	early pluteus larva stage	competent pluteus larva stage	1605
+139	sensory neuron	546	P. miniata			1606
+142	neural structure	546	P. miniata	prism stage	adult stage	1607
+143	axon tract	546	P. miniata	early pluteus larva stage	adult stage	1608
+144	ciliary band neuron	546	P. miniata	early pluteus larva stage	competent pluteus larva stage	1609
+145	ectoderm	546	P. miniata	60-cell stage	metamorphic larva stage	1610
+146	presumptive ciliary band cell	546	P. miniata	late blastula stage	late gastrula stage	1611
+148	ganglion	546	P. miniata			1612
+149	apical ganglion	546	P. miniata	early pluteus larva stage	competent pluteus larva stage	1613
+150	adult neuron	546	P. miniata	8-arm pluteus larva stage		1614
+151	circumoral nerve ring	546	P. miniata	8-arm pluteus larva stage		1615
+152	enteric nerve plexus	546	P. miniata	late juvenile stage		1616
+153	radial nerve cord	546	P. miniata	8-arm pluteus larva stage		1617
+154	primary podia associated neuron	546	P. miniata		late juvenile stage	1618
+155	secondary podia associated neuron	546	P. miniata	early juvenile stage		1619
+156	definitive spine associated neuron	546	P. miniata			1620
+157	pedicellaria associated neuron	546	P. miniata			1621
+158	basiepidermal nerve plexus	546	P. miniata	8-arm pluteus larva stage		1622
+159	animal quartet	546	P. miniata		8-cell stage	1623
+160	vegetal quartet	546	P. miniata		8-cell stage	1624
+161	animal tier 1	546	P. miniata	28-cell stage	60-cell stage	1625
+162	animal tier 2	546	P. miniata	28-cell stage	60-cell stage	1626
+163	vegetal tier 1	546	P. miniata	56-cell stage	early blastula stage	1627
+164	vegetal tier 2	546	P. miniata	56-cell stage	early blastula stage	1628
+169	germ layer	546	P. miniata	early mesenchyme blastula stage		1629
+170	embryonic tissue	546	P. miniata	16-cell stage	prism stage	1630
+171	presumptive ectoderm	546	P. miniata	16-cell stage	swimming blastula stage	1631
+174	ventral ectoderm	546	P. miniata	60-cell stage	competent pluteus larva stage	1632
+175	dorsal ectoderm	546	P. miniata	60-cell stage	competent pluteus larva stage	1633
+176	ectoendoderm	546	P. miniata	60-cell stage	hatched blastula stage	1634
+177	endomesoderm	546	P. miniata	60-cell stage	hatched blastula stage	1635
+192	apical tuft	546	P. miniata	hatched blastula stage	prism stage	1636
+193	larval tissue	546	P. miniata	early pluteus larva stage	competent pluteus larva stage	1637
+194	rudiment tissue	546	P. miniata	6-arm pluteus larva stage	metamorphic larva stage	1638
+195	juvenile tissue	546	P. miniata	early juvenile stage	late juvenile stage	1639
+196	adult tissue	546	P. miniata	early juvenile stage		1640
+197	presumptive stomodeum	546	P. miniata	mesenchyme blastula phase		1641
+198	stomodeum	546	P. miniata	prism stage		1642
+199	ciliary band	546	P. miniata	mesenchyme blastula phase	competent pluteus larva stage	1643
+224	skeletal rod	546	P. miniata	late gastrula stage	early juvenile stage	1644
+251	mouth	546	P. miniata	early pluteus larva stage	adult stage	1645
+252	larval mouth	546	P. miniata		competent pluteus larva stage	1646
+253	anus	546	P. miniata	early pluteus larva stage	adult stage	1647
+254	larval anus	546	P. miniata		competent pluteus larva stage	1648
+255	presumptive endoderm	546	P. miniata	early blastula stage	swimming blastula stage	1649
+256	endoderm	546	P. miniata	late swimming blastula stage	competent pluteus larva stage	1650
+257	archenteron	546	P. miniata	blastopore formation stage	early pluteus larva stage	1651
+258	hindgut	546	P. miniata	late gastrula stage	prism stage	1652
+259	dorsal hindgut	546	P. miniata	late gastrula stage	prism stage	1653
+260	ventral hindgut	546	P. miniata	late gastrula stage	prism stage	1654
+261	midgut	546	P. miniata	mid-gastrula stage	prism stage	1655
+262	ventral midgut	546	P. miniata	mid-gastrula stage	prism stage	1656
+263	dorsal midgut	546	P. miniata	mid-gastrula stage	prism stage	1657
+264	anterior midgut	546	P. miniata	mid-gastrula stage	prism stage	1658
+265	posterior midgut	546	P. miniata	mid-gastrula stage	prism stage	1659
+266	anterior hindgut	546	P. miniata	late gastrula stage	prism stage	1660
+267	posterior hindgut	546	P. miniata	late gastrula stage	prism stage	1661
+268	foregut	546	P. miniata	mid-gastrula stage	prism stage	1662
+269	ventral foregut	546	P. miniata	mid-gastrula stage	prism stage	1663
+270	dorsal foregut	546	P. miniata	mid-gastrula stage	prism stage	1664
+271	anterior foregut	546	P. miniata	mid-gastrula stage	prism stage	1665
+272	posterior foregut	546	P. miniata	mid-gastrula stage	prism stage	1666
+273	tip of archenteron	546	P. miniata	early gastrula stage	prism stage	1667
+274	presumptive mesoderm	546	P. miniata	16-cell stage	swimming blastula stage	1668
+275	mesoderm	546	P. miniata	16-cell stage	competent pluteus larva stage	1669
+288	embryonic non-skeletogenic mesoderm	546	P. miniata	late swimming blastula stage	late gastrula stage	1670
+291	embryonic non-skeletogenic mesenchyme	546	P. miniata	early gastrula stage	prism stage	1671
+292	embryonic non-skeletogenic mesenchyme cell	546	P. miniata	early gastrula stage	prism stage	1672
+293	larval non-skeletogenic mesenchyme	546	P. miniata	early pluteus larva stage	competent pluteus larva stage	1673
+294	larval non-skeletogenic mesenchyme cell	546	P. miniata	early pluteus larva stage	competent pluteus larva stage	1674
+296	presumptive pigment cell	546	P. miniata	mesenchyme blastula phase	late gastrula stage	1675
+297	pigment cell	546	P. miniata	early gastrula stage	late juvenile stage	1676
+299	larval pigment cell	546	P. miniata	early pluteus larva stage	metamorphic larva stage	1677
+300	juvenile pigment cell	546	P. miniata	early juvenile stage		1678
+301	rudiment pigment cell	546	P. miniata	8-arm pluteus larva stage	metamorphic larva stage	1679
+306	amoeboid cell	546	P. miniata	early pluteus larva stage		1680
+307	muscle precursor cell	546	P. miniata	late gastrula stage	early pluteus larva stage	1681
+308	muscle	546	P. miniata			1682
+309	larval muscle	546	P. miniata			1683
+310	rudiment muscle	546	P. miniata	8-arm pluteus larva stage		1684
+311	juvenile muscle	546	P. miniata			1685
+312	adult muscle	546	P. miniata	adult stage		1686
+313	blastocoel	546	P. miniata	very early blastula stage	prism stage	1687
+314	sphincter	546	P. miniata	prism stage		1688
+315	pyloric sphincter	546	P. miniata	early pluteus larva stage	competent pluteus larva stage	1689
+316	cardiac sphincter	546	P. miniata	4-arm pluteus larva stage	competent pluteus larva stage	1690
+317	anal sphincter	546	P. miniata	4-arm pluteus larva stage	competent pluteus larva stage	1691
+318	sphincter muscle	546	P. miniata	4-arm pluteus larva stage		1692
+319	sphincter muscle cell	546	P. miniata	4-arm pluteus larva stage		1693
+320	pyloric sphincteric muscle	546	P. miniata		competent pluteus larva stage	1694
+321	cardiac sphincteric muscle	546	P. miniata		competent pluteus larva stage	1695
+322	anal sphincteric muscle	546	P. miniata		competent pluteus larva stage	1696
+323	larval esophagus	546	P. miniata	early pluteus larva stage	competent pluteus larva stage	1697
+324	circumesophageal muscle	546	P. miniata	4-arm pluteus larva stage		1698
+325	circumesophageal muscle cell	546	P. miniata	4-arm pluteus larva stage	competent pluteus larva stage	1699
+326	larval stomach	546	P. miniata	4-arm pluteus larva stage	competent pluteus larva stage	1700
+327	larval intestine	546	P. miniata	4-arm pluteus larva stage	competent pluteus larva stage	1701
+330	coelom	546	P. miniata	prism stage	adult stage	1702
+331	unpaired coelomic pouch	546	P. miniata		prism stage	1703
+332	right coelomic pouch	546	P. miniata	early pluteus larva stage	6-arm pluteus larva stage	1704
+333	left coelomic pouch	546	P. miniata	early pluteus larva stage	6-arm pluteus larva stage	1705
+334	right coelomic constriction	546	P. miniata	early pluteus larva stage	6-arm pluteus larva stage	1706
+335	left coelomic constriction	546	P. miniata	early pluteus larva stage	6-arm pluteus larva stage	1707
+336	larval epithelium	546	P. miniata		metamorphic larva stage	1708
+338	oral epithelium	546	P. miniata			1709
+339	aboral epithelium	546	P. miniata			1710
+342	axocoel	546	P. miniata	6-arm pluteus larva stage	8-arm pluteus larva stage	1711
+343	left axocoel	546	P. miniata	8-arm pluteus larva stage	competent pluteus larva stage	1712
+344	axial coelom	546	P. miniata	early juvenile stage		1713
+345	hydrocoel	546	P. miniata	6-arm pluteus larva stage	8-arm pluteus larva stage	1714
+346	somatocoel	546	P. miniata	6-arm pluteus larva stage	8-arm pluteus larva stage	1715
+347	left hydrocoel	546	P. miniata			1716
+348	left somatocoel	546	P. miniata			1717
+350	right somatocoel	546	P. miniata			1718
+351	axial complex	546	P. miniata	early juvenile stage	adult stage	1719
+352	stone canal	546	P. miniata	8-arm pluteus larva stage	adult stage	1720
+353	ring canal	546	P. miniata	8-arm pluteus larva stage	adult stage	1721
+354	radial canal	546	P. miniata	8-arm pluteus larva stage	adult stage	1722
+355	primary pore canal	546	P. miniata	4-arm pluteus larva stage	4-arm pluteus larva stage	1723
+356	hydropore	546	P. miniata	4-arm pluteus larva stage	adult stage	1724
+357	right axocoel	546	P. miniata			1725
+358	right hydrocoel	546	P. miniata			1726
+360	axial organ	546	P. miniata	early juvenile stage	adult stage	1727
+368	adult skeletogenic mesenchyme	546	P. miniata	early juvenile stage		1728
+370	ambulacra	546	P. miniata	8-arm pluteus larva stage	adult stage	1729
+371	interambulacra	546	P. miniata	8-arm pluteus larva stage	adult stage	1730
+373	appendage	546	P. miniata			1731
+374	pedicellaria	546	P. miniata	8-arm pluteus larva stage	adult stage	1732
+382	podia	546	P. miniata	8-arm pluteus larva stage	adult stage	1733
+383	primary podia	546	P. miniata		late juvenile stage	1734
+388	spine	546	P. miniata	8-arm pluteus larva stage	adult stage	1735
+389	juvenile spine	546	P. miniata		late juvenile stage	1736
+390	definitive spine	546	P. miniata			1737
+392	ampulla	546	P. miniata	early juvenile stage	adult stage	1738
+393	adult mouth	546	P. miniata	late juvenile stage		1739
+394	adult anus	546	P. miniata	late juvenile stage		1740
+396	tooth	546	P. miniata	early juvenile stage	adult stage	1741
+397	madreporite	546	P. miniata	early juvenile stage		1742
+398	gonopore	546	P. miniata	early juvenile stage	adult stage	1743
+399	gonad	546	P. miniata	adult stage		1744
+400	ovary	546	P. miniata			1745
+401	testis	546	P. miniata			1746
+402	juvenile digestive tract	546	P. miniata	early juvenile stage	late juvenile stage	1747
+403	adult digestive tract	546	P. miniata	adult stage	adult stage	1748
+404	mesentery	546	P. miniata	early juvenile stage	adult stage	1749
+405	perivisceral cavity	546	P. miniata	early juvenile stage	adult stage	1750
+406	photosensory cell	546	P. miniata	early juvenile stage		1751
+489	embryonic territory	546	P. miniata	16-cell stage	open mouth stage	2799
+490	adult organism	546	P. miniata	adult stage		2800
+491	embryonic muscular system	546	P. miniata	early pluteus stage	open mouth stage	2801
+492	extracellular matrix	546	P. miniata	1-cell stage	adult stage	2802
+493	blastomere of 8-cell embryo	546	P. miniata	8-cell stage	8-cell stage	2803
+494	blastomere of 16-cell embryo	546	P. miniata	16-cell stage	16-cell stage	2804
+495	presumptive animal pole domain neuron	546	P. miniata	vegetal plate stage	late gastrula stage	2805
+496	presumptive ectoderm neuron	546	P. miniata	vegetal plate stage	late prism stage	2806
+497	presumptive ciliary band neuron	546	P. miniata	early prism stage	late prism stage	2807
+498	presumptive endoderm-associated neuron	546	P. miniata	late gastrula stage	late gastrula stage	2808
+499	postoral neuron	546	P. miniata	early prism stage	larval development	2809
+500	presumptive postoral neuron	546	P. miniata	mesenchyme blastula stage	late gastrula stage	2810
+501	synaptotagmin-B-expressing neuron	546	P. miniata	late gastrula stage	adulthood	2811
+502	nitric oxide synthase-expressing neuron	546	P. miniata	larval development	adulthood	2812
+503	cholinergic neuron	546	P. miniata	early pluteus stage	adulthood	2813
+504	catecholaminergic/cholinergic neuron	546	P. miniata	early pluteus stage	larval development	2814
+505	endoderm-associated neuron	546	P. miniata	early prism stage	larval development	2815
+506	lateral ganglion	546	P. miniata	late prism stage	larval development	2816
+507	right lateral ganglion	546	P. miniata			2817
+508	left lateral ganglion	546	P. miniata			2818
+509	presumptive ventral ectoderm	546	P. miniata	60-cell stage	mid-gastrula stage	2819
+510	presumptive dorsal ectoderm	546	P. miniata	vegetal plate stage	mid-gastrula stage	2820
+511	anterior neuroectoderm	546	P. miniata	60-cell stage	mesenchyme blastula stage	2821
+512	equatorial ectoderm	546	P. miniata	60-cell stage	mesenchyme blastula stage	2822
+513	inner anterior neuroectoderm	546	P. miniata	mesenchyme blastula stage	late prism stage	2823
+514	outer anterior neuroectoderm	546	P. miniata	mesenchyme blastula stage	late prism stage	2824
+515	central ventral ectoderm	546	P. miniata	vegetal plate stage	late gastrula stage	2825
+516	near apical ectoderm	546	P. miniata	vegetal plate stage	late gastrula stage	2826
+517	lateral border ectoderm	546	P. miniata	mesenchyme blastula stage	early prism stage	2827
+518	ventral border ectoderm	546	P. miniata	mesenchyme blastula stage	early prism stage	2828
+519	dorsal border ectoderm	546	P. miniata	mesenchyme blastula stage	early prism stage	2829
+520	animal lateral ectoderm	546	P. miniata	mesenchyme blastula stage	early gastrula stage	2830
+521	right animal lateral ectoderm	546	P. miniata	mesenchyme blastula stage	early gastrula stage	2831
+522	left animal lateral ectoderm	546	P. miniata	mesenchyme blastula stage	early gastrula stage	2832
+523	postoral arm tip ectoderm	546	P. miniata	late prism stage	larval development	2833
+524	right postoral arm tip ectoderm	546	P. miniata	late prism stage	larval development	2834
+525	left postoral arm tip ectoderm	546	P. miniata	late prism stage	larval development	2835
+526	presumptive ciliary band	546	P. miniata	mesenchyme blastula stage	early pluteus stage	2836
+527	arm	546	P. miniata	open mouth stage	larval development	2837
+528	anterolateral arm	546	P. miniata	larval development		2838
+529	postoral arm	546	P. miniata			2839
+530	anterolateral rod	546	P. miniata	late prism stage	larval development	2840
+531	postoral rod	546	P. miniata	early prism stage	larval development	2841
+532	dorsoventral connecting rod	546	P. miniata		larval development	2842
+533	ventral transverse rod	546	P. miniata		larval development	2843
+534	distal tip of body rod	546	P. miniata	early prism stage	larval development	2844
+535	distal tip of right body rod	546	P. miniata	early prism stage	larval development	2845
+536	distal tip of left body rod	546	P. miniata	early prism stage	larval development	2846
+537	recurrent rod	546	P. miniata	late prism stage	larval development	2847
+538	presumptive embryonic skeletogenic mesoderm	546	P. miniata	32-cell stage	vegetal plate stage	2848
+539	ventrolateral skeletogenic mesenchyme cluster	546	P. miniata	mid-gastrula stage	early prism stage	2849
+540	presumptive embryonic non-skeletogenic mesoderm	546	P. miniata	late blastula stage	early prism stage	2850
+541	ventral presumptive embryonic non-skeletogenic mesoderm	546	P. miniata	vegetal plate stage	early gastrula stage	2851
+542	dorsal presumptive embryonic non-skeletogenic mesoderm	546	P. miniata	vegetal plate stage	early gastrula stage	2852
+543	presumptive muscle cell	546	P. miniata	early prism stage	larval development	2853
+544	muscle cell	546	P. miniata	early pluteus stage	adulthood	2854
+545	presumptive blastocoel	546	P. miniata	28-cell stage	60-cell stage	2855
+546	pyloric sphincter muscle cell	546	P. miniata	open mouth stage	larval development	2856
+547	cardiac sphincter muscle cell	546	P. miniata	early pluteus stage	larval development	2857
+548	anal sphincter muscle cell	546	P. miniata	early pluteus stage	larval development	2858
+549	primary pore canal rudiment	546	P. miniata	open mouth stage	larval development	2859
+550	posterior enterocoel	546	P. miniata	late organogenesis stage	larval development	2860
+551	left anterior coelomic pouch	546	P. miniata	mid-organogenesis stage	larval development	2861
+552	right anterior coelomic pouch	546	P. miniata	mid-organogenesis stage	larval development	2862
+553	preoral ciliary band	546	P. miniata	open mouth stage	larval development	2863
+554	postoral ciliary band	546	P. miniata	open mouth stage	larval development	2864
+1	root node	560	S. purpuratus			10
+2	life cycle period	560	S. purpuratus			11
+3	echinoderm anatomy	560	S. purpuratus			12
+4	anatomical structure	560	S. purpuratus			13
+5	anatomical system	560	S. purpuratus			14
+6	anatomical region	560	S. purpuratus			15
+7	anatomical space	560	S. purpuratus			16
+8	whole organism	560	S. purpuratus	previtellogenic primary oocyte stage	adult stage	17
+9	multicellular organism	560	S. purpuratus	2-cell stage	adult stage	18
+10	embryo	560	S. purpuratus	1-cell stage	prism stage	19
+11	larva	560	S. purpuratus	early pluteus larva stage	metamorphic larva stage	20
+12	juvenile	560	S. purpuratus	early juvenile stage	late juvenile stage	21
+13	adult	560	S. purpuratus	adult stage		22
+14	digestive system	560	S. purpuratus	blastopore formation stage	adult stage	23
+15	embryonic digestive system	560	S. purpuratus		prism stage	24
+16	larval digestive system	560	S. purpuratus	early pluteus larva stage	metamorphic larva stage	25
+17	juvenile digestive system	560	S. purpuratus	early juvenile stage	late juvenile stage	26
+18	adult digestive system	560	S. purpuratus	adult stage		27
+19	immune system	560	S. purpuratus	late gastrula stage	adult stage	28
+20	embryonic immune system	560	S. purpuratus		prism stage	29
+21	larval immune system	560	S. purpuratus	early pluteus larva stage	metamorphic larva stage	30
+22	juvenile immune system	560	S. purpuratus	early juvenile stage	late juvenile stage	31
+23	adult immune system	560	S. purpuratus	adult stage		32
+24	reproductive system	560	S. purpuratus	early juvenile stage	adult stage	33
+25	nervous system	560	S. purpuratus	mesenchyme blastula phase	adult stage	34
+26	embryonic nervous system	560	S. purpuratus		prism stage	35
+27	larval nervous system	560	S. purpuratus	early pluteus larva stage	competent pluteus larva stage	36
+28	juvenile nervous system	560	S. purpuratus	early juvenile stage	late juvenile stage	37
+29	adult nervous system	560	S. purpuratus	adult stage		38
+30	muscular system	560	S. purpuratus	early pluteus larva stage	adult stage	39
+31	larval muscular system	560	S. purpuratus		metamorphic larva stage	40
+32	juvenile muscular system	560	S. purpuratus	early juvenile stage	late juvenile stage	41
+33	adult muscular system	560	S. purpuratus	adult stage		42
+34	endoskeleton	560	S. purpuratus	mid-gastrula stage	adult stage	43
+35	embryonic endoskeleton	560	S. purpuratus		prism stage	44
+36	larval endoskeleton	560	S. purpuratus	early pluteus larva stage	metamorphic larva stage	45
+37	rudiment endoskeleton	560	S. purpuratus	8-arm pluteus larva stage	metamorphic larva stage	46
+38	juvenile endoskeleton	560	S. purpuratus	early juvenile stage	late juvenile stage	47
+39	adult endoskeleton	560	S. purpuratus	adult stage		48
+40	water vascular system	560	S. purpuratus	6-arm pluteus larva stage	adult stage	49
+41	hemal system	560	S. purpuratus	8-arm pluteus larva stage	adult stage	50
+42	animal hemisphere	560	S. purpuratus	mature oocyte stage	vegetal plate stage	51
+43	vegetal hemisphere	560	S. purpuratus	mature oocyte stage	vegetal plate stage	52
+44	cell cortex	560	S. purpuratus	mature oocyte stage		53
+45	cleavage furrow	560	S. purpuratus	1-cell stage		54
+46	animal cortex	560	S. purpuratus	fully grown oocyte with centered germinal vesicle stage	1-cell stage	55
+47	vegetal cortex	560	S. purpuratus	fully grown oocyte with centered germinal vesicle stage	1-cell stage	56
+48	animal pole	560	S. purpuratus	fully grown oocyte with centered germinal vesicle stage	prism stage	57
+49	vegetal pole	560	S. purpuratus	fully grown oocyte with centered germinal vesicle stage	prism stage	58
+50	animal pole domain	560	S. purpuratus	very early blastula stage	prism stage	59
+51	blastopore	560	S. purpuratus	blastopore formation stage	prism stage	60
+52	blastopore lip	560	S. purpuratus	blastopore formation stage		61
+53	bottle cell	560	S. purpuratus	blastopore formation stage	blastopore formation stage	62
+54	embryonic cell	560	S. purpuratus	2-cell stage	prism stage	63
+55	vegetal plate	560	S. purpuratus	vegetal plate stage	late mesenchyme blastula stage	64
+56	cell	560	S. purpuratus	previtellogenic primary oocyte stage	adult stage	65
+57	cell part	560	S. purpuratus	previtellogenic primary oocyte stage	adult stage	66
+58	digestive system element	560	S. purpuratus	blastopore formation stage	adult stage	67
+59	skeletal element	560	S. purpuratus	mid-gastrula stage	adult stage	68
+60	embryonic structure	560	S. purpuratus	1-cell stage	prism stage	69
+61	larval structure	560	S. purpuratus	early pluteus larva stage	metamorphic larva stage	70
+62	juvenile structure	560	S. purpuratus	early juvenile stage	late juvenile stage	71
+63	adult structure	560	S. purpuratus	early juvenile stage	adult stage	72
+64	tissue	560	S. purpuratus	60-cell stage	adult stage	73
+65	rudiment	560	S. purpuratus	6-arm pluteus larva stage	metamorphic larva stage	74
+66	rudiment structure	560	S. purpuratus	6-arm pluteus larva stage	metamorphic larva stage	75
+67	non-rudiment adult structure	560	S. purpuratus	6-arm pluteus larva stage	metamorphic larva stage	76
+68	intracellular part	560	S. purpuratus			77
+69	cytoskeleton	560	S. purpuratus			78
+70	microtubule	560	S. purpuratus			79
+71	nucleus	560	S. purpuratus	mature oocyte stage		80
+72	oocyte	560	S. purpuratus	oogenesis period	oogenesis period	81
+73	germinal vesicle	560	S. purpuratus	not fully grown oocyte stage	fully grown oocyte with off-centered germinal vesicle stage	82
+74	equatorial pigment band	560	S. purpuratus	fully grown oocyte with centered germinal vesicle stage	prism stage	83
+75	cytoplasm	560	S. purpuratus	not fully grown oocyte stage		84
+76	centrosome	560	S. purpuratus	fully grown oocyte with off-centered germinal vesicle stage		85
+77	mitotic spindle	560	S. purpuratus	1-cell stage		86
+78	meiotic spindle	560	S. purpuratus	fully grown oocyte with off-centered germinal vesicle stage	fully grown oocyte with off-centered germinal vesicle stage	87
+79	fertilization envelope	560	S. purpuratus	1-cell stage	late blastula stage	88
+80	spermatozoid	560	S. purpuratus	spermatogenesis period	spermatogenesis period	89
+81	aster	560	S. purpuratus	fully grown oocyte with off-centered germinal vesicle stage		90
+82	sperm aster	560	S. purpuratus	mature spermatozoid stage	mature spermatozoid stage	91
+83	acellular membrane	560	S. purpuratus	mature oocyte stage	mature oocyte stage	92
+84	vitelline membrane	560	S. purpuratus			93
+85	hyaline layer	560	S. purpuratus	1-cell stage	prism stage	94
+86	microvillus	560	S. purpuratus	1-cell stage	1-cell stage	95
+87	apical lamina	560	S. purpuratus	1-cell stage	prism stage	96
+88	secretory vesicle	560	S. purpuratus	1-cell stage	1-cell stage	97
+89	cilium	560	S. purpuratus	vegetal plate stage	adult stage	98
+90	filopodium	560	S. purpuratus	early mesenchyme blastula stage	late gastrula stage	99
+91	basal lamina	560	S. purpuratus		4-arm pluteus larva stage	100
+92	basal laminar vesicle	560	S. purpuratus	mature oocyte stage	4-arm pluteus larva stage	101
+93	apical vesicle	560	S. purpuratus	mature oocyte stage		102
+94	cortical granule	560	S. purpuratus	mature oocyte stage		103
+95	echinonectin vesicle	560	S. purpuratus	mature oocyte stage		104
+96	mitochondrion	560	S. purpuratus			105
+97	actin cytoskeleton	560	S. purpuratus			106
+98	actin filament	560	S. purpuratus			107
+99	nuclear part	560	S. purpuratus	mature oocyte stage		108
+100	nucleoplasm	560	S. purpuratus			109
+101	nuclear envelope	560	S. purpuratus			110
+102	endoplasmic reticulum	560	S. purpuratus			111
+103	spermatozoid entry point	560	S. purpuratus	mature oocyte stage	1-cell stage	112
+104	plasma membrane	560	S. purpuratus			113
+105	polar body	560	S. purpuratus	fully grown oocyte with off-centered germinal vesicle stage	fully grown oocyte with no nucleus stage	114
+106	spermatozoid part	560	S. purpuratus	spermatogenesis period	spermatogenesis period	115
+107	spermatozoid head	560	S. purpuratus			116
+108	spermatozoid flagellum	560	S. purpuratus			117
+109	acrosomal vesicle	560	S. purpuratus	spermatogenesis period	spermatogenesis period	118
+110	small micromere descendant cell	560	S. purpuratus	very early blastula stage	competent pluteus larva stage	119
+111	presumptive primordial germ cell	560	S. purpuratus	32-cell stage	metamorphic larva stage	120
+112	primordial germ cell	560	S. purpuratus	early juvenile stage		121
+113	germ cell	560	S. purpuratus	adult stage		122
+114	gamete	560	S. purpuratus	gametogenesis	gametogenesis	123
+115	immature occyte	560	S. purpuratus		fully grown oocyte with no nucleus stage	124
+116	mature oocyte	560	S. purpuratus	mature oocyte stage	mature oocyte stage	125
+117	blastomere	560	S. purpuratus		60-cell stage	126
+118	blastomere of 2-cell embryo	560	S. purpuratus		2-cell stage	127
+119	blastomere of 4-cell embryo	560	S. purpuratus	4-cell stage	4-cell stage	128
+120	mesomere	560	S. purpuratus	16-cell stage	16-cell stage	129
+121	macromere	560	S. purpuratus	16-cell stage	16-cell stage	130
+122	cell tier	560	S. purpuratus	8-cell stage	late blastula stage	131
+123	macromere daughter cell tier	560	S. purpuratus	28-cell stage	32-cell stage	132
+124	micromere	560	S. purpuratus	16-cell stage	28-cell stage	133
+125	large micromere	560	S. purpuratus	32-cell stage		134
+126	large micromere descendant cell	560	S. purpuratus	very early blastula stage	early mesenchyme blastula stage	135
+127	small micromere	560	S. purpuratus	32-cell stage		136
+128	presumptive neuron	560	S. purpuratus	late blastula stage	adult stage	137
+129	animal pole domain presumptive neuron	560	S. purpuratus	mesenchyme blastula phase	prism stage	138
+130	ectoderm presumptive neuron	560	S. purpuratus	mesenchyme blastula phase	prism stage	139
+131	ciliary band presumptive neuron	560	S. purpuratus	mesenchyme blastula phase	competent pluteus larva stage	140
+132	endoderm associated presumptive neuron	560	S. purpuratus	prism stage	competent pluteus larva stage	141
+133	neuron	560	S. purpuratus	prism stage	adult stage	142
+134	larval neuron	560	S. purpuratus	early pluteus larva stage	competent pluteus larva stage	143
+135	serotonergic neuron	560	S. purpuratus	prism stage	competent pluteus larva stage	144
+136	synaptotagmin-B neuron	560	S. purpuratus			145
+137	dopaminergic neuron	560	S. purpuratus	prism stage	metamorphic larva stage	146
+138	GABAergic neuron	560	S. purpuratus	prism stage	metamorphic larva stage	147
+139	sensory neuron	560	S. purpuratus	prism stage	adult stage	148
+140	biopolar neuron	560	S. purpuratus	prism stage	adult stage	149
+141	multipolar neuron	560	S. purpuratus	prism stage	adult stage	150
+142	neural structure	560	S. purpuratus	prism stage	adult stage	151
+143	axon tract	560	S. purpuratus	prism stage	adult stage	152
+144	ciliary band neuron	560	S. purpuratus	prism stage	competent pluteus larva stage	153
+145	ectoderm	560	S. purpuratus	60-cell stage	metamorphic larva stage	154
+146	presumptive ciliary band cell	560	S. purpuratus	late blastula stage	late gastrula stage	155
+147	endoderm associated neuron	560	S. purpuratus	4-arm pluteus larva stage		156
+148	ganglion	560	S. purpuratus			157
+149	apical ganglion	560	S. purpuratus	prism stage	competent pluteus larva stage	158
+150	adult neuron	560	S. purpuratus	8-arm pluteus larva stage		159
+151	circumoral nerve ring	560	S. purpuratus	8-arm pluteus larva stage		160
+152	enteric nerve plexus	560	S. purpuratus	late juvenile stage		161
+153	radial nerve cord	560	S. purpuratus	8-arm pluteus larva stage		162
+154	primary podia associated neuron	560	S. purpuratus		late juvenile stage	163
+155	secondary podia associated neuron	560	S. purpuratus	early juvenile stage		164
+156	definitive spine associated neuron	560	S. purpuratus			165
+157	pedicellaria associated neuron	560	S. purpuratus			166
+158	basiepidermal nerve plexus	560	S. purpuratus	8-arm pluteus larva stage		167
+159	animal quartet	560	S. purpuratus		8-cell stage	168
+160	vegetal quartet	560	S. purpuratus		8-cell stage	169
+161	animal tier 1	560	S. purpuratus	28-cell stage	60-cell stage	170
+162	animal tier 2	560	S. purpuratus	28-cell stage	60-cell stage	171
+163	vegetal tier 1	560	S. purpuratus	56-cell stage	early blastula stage	172
+164	vegetal tier 2	560	S. purpuratus	56-cell stage	early blastula stage	173
+165	vegetal tier 1 upper	560	S. purpuratus	mid-blastula stage		174
+166	vegetal tier 1 lower	560	S. purpuratus	mid-blastula stage		175
+167	vegetal tier 2 upper	560	S. purpuratus	mid-blastula stage		176
+168	vegetal tier 2 lower	560	S. purpuratus	mid-blastula stage		177
+169	germ layer	560	S. purpuratus	early mesenchyme blastula stage		178
+170	embryonic tissue	560	S. purpuratus	16-cell stage	prism stage	179
+171	presumptive ectoderm	560	S. purpuratus	16-cell stage	vegetal plate stage	180
+172	animal ectoderm	560	S. purpuratus	60-cell stage	vegetal plate stage	181
+173	vegetal ectoderm	560	S. purpuratus	early blastula stage	vegetal plate stage	182
+174	ventral ectoderm	560	S. purpuratus	60-cell stage	competent pluteus larva stage	183
+175	dorsal ectoderm	560	S. purpuratus	60-cell stage	competent pluteus larva stage	184
+176	ectoendoderm	560	S. purpuratus	60-cell stage	very late blastula stage	185
+177	endomesoderm	560	S. purpuratus	60-cell stage	very late blastula stage	186
+178	inner animal pole domain	560	S. purpuratus	mesenchyme blastula phase	prism stage	187
+179	outer animal pole domain	560	S. purpuratus	mesenchyme blastula phase	prism stage	188
+180	central ectoderm	560	S. purpuratus	late blastula stage	late gastrula stage	189
+181	border ectoderm	560	S. purpuratus	mesenchyme blastula phase	mesenchyme blastula phase	190
+182	near-apical ectoderm	560	S. purpuratus	mesenchyme blastula phase	invagination phase	191
+183	apical ectoderm	560	S. purpuratus	blastula period	prism stage	192
+184	veg1-lateral ectoderm	560	S. purpuratus	mesenchyme blastula phase	invagination phase	193
+185	veg-1 oral ectoderm	560	S. purpuratus	mesenchyme blastula phase	invagination phase	194
+186	lateral ectoderm	560	S. purpuratus	mesenchyme blastula phase	invagination phase	195
+187	right lateral ectoderm	560	S. purpuratus			196
+188	left lateral ectoderm	560	S. purpuratus			197
+189	arm tip ectoderm	560	S. purpuratus	early pluteus larva stage	competent pluteus larva stage	198
+190	dorsal arm tip ectoderm	560	S. purpuratus	early pluteus larva stage	competent pluteus larva stage	199
+191	ventral arm tip ectoderm	560	S. purpuratus	early pluteus larva stage	competent pluteus larva stage	200
+192	apical tuft	560	S. purpuratus	very late blastula stage	prism stage	201
+193	larval tissue	560	S. purpuratus	early pluteus larva stage	competent pluteus larva stage	202
+194	rudiment tissue	560	S. purpuratus	6-arm pluteus larva stage	metamorphic larva stage	203
+195	juvenile tissue	560	S. purpuratus	early juvenile stage	late juvenile stage	204
+196	adult tissue	560	S. purpuratus	early juvenile stage		205
+197	presumptive stomodeum	560	S. purpuratus	mesenchyme blastula phase		206
+198	stomodeum	560	S. purpuratus	prism stage		207
+199	ciliary band	560	S. purpuratus	mesenchyme blastula phase	competent pluteus larva stage	208
+200	oral hood ciliary band	560	S. purpuratus		competent pluteus larva stage	209
+201	arm ciliary band	560	S. purpuratus		competent pluteus larva stage	210
+202	animal pole ciliary band	560	S. purpuratus	mesenchyme blastula phase		211
+203	vegetal ciliary band	560	S. purpuratus	mesenchyme blastula phase		212
+204	lateral ciliary band	560	S. purpuratus	mesenchyme blastula phase		213
+205	oral hood	560	S. purpuratus		competent pluteus larva stage	214
+206	apex	560	S. purpuratus		competent pluteus larva stage	215
+207	larval arm	560	S. purpuratus		competent pluteus larva stage	216
+208	right anterolateral arm	560	S. purpuratus	4-arm pluteus larva stage		217
+209	left anterolateral arm	560	S. purpuratus	4-arm pluteus larva stage		218
+210	right postoral arm	560	S. purpuratus			219
+211	left postoral arm	560	S. purpuratus			220
+212	right posterodorsal arm	560	S. purpuratus	6-arm pluteus larva stage		221
+213	left posterodorsal arm	560	S. purpuratus	6-arm pluteus larva stage		222
+214	right preoral arm	560	S. purpuratus	8-arm pluteus larva stage		223
+215	left preoral arm	560	S. purpuratus	8-arm pluteus larva stage		224
+216	spicule rudiment	560	S. purpuratus			225
+217	spicule granule	560	S. purpuratus			226
+218	triradiate spicule rudiment	560	S. purpuratus			227
+219	right ventrolateral triradiate spicule rudiment	560	S. purpuratus		late gastrula stage	228
+220	left ventrolateral triradiate spicule rudiment	560	S. purpuratus		late gastrula stage	229
+221	hexaradiate spicule rudiment	560	S. purpuratus	8-arm pluteus larva stage		230
+222	larval spicule	560	S. purpuratus	early pluteus larva stage		231
+223	embryonic skeletogenic mesenchyme	560	S. purpuratus	early mesenchyme blastula stage	prism stage	232
+224	skeletal rod	560	S. purpuratus	late gastrula stage	early juvenile stage	233
+225	anonymous rod	560	S. purpuratus	mid-gastrula stage	competent pluteus larva stage	234
+226	right anonymous rod	560	S. purpuratus	mid-gastrula stage	competent pluteus larva stage	235
+227	left anonymous rod	560	S. purpuratus	mid-gastrula stage	competent pluteus larva stage	236
+228	right dorsoventral connecting rod	560	S. purpuratus	mid-gastrula stage	competent pluteus larva stage	237
+229	right anterolateral rod	560	S. purpuratus	early pluteus larva stage	competent pluteus larva stage	238
+230	left dorsoventral connecting rod	560	S. purpuratus	mid-gastrula stage	competent pluteus larva stage	239
+231	left anterolateral rod	560	S. purpuratus	early pluteus larva stage	competent pluteus larva stage	240
+232	right postoral rod	560	S. purpuratus	prism stage	competent pluteus larva stage	241
+233	left postoral rod	560	S. purpuratus	prism stage	competent pluteus larva stage	242
+234	right posterodorsal rod	560	S. purpuratus	4-arm pluteus larva stage	competent pluteus larva stage	243
+235	left posterodorsal rod	560	S. purpuratus	4-arm pluteus larva stage	competent pluteus larva stage	244
+236	dorsal arch	560	S. purpuratus	4-arm pluteus larva stage	competent pluteus larva stage	245
+237	right preoral rod	560	S. purpuratus	4-arm pluteus larva stage	competent pluteus larva stage	246
+238	left preoral rod	560	S. purpuratus	4-arm pluteus larva stage	competent pluteus larva stage	247
+239	right ventral transverse rod	560	S. purpuratus	mid-gastrula stage	competent pluteus larva stage	248
+240	left ventral transverse rod	560	S. purpuratus	mid-gastrula stage	competent pluteus larva stage	249
+241	posterior tip of body rod	560	S. purpuratus	prism stage	competent pluteus larva stage	250
+242	scheitel	560	S. purpuratus	early pluteus larva stage	competent pluteus larva stage	251
+243	body rod	560	S. purpuratus	prism stage	competent pluteus larva stage	252
+244	left body rod	560	S. purpuratus			253
+245	right body rod	560	S. purpuratus			254
+246	posterior tip of left body rod	560	S. purpuratus			255
+247	posteror tip of right body rod	560	S. purpuratus			256
+248	right recurrent rod	560	S. purpuratus	4-arm pluteus larva stage	competent pluteus larva stage	257
+249	left recurrent rod	560	S. purpuratus	4-arm pluteus larva stage	competent pluteus larva stage	258
+250	posterior transverse rod	560	S. purpuratus	6-arm pluteus larva stage	competent pluteus larva stage	259
+251	mouth	560	S. purpuratus	early pluteus larva stage	adult stage	260
+252	larval mouth	560	S. purpuratus		competent pluteus larva stage	261
+253	anus	560	S. purpuratus	early pluteus larva stage	adult stage	262
+254	larval anus	560	S. purpuratus		competent pluteus larva stage	263
+255	presumptive endoderm	560	S. purpuratus	early blastula stage	vegetal plate stage	264
+256	endoderm	560	S. purpuratus	mid-blastula stage	competent pluteus larva stage	265
+257	archenteron	560	S. purpuratus	blastopore formation stage	early pluteus larva stage	266
+258	hindgut	560	S. purpuratus	late gastrula stage	early pluteus larva stage	267
+259	dorsal hindgut	560	S. purpuratus	late gastrula stage	early pluteus larva stage	268
+260	ventral hindgut	560	S. purpuratus	late gastrula stage	early pluteus larva stage	269
+261	midgut	560	S. purpuratus	mid-gastrula stage	early pluteus larva stage	270
+262	ventral midgut	560	S. purpuratus	mid-gastrula stage	early pluteus larva stage	271
+263	dorsal midgut	560	S. purpuratus	mid-gastrula stage	early pluteus larva stage	272
+264	anterior midgut	560	S. purpuratus	mid-gastrula stage	early pluteus larva stage	273
+265	posterior midgut	560	S. purpuratus	mid-gastrula stage	early pluteus larva stage	274
+266	anterior hindgut	560	S. purpuratus	late gastrula stage	early pluteus larva stage	275
+267	posterior hindgut	560	S. purpuratus	late gastrula stage	early pluteus larva stage	276
+268	foregut	560	S. purpuratus	mid-gastrula stage	early pluteus larva stage	277
+269	ventral foregut	560	S. purpuratus	mid-gastrula stage	early pluteus larva stage	278
+270	dorsal foregut	560	S. purpuratus	mid-gastrula stage	early pluteus larva stage	279
+271	anterior foregut	560	S. purpuratus	mid-gastrula stage	early pluteus larva stage	280
+272	posterior foregut	560	S. purpuratus	mid-gastrula stage	early pluteus larva stage	281
+273	tip of archenteron	560	S. purpuratus	early gastrula stage	prism stage	282
+274	presumptive mesoderm	560	S. purpuratus	16-cell stage	vegetal plate stage	283
+275	mesoderm	560	S. purpuratus	16-cell stage	competent pluteus larva stage	284
+276	embryonic skeletogenic mesoderm	560	S. purpuratus	32-cell stage	very late blastula stage	285
+277	embryonic skeletogenic mesenchyme cell	560	S. purpuratus	early mesenchyme blastula stage	prism stage	286
+278	syncytium	560	S. purpuratus			287
+279	embryonic skeletogenic mesenchyme syncytium	560	S. purpuratus	early gastrula stage	prism stage	288
+280	subequatorial skeletogenic mesenchyme ring	560	S. purpuratus	mid-gastrula stage	prism stage	289
+281	ventral skeletogenic mesenchyme chain	560	S. purpuratus	mid-gastrula stage	prism stage	290
+282	dorsal skeletogenic mesenchyme chain	560	S. purpuratus	mid-gastrula stage	prism stage	291
+283	right ventrolateral skeletogenic mesenchyme cluster	560	S. purpuratus	mid-gastrula stage	prism stage	292
+284	left ventrolateral skeletogenic mesenchyme cluster	560	S. purpuratus	mid-gastrula stage	prism stage	293
+285	lateral chain of skeletogenic mesenchyme	560	S. purpuratus	mid-gastrula stage	prism stage	294
+286	right lateral chain of skeletogenic mesenchyme	560	S. purpuratus	late gastrula stage	prism stage	295
+287	left lateral chain of skeletogenic mesenchyme	560	S. purpuratus	late gastrula stage	prism stage	296
+288	embryonic non-skeletogenic mesoderm	560	S. purpuratus	very late blastula stage	late gastrula stage	297
+289	ventral non-skeletogenic mesoderm	560	S. purpuratus	mesenchyme blastula phase	early gastrula stage	298
+290	dorsal non-skeletogenic mesoderm	560	S. purpuratus	mesenchyme blastula phase	early gastrula stage	299
+291	embryonic non-skeletogenic mesenchyme	560	S. purpuratus	early gastrula stage	prism stage	300
+292	embryonic non-skeletogenic mesenchyme cell	560	S. purpuratus	early gastrula stage	prism stage	301
+293	larval non-skeletogenic mesenchyme	560	S. purpuratus	early pluteus larva stage	competent pluteus larva stage	302
+294	larval non-skeletogenic mesenchyme cell	560	S. purpuratus	early pluteus larva stage	competent pluteus larva stage	303
+295	presumptive blastocoelar cell	560	S. purpuratus	mesenchyme blastula phase	late gastrula stage	304
+296	presumptive pigment cell	560	S. purpuratus	mesenchyme blastula phase	late gastrula stage	305
+297	pigment cell	560	S. purpuratus	early gastrula stage	late juvenile stage	306
+298	embryonic pigment cell	560	S. purpuratus		prism stage	307
+299	larval pigment cell	560	S. purpuratus	early pluteus larva stage	metamorphic larva stage	308
+300	juvenile pigment cell	560	S. purpuratus	early juvenile stage		309
+301	rudiment pigment cell	560	S. purpuratus	8-arm pluteus larva stage	metamorphic larva stage	310
+302	blastocoelar cell	560	S. purpuratus	late gastrula stage	metamorphic larva stage	311
+303	globular cell	560	S. purpuratus	early pluteus larva stage		312
+304	filopodial cell	560	S. purpuratus	early pluteus larva stage		313
+305	ovoid cell	560	S. purpuratus	early pluteus larva stage		314
+306	amoeboid cell	560	S. purpuratus	early pluteus larva stage		315
+307	muscle precursor cell	560	S. purpuratus	late gastrula stage	early pluteus larva stage	316
+308	muscle	560	S. purpuratus			317
+309	larval muscle	560	S. purpuratus			318
+310	rudiment muscle	560	S. purpuratus	8-arm pluteus larva stage		319
+311	juvenile muscle	560	S. purpuratus			320
+312	adult muscle	560	S. purpuratus	adult stage		321
+313	blastocoel	560	S. purpuratus	very early blastula stage	prism stage	322
+314	sphincter	560	S. purpuratus	prism stage		323
+315	pyloric sphincter	560	S. purpuratus	early pluteus larva stage	competent pluteus larva stage	324
+316	cardiac sphincter	560	S. purpuratus	early pluteus larva stage	competent pluteus larva stage	325
+317	anal sphincter	560	S. purpuratus	4-arm pluteus larva stage	competent pluteus larva stage	326
+318	sphincter muscle	560	S. purpuratus	4-arm pluteus larva stage		327
+319	sphincter muscle cell	560	S. purpuratus	4-arm pluteus larva stage		328
+320	pyloric sphincteric muscle	560	S. purpuratus		competent pluteus larva stage	329
+321	cardiac sphincteric muscle	560	S. purpuratus		competent pluteus larva stage	330
+322	anal sphincteric muscle	560	S. purpuratus		competent pluteus larva stage	331
+323	larval esophagus	560	S. purpuratus	early pluteus larva stage	competent pluteus larva stage	332
+324	circumesophageal muscle	560	S. purpuratus	4-arm pluteus larva stage		333
+325	circumesophageal muscle cell	560	S. purpuratus	4-arm pluteus larva stage	competent pluteus larva stage	334
+326	larval stomach	560	S. purpuratus	4-arm pluteus larva stage	competent pluteus larva stage	335
+327	larval intestine	560	S. purpuratus	4-arm pluteus larva stage	competent pluteus larva stage	336
+328	larval skeletogenic mesenchyme	560	S. purpuratus	early pluteus larva stage	competent pluteus larva stage	337
+329	larval skeletogenic mesenchyme cell	560	S. purpuratus	early pluteus larva stage	competent pluteus larva stage	338
+330	coelom	560	S. purpuratus	prism stage	adult stage	339
+331	unpaired coelomic pouch	560	S. purpuratus		prism stage	340
+332	right coelomic pouch	560	S. purpuratus	early pluteus larva stage	6-arm pluteus larva stage	341
+333	left coelomic pouch	560	S. purpuratus	early pluteus larva stage	6-arm pluteus larva stage	342
+334	right coelomic constriction	560	S. purpuratus	early pluteus larva stage	6-arm pluteus larva stage	343
+335	left coelomic constriction	560	S. purpuratus	early pluteus larva stage	6-arm pluteus larva stage	344
+336	larval epithelium	560	S. purpuratus		metamorphic larva stage	345
+337	vestibule	560	S. purpuratus	6-arm pluteus larva stage	8-arm pluteus larva stage	346
+338	oral epithelium	560	S. purpuratus			347
+339	aboral epithelium	560	S. purpuratus			348
+340	left lateral field	560	S. purpuratus			349
+341	vestibular pore	560	S. purpuratus	competent pluteus larva stage	competent pluteus larva stage	350
+342	axocoel	560	S. purpuratus	6-arm pluteus larva stage	8-arm pluteus larva stage	351
+343	left axocoel	560	S. purpuratus	8-arm pluteus larva stage	competent pluteus larva stage	352
+344	axial coelom	560	S. purpuratus	early juvenile stage		353
+345	hydrocoel	560	S. purpuratus	6-arm pluteus larva stage	8-arm pluteus larva stage	354
+346	somatocoel	560	S. purpuratus	6-arm pluteus larva stage	8-arm pluteus larva stage	355
+347	left hydrocoel	560	S. purpuratus			356
+348	left somatocoel	560	S. purpuratus			357
+349	right axohydrocoel	560	S. purpuratus	6-arm pluteus larva stage	8-arm pluteus larva stage	358
+350	right somatocoel	560	S. purpuratus			359
+351	axial complex	560	S. purpuratus	early juvenile stage	adult stage	360
+352	stone canal	560	S. purpuratus	8-arm pluteus larva stage	adult stage	361
+353	ring canal	560	S. purpuratus	8-arm pluteus larva stage	adult stage	362
+354	radial canal	560	S. purpuratus	8-arm pluteus larva stage	adult stage	363
+355	primary pore canal	560	S. purpuratus	4-arm pluteus larva stage	4-arm pluteus larva stage	364
+356	hydropore	560	S. purpuratus	4-arm pluteus larva stage	adult stage	365
+357	right axocoel	560	S. purpuratus			366
+358	right hydrocoel	560	S. purpuratus			367
+359	axial sinus	560	S. purpuratus	early juvenile stage	adult stage	368
+360	axial organ	560	S. purpuratus	early juvenile stage	adult stage	369
+361	dorsal sac	560	S. purpuratus	early juvenile stage	adult stage	370
+362	ciliated epaulette	560	S. purpuratus	6-arm pluteus larva stage	competent pluteus larva stage	371
+363	anterior ciliated epaulette	560	S. purpuratus	8-arm pluteus larva stage	competent pluteus larva stage	372
+364	posterior ciliated epaulette	560	S. purpuratus	8-arm pluteus larva stage	competent pluteus larva stage	373
+365	lateral field	560	S. purpuratus	8-arm pluteus larva stage	competent pluteus larva stage	374
+366	right lateral field	560	S. purpuratus			375
+367	ambulacral plate	560	S. purpuratus	8-arm pluteus larva stage		376
+368	adult skeletogenic mesenchyme	560	S. purpuratus	early juvenile stage		377
+369	interambulacral plate	560	S. purpuratus	8-arm pluteus larva stage		378
+370	ambulacra	560	S. purpuratus	8-arm pluteus larva stage	adult stage	379
+371	interambulacra	560	S. purpuratus	8-arm pluteus larva stage	adult stage	380
+372	genital plate	560	S. purpuratus	8-arm pluteus larva stage		381
+373	appendage	560	S. purpuratus			382
+374	pedicellaria	560	S. purpuratus	8-arm pluteus larva stage	adult stage	383
+375	ocular plate	560	S. purpuratus	8-arm pluteus larva stage		384
+376	buccal plate	560	S. purpuratus	early juvenile stage		385
+377	genital plate AB	560	S. purpuratus			386
+378	genital plate BC	560	S. purpuratus			387
+379	genital plate CD	560	S. purpuratus			388
+380	genital plate DE	560	S. purpuratus			389
+381	genital plate EA	560	S. purpuratus			390
+382	podia	560	S. purpuratus	8-arm pluteus larva stage	adult stage	391
+383	primary podia	560	S. purpuratus		late juvenile stage	392
+384	disk of primary podia	560	S. purpuratus	8-arm pluteus larva stage	late juvenile stage	393
+385	secondary podia	560	S. purpuratus	early juvenile stage		394
+386	disk of secondary podia	560	S. purpuratus	early juvenile stage		395
+387	buccal podia	560	S. purpuratus	early juvenile stage		396
+388	spine	560	S. purpuratus	8-arm pluteus larva stage	adult stage	397
+389	juvenile spine	560	S. purpuratus		late juvenile stage	398
+390	definitive spine	560	S. purpuratus			399
+391	sphaeridium	560	S. purpuratus	early juvenile stage	adult stage	400
+392	ampulla	560	S. purpuratus	early juvenile stage	adult stage	401
+393	adult mouth	560	S. purpuratus	late juvenile stage		402
+394	adult anus	560	S. purpuratus	late juvenile stage		403
+395	Aristotles lantern	560	S. purpuratus	early juvenile stage	adult stage	404
+396	tooth	560	S. purpuratus	early juvenile stage	adult stage	405
+397	madreporite	560	S. purpuratus	early juvenile stage		406
+398	gonopore	560	S. purpuratus	early juvenile stage	adult stage	407
+399	gonad	560	S. purpuratus	adult stage		408
+400	ovary	560	S. purpuratus			409
+401	testis	560	S. purpuratus			410
+402	juvenile digestive tract	560	S. purpuratus	early juvenile stage	late juvenile stage	411
+403	adult digestive tract	560	S. purpuratus	adult stage	adult stage	412
+404	mesentery	560	S. purpuratus	early juvenile stage	adult stage	413
+405	perivisceral cavity	560	S. purpuratus	early juvenile stage	adult stage	414
+406	photosensory cell	560	S. purpuratus	early juvenile stage		415
+489	embryonic territory	560	S. purpuratus	16-cell stage	open mouth stage	2733
+490	adult organism	560	S. purpuratus	adult stage		2734
+491	embryonic muscular system	560	S. purpuratus	early pluteus stage	open mouth stage	2735
+492	extracellular matrix	560	S. purpuratus	1-cell stage	adult stage	2736
+493	blastomere of 8-cell embryo	560	S. purpuratus	8-cell stage	8-cell stage	2737
+494	blastomere of 16-cell embryo	560	S. purpuratus	16-cell stage	16-cell stage	2738
+495	presumptive animal pole domain neuron	560	S. purpuratus	vegetal plate stage	late gastrula stage	2739
+496	presumptive ectoderm neuron	560	S. purpuratus	vegetal plate stage	late prism stage	2740
+497	presumptive ciliary band neuron	560	S. purpuratus	early prism stage	late prism stage	2741
+498	presumptive endoderm-associated neuron	560	S. purpuratus	late gastrula stage	late gastrula stage	2742
+499	postoral neuron	560	S. purpuratus	early prism stage	larval development	2743
+500	presumptive postoral neuron	560	S. purpuratus	mesenchyme blastula stage	late gastrula stage	2744
+501	synaptotagmin-B-expressing neuron	560	S. purpuratus	late gastrula stage	adulthood	2745
+502	nitric oxide synthase-expressing neuron	560	S. purpuratus	larval development	adulthood	2746
+503	cholinergic neuron	560	S. purpuratus	early pluteus stage	adulthood	2747
+504	catecholaminergic/cholinergic neuron	560	S. purpuratus	early pluteus stage	larval development	2748
+505	endoderm-associated neuron	560	S. purpuratus	early prism stage	larval development	2749
+506	lateral ganglion	560	S. purpuratus	late prism stage	larval development	2750
+507	right lateral ganglion	560	S. purpuratus			2751
+508	left lateral ganglion	560	S. purpuratus			2752
+509	presumptive ventral ectoderm	560	S. purpuratus	60-cell stage	mid-gastrula stage	2753
+510	presumptive dorsal ectoderm	560	S. purpuratus	vegetal plate stage	mid-gastrula stage	2754
+511	anterior neuroectoderm	560	S. purpuratus	60-cell stage	mesenchyme blastula stage	2755
+512	equatorial ectoderm	560	S. purpuratus	60-cell stage	mesenchyme blastula stage	2756
+513	inner anterior neuroectoderm	560	S. purpuratus	mesenchyme blastula stage	late prism stage	2757
+514	outer anterior neuroectoderm	560	S. purpuratus	mesenchyme blastula stage	late prism stage	2758
+515	central ventral ectoderm	560	S. purpuratus	vegetal plate stage	late gastrula stage	2759
+516	near apical ectoderm	560	S. purpuratus	vegetal plate stage	late gastrula stage	2760
+517	lateral border ectoderm	560	S. purpuratus	mesenchyme blastula stage	early prism stage	2761
+518	ventral border ectoderm	560	S. purpuratus	mesenchyme blastula stage	early prism stage	2762
+519	dorsal border ectoderm	560	S. purpuratus	mesenchyme blastula stage	early prism stage	2763
+520	animal lateral ectoderm	560	S. purpuratus	mesenchyme blastula stage	early gastrula stage	2764
+521	right animal lateral ectoderm	560	S. purpuratus	mesenchyme blastula stage	early gastrula stage	2765
+522	left animal lateral ectoderm	560	S. purpuratus	mesenchyme blastula stage	early gastrula stage	2766
+523	postoral arm tip ectoderm	560	S. purpuratus	late prism stage	larval development	2767
+524	right postoral arm tip ectoderm	560	S. purpuratus	late prism stage	larval development	2768
+525	left postoral arm tip ectoderm	560	S. purpuratus	late prism stage	larval development	2769
+526	presumptive ciliary band	560	S. purpuratus	mesenchyme blastula stage	early pluteus stage	2770
+527	arm	560	S. purpuratus	open mouth stage	larval development	2771
+528	anterolateral arm	560	S. purpuratus	larval development		2772
+529	postoral arm	560	S. purpuratus			2773
+530	anterolateral rod	560	S. purpuratus	late prism stage	larval development	2774
+531	postoral rod	560	S. purpuratus	early prism stage	larval development	2775
+532	dorsoventral connecting rod	560	S. purpuratus		larval development	2776
+533	ventral transverse rod	560	S. purpuratus		larval development	2777
+534	distal tip of body rod	560	S. purpuratus	early prism stage	larval development	2778
+535	distal tip of right body rod	560	S. purpuratus	early prism stage	larval development	2779
+536	distal tip of left body rod	560	S. purpuratus	early prism stage	larval development	2780
+537	recurrent rod	560	S. purpuratus	late prism stage	larval development	2781
+538	presumptive embryonic skeletogenic mesoderm	560	S. purpuratus	32-cell stage	vegetal plate stage	2782
+539	ventrolateral skeletogenic mesenchyme cluster	560	S. purpuratus	mid-gastrula stage	early prism stage	2783
+540	presumptive embryonic non-skeletogenic mesoderm	560	S. purpuratus	late blastula stage	early prism stage	2784
+541	ventral presumptive embryonic non-skeletogenic mesoderm	560	S. purpuratus	vegetal plate stage	early gastrula stage	2785
+542	dorsal presumptive embryonic non-skeletogenic mesoderm	560	S. purpuratus	vegetal plate stage	early gastrula stage	2786
+543	presumptive muscle cell	560	S. purpuratus	early prism stage	larval development	2787
+544	muscle cell	560	S. purpuratus	early pluteus stage	adulthood	2788
+545	presumptive blastocoel	560	S. purpuratus	28-cell stage	60-cell stage	2789
+546	pyloric sphincter muscle cell	560	S. purpuratus	open mouth stage	larval development	2790
+547	cardiac sphincter muscle cell	560	S. purpuratus	early pluteus stage	larval development	2791
+548	anal sphincter muscle cell	560	S. purpuratus	early pluteus stage	larval development	2792
+549	primary pore canal rudiment	560	S. purpuratus	open mouth stage	larval development	2793
+550	posterior enterocoel	560	S. purpuratus	late organogenesis stage	larval development	2794
+551	left anterior coelomic pouch	560	S. purpuratus	mid-organogenesis stage	larval development	2795
+552	right anterior coelomic pouch	560	S. purpuratus	mid-organogenesis stage	larval development	2796
+553	preoral ciliary band	560	S. purpuratus	open mouth stage	larval development	2797
+554	postoral ciliary band	560	S. purpuratus	open mouth stage	larval development	2798
+1	root node	583	Echinoderms			1230
+2	life cycle period	583	Echinoderms			1231
+3	echinoderm anatomy	583	Echinoderms			1232
+4	anatomical structure	583	Echinoderms			1233
+5	anatomical system	583	Echinoderms			1234
+6	anatomical region	583	Echinoderms			1235
+7	anatomical space	583	Echinoderms			1236
+8	whole organism	583	Echinoderms	previtellogenic primary oocyte stage	adult stage	1237
+9	multicellular organism	583	Echinoderms	2-cell stage	adult stage	1238
+10	embryo	583	Echinoderms	1-cell stage	prism stage	1239
+11	larva	583	Echinoderms	early pluteus larva stage	metamorphic larva stage	1240
+12	juvenile	583	Echinoderms	early juvenile stage	late juvenile stage	1241
+13	adult	583	Echinoderms	adult stage		1242
+14	digestive system	583	Echinoderms	blastopore formation stage	adult stage	1243
+15	embryonic digestive system	583	Echinoderms		prism stage	1244
+16	larval digestive system	583	Echinoderms	early pluteus larva stage	metamorphic larva stage	1245
+17	juvenile digestive system	583	Echinoderms	early juvenile stage	late juvenile stage	1246
+18	adult digestive system	583	Echinoderms	adult stage		1247
+19	immune system	583	Echinoderms	late gastrula stage	adult stage	1248
+20	embryonic immune system	583	Echinoderms		prism stage	1249
+21	larval immune system	583	Echinoderms	early pluteus larva stage	metamorphic larva stage	1250
+22	juvenile immune system	583	Echinoderms	early juvenile stage	late juvenile stage	1251
+23	adult immune system	583	Echinoderms	adult stage		1252
+24	reproductive system	583	Echinoderms	early juvenile stage	adult stage	1253
+25	nervous system	583	Echinoderms	mesenchyme blastula phase	adult stage	1254
+26	embryonic nervous system	583	Echinoderms		prism stage	1255
+27	larval nervous system	583	Echinoderms	early pluteus larva stage	competent pluteus larva stage	1256
+28	juvenile nervous system	583	Echinoderms	early juvenile stage	late juvenile stage	1257
+29	adult nervous system	583	Echinoderms	adult stage		1258
+30	muscular system	583	Echinoderms	early pluteus larva stage	adult stage	1259
+31	larval muscular system	583	Echinoderms		metamorphic larva stage	1260
+32	juvenile muscular system	583	Echinoderms	early juvenile stage	late juvenile stage	1261
+33	adult muscular system	583	Echinoderms	adult stage		1262
+34	endoskeleton	583	Echinoderms	mid-gastrula stage	adult stage	1263
+37	rudiment endoskeleton	583	Echinoderms	8-arm pluteus larva stage	metamorphic larva stage	1264
+38	juvenile endoskeleton	583	Echinoderms	early juvenile stage	late juvenile stage	1265
+39	adult endoskeleton	583	Echinoderms	adult stage		1266
+40	water vascular system	583	Echinoderms	6-arm pluteus larva stage	adult stage	1267
+41	hemal system	583	Echinoderms	8-arm pluteus larva stage	adult stage	1268
+42	animal hemisphere	583	Echinoderms	mature oocyte stage	late swimming blastula stage	1269
+43	vegetal hemisphere	583	Echinoderms	mature oocyte stage	late swimming blastula stage	1270
+44	cell cortex	583	Echinoderms	mature oocyte stage		1271
+45	cleavage furrow	583	Echinoderms	1-cell stage		1272
+46	animal cortex	583	Echinoderms	fully grown oocyte with centered germinal vesicle stage	1-cell stage	1273
+47	vegetal cortex	583	Echinoderms	fully grown oocyte with centered germinal vesicle stage	1-cell stage	1274
+48	animal pole	583	Echinoderms	fully grown oocyte with centered germinal vesicle stage	prism stage	1275
+49	vegetal pole	583	Echinoderms	fully grown oocyte with centered germinal vesicle stage	prism stage	1276
+50	animal pole domain	583	Echinoderms	very early blastula stage	prism stage	1277
+51	blastopore	583	Echinoderms	blastopore formation stage	prism stage	1278
+52	blastopore lip	583	Echinoderms	blastopore formation stage		1279
+54	embryonic cell	583	Echinoderms	2-cell stage	prism stage	1280
+55	vegetal plate	583	Echinoderms	swimming blastula stage	late mesenchyme blastula stage	1281
+56	cell	583	Echinoderms	previtellogenic primary oocyte stage	adult stage	1282
+57	cell part	583	Echinoderms	previtellogenic primary oocyte stage	adult stage	1283
+58	digestive system element	583	Echinoderms	blastopore formation stage	adult stage	1284
+59	skeletal element	583	Echinoderms	mid-gastrula stage	adult stage	1285
+60	embryonic structure	583	Echinoderms	1-cell stage	prism stage	1286
+61	larval structure	583	Echinoderms	early pluteus larva stage	metamorphic larva stage	1287
+62	juvenile structure	583	Echinoderms	early juvenile stage	late juvenile stage	1288
+63	adult structure	583	Echinoderms	early juvenile stage	adult stage	1289
+64	tissue	583	Echinoderms	60-cell stage	adult stage	1290
+65	rudiment	583	Echinoderms	6-arm pluteus larva stage	metamorphic larva stage	1291
+66	rudiment structure	583	Echinoderms	6-arm pluteus larva stage	metamorphic larva stage	1292
+67	non-rudiment adult structure	583	Echinoderms	6-arm pluteus larva stage	metamorphic larva stage	1293
+68	intracellular part	583	Echinoderms			1294
+69	cytoskeleton	583	Echinoderms			1295
+70	microtubule	583	Echinoderms			1296
+71	nucleus	583	Echinoderms	mature oocyte stage		1297
+72	oocyte	583	Echinoderms	oogenesis period	oogenesis period	1298
+73	germinal vesicle	583	Echinoderms	not fully grown oocyte stage	fully grown oocyte with off-centered germinal vesicle stage	1299
+75	cytoplasm	583	Echinoderms	not fully grown oocyte stage		1300
+76	centrosome	583	Echinoderms	fully grown oocyte with off-centered germinal vesicle stage		1301
+77	mitotic spindle	583	Echinoderms	1-cell stage		1302
+78	meiotic spindle	583	Echinoderms	fully grown oocyte with off-centered germinal vesicle stage	fully grown oocyte with off-centered germinal vesicle stage	1303
+79	fertilization envelope	583	Echinoderms	1-cell stage	hatched blastula stage	1304
+80	spermatozoid	583	Echinoderms	spermatogenesis period	spermatogenesis period	1305
+81	aster	583	Echinoderms	fully grown oocyte with off-centered germinal vesicle stage		1306
+82	sperm aster	583	Echinoderms	mature spermatozoid stage	mature spermatozoid stage	1307
+83	acellular membrane	583	Echinoderms	mature oocyte stage	mature oocyte stage	1308
+84	vitelline membrane	583	Echinoderms			1309
+85	hyaline layer	583	Echinoderms	1-cell stage	prism stage	1310
+86	microvillus	583	Echinoderms	1-cell stage	1-cell stage	1311
+88	secretory vesicle	583	Echinoderms	1-cell stage	1-cell stage	1312
+89	cilium	583	Echinoderms	late blastula stage	adult stage	1313
+90	filopodium	583	Echinoderms	early mesenchyme blastula stage	late gastrula stage	1314
+91	basal lamina	583	Echinoderms		4-arm pluteus larva stage	1315
+94	cortical granule	583	Echinoderms	mature oocyte stage		1316
+96	mitochondrion	583	Echinoderms			1317
+97	actin cytoskeleton	583	Echinoderms			1318
+98	actin filament	583	Echinoderms			1319
+99	nuclear part	583	Echinoderms	mature oocyte stage		1320
+100	nucleoplasm	583	Echinoderms			1321
+101	nuclear envelope	583	Echinoderms			1322
+102	endoplasmic reticulum	583	Echinoderms			1323
+103	spermatozoid entry point	583	Echinoderms	mature oocyte stage	1-cell stage	1324
+104	plasma membrane	583	Echinoderms			1325
+105	polar body	583	Echinoderms	fully grown oocyte with off-centered germinal vesicle stage	fully grown oocyte with no nucleus stage	1326
+106	spermatozoid part	583	Echinoderms	spermatogenesis period	spermatogenesis period	1327
+107	spermatozoid head	583	Echinoderms			1328
+108	spermatozoid flagellum	583	Echinoderms			1329
+109	acrosomal vesicle	583	Echinoderms	spermatogenesis period	spermatogenesis period	1330
+111	presumptive primordial germ cell	583	Echinoderms	32-cell stage	metamorphic larva stage	1331
+112	primordial germ cell	583	Echinoderms	early juvenile stage		1332
+113	germ cell	583	Echinoderms	adult stage		1333
+114	gamete	583	Echinoderms	gametogenesis	gametogenesis	1334
+115	immature occyte	583	Echinoderms		fully grown oocyte with no nucleus stage	1335
+116	mature oocyte	583	Echinoderms	mature oocyte stage	mature oocyte stage	1336
+117	blastomere	583	Echinoderms		60-cell stage	1337
+118	blastomere of 2-cell embryo	583	Echinoderms		2-cell stage	1338
+119	blastomere of 4-cell embryo	583	Echinoderms	4-cell stage	4-cell stage	1339
+122	cell tier	583	Echinoderms	8-cell stage	late blastula stage	1340
+128	presumptive neuron	583	Echinoderms	mesenchyme blastula phase	adult stage	1341
+129	animal pole domain presumptive neuron	583	Echinoderms	mesenchyme blastula phase	prism stage	1342
+130	ectoderm presumptive neuron	583	Echinoderms	mesenchyme blastula phase	prism stage	1343
+131	ciliary band presumptive neuron	583	Echinoderms	mesenchyme blastula phase	competent pluteus larva stage	1344
+133	neuron	583	Echinoderms	early pluteus larva stage	adult stage	1345
+134	larval neuron	583	Echinoderms	early pluteus larva stage	competent pluteus larva stage	1346
+135	serotonergic neuron	583	Echinoderms	early pluteus larva stage	competent pluteus larva stage	1347
+139	sensory neuron	583	Echinoderms			1348
+142	neural structure	583	Echinoderms	prism stage	adult stage	1349
+143	axon tract	583	Echinoderms	early pluteus larva stage	adult stage	1350
+144	ciliary band neuron	583	Echinoderms	early pluteus larva stage	competent pluteus larva stage	1351
+145	ectoderm	583	Echinoderms	60-cell stage	metamorphic larva stage	1352
+146	presumptive ciliary band cell	583	Echinoderms	late blastula stage	late gastrula stage	1353
+148	ganglion	583	Echinoderms			1354
+149	apical ganglion	583	Echinoderms	early pluteus larva stage	competent pluteus larva stage	1355
+150	adult neuron	583	Echinoderms	8-arm pluteus larva stage		1356
+151	circumoral nerve ring	583	Echinoderms	8-arm pluteus larva stage		1357
+152	enteric nerve plexus	583	Echinoderms	late juvenile stage		1358
+153	radial nerve cord	583	Echinoderms	8-arm pluteus larva stage		1359
+154	primary podia associated neuron	583	Echinoderms		late juvenile stage	1360
+155	secondary podia associated neuron	583	Echinoderms	early juvenile stage		1361
+156	definitive spine associated neuron	583	Echinoderms			1362
+157	pedicellaria associated neuron	583	Echinoderms			1363
+158	basiepidermal nerve plexus	583	Echinoderms	8-arm pluteus larva stage		1364
+159	animal quartet	583	Echinoderms		8-cell stage	1365
+160	vegetal quartet	583	Echinoderms		8-cell stage	1366
+169	germ layer	583	Echinoderms	early mesenchyme blastula stage		1367
+170	embryonic tissue	583	Echinoderms	16-cell stage	prism stage	1368
+171	presumptive ectoderm	583	Echinoderms	16-cell stage	swimming blastula stage	1369
+174	ventral ectoderm	583	Echinoderms	60-cell stage	competent pluteus larva stage	1370
+175	dorsal ectoderm	583	Echinoderms	60-cell stage	competent pluteus larva stage	1371
+176	ectoendoderm	583	Echinoderms	60-cell stage	hatched blastula stage	1372
+177	endomesoderm	583	Echinoderms	60-cell stage	hatched blastula stage	1373
+192	apical tuft	583	Echinoderms	hatched blastula stage	prism stage	1374
+193	larval tissue	583	Echinoderms	early pluteus larva stage	competent pluteus larva stage	1375
+194	rudiment tissue	583	Echinoderms	6-arm pluteus larva stage	metamorphic larva stage	1376
+195	juvenile tissue	583	Echinoderms	early juvenile stage	late juvenile stage	1377
+196	adult tissue	583	Echinoderms	early juvenile stage		1378
+197	presumptive stomodeum	583	Echinoderms	mesenchyme blastula phase		1379
+198	stomodeum	583	Echinoderms	prism stage		1380
+199	ciliary band	583	Echinoderms	mesenchyme blastula phase	competent pluteus larva stage	1381
+224	skeletal rod	583	Echinoderms	late gastrula stage	early juvenile stage	1382
+251	mouth	583	Echinoderms	early pluteus larva stage	adult stage	1383
+252	larval mouth	583	Echinoderms		competent pluteus larva stage	1384
+253	anus	583	Echinoderms	early pluteus larva stage	adult stage	1385
+254	larval anus	583	Echinoderms		competent pluteus larva stage	1386
+255	presumptive endoderm	583	Echinoderms	early blastula stage	swimming blastula stage	1387
+256	endoderm	583	Echinoderms	late swimming blastula stage	competent pluteus larva stage	1388
+257	archenteron	583	Echinoderms	blastopore formation stage	early pluteus larva stage	1389
+258	hindgut	583	Echinoderms	late gastrula stage	prism stage	1390
+259	dorsal hindgut	583	Echinoderms	late gastrula stage	prism stage	1391
+260	ventral hindgut	583	Echinoderms	late gastrula stage	prism stage	1392
+261	midgut	583	Echinoderms	mid-gastrula stage	prism stage	1393
+262	ventral midgut	583	Echinoderms	mid-gastrula stage	prism stage	1394
+263	dorsal midgut	583	Echinoderms	mid-gastrula stage	prism stage	1395
+264	anterior midgut	583	Echinoderms	mid-gastrula stage	prism stage	1396
+265	posterior midgut	583	Echinoderms	mid-gastrula stage	prism stage	1397
+266	anterior hindgut	583	Echinoderms	late gastrula stage	prism stage	1398
+267	posterior hindgut	583	Echinoderms	late gastrula stage	prism stage	1399
+268	foregut	583	Echinoderms	mid-gastrula stage	prism stage	1400
+269	ventral foregut	583	Echinoderms	mid-gastrula stage	prism stage	1401
+270	dorsal foregut	583	Echinoderms	mid-gastrula stage	prism stage	1402
+271	anterior foregut	583	Echinoderms	mid-gastrula stage	prism stage	1403
+272	posterior foregut	583	Echinoderms	mid-gastrula stage	prism stage	1404
+273	tip of archenteron	583	Echinoderms	early gastrula stage	prism stage	1405
+274	presumptive mesoderm	583	Echinoderms	16-cell stage	swimming blastula stage	1406
+275	mesoderm	583	Echinoderms	16-cell stage	competent pluteus larva stage	1407
+288	embryonic non-skeletogenic mesoderm	583	Echinoderms	late swimming blastula stage	late gastrula stage	1408
+291	embryonic non-skeletogenic mesenchyme	583	Echinoderms	early gastrula stage	prism stage	1409
+292	embryonic non-skeletogenic mesenchyme cell	583	Echinoderms	early gastrula stage	prism stage	1410
+293	larval non-skeletogenic mesenchyme	583	Echinoderms	early pluteus larva stage	competent pluteus larva stage	1411
+294	larval non-skeletogenic mesenchyme cell	583	Echinoderms	early pluteus larva stage	competent pluteus larva stage	1412
+296	presumptive pigment cell	583	Echinoderms	mesenchyme blastula phase	late gastrula stage	1413
+297	pigment cell	583	Echinoderms	early gastrula stage	late juvenile stage	1414
+299	larval pigment cell	583	Echinoderms	early pluteus larva stage	metamorphic larva stage	1415
+300	juvenile pigment cell	583	Echinoderms	early juvenile stage		1416
+301	rudiment pigment cell	583	Echinoderms	8-arm pluteus larva stage	metamorphic larva stage	1417
+306	amoeboid cell	583	Echinoderms	early pluteus larva stage		1418
+307	muscle precursor cell	583	Echinoderms	late gastrula stage	early pluteus larva stage	1419
+308	muscle	583	Echinoderms			1420
+309	larval muscle	583	Echinoderms			1421
+310	rudiment muscle	583	Echinoderms	8-arm pluteus larva stage		1422
+311	juvenile muscle	583	Echinoderms			1423
+312	adult muscle	583	Echinoderms	adult stage		1424
+313	blastocoel	583	Echinoderms	very early blastula stage	prism stage	1425
+314	sphincter	583	Echinoderms	prism stage		1426
+315	pyloric sphincter	583	Echinoderms	early pluteus larva stage	competent pluteus larva stage	1427
+316	cardiac sphincter	583	Echinoderms	4-arm pluteus larva stage	competent pluteus larva stage	1428
+317	anal sphincter	583	Echinoderms	4-arm pluteus larva stage	competent pluteus larva stage	1429
+318	sphincter muscle	583	Echinoderms	4-arm pluteus larva stage		1430
+319	sphincter muscle cell	583	Echinoderms	4-arm pluteus larva stage		1431
+320	pyloric sphincteric muscle	583	Echinoderms		competent pluteus larva stage	1432
+321	cardiac sphincteric muscle	583	Echinoderms		competent pluteus larva stage	1433
+322	anal sphincteric muscle	583	Echinoderms		competent pluteus larva stage	1434
+323	larval esophagus	583	Echinoderms	early pluteus larva stage	competent pluteus larva stage	1435
+324	circumesophageal muscle	583	Echinoderms	4-arm pluteus larva stage		1436
+325	circumesophageal muscle cell	583	Echinoderms	4-arm pluteus larva stage	competent pluteus larva stage	1437
+326	larval stomach	583	Echinoderms	4-arm pluteus larva stage	competent pluteus larva stage	1438
+327	larval intestine	583	Echinoderms	4-arm pluteus larva stage	competent pluteus larva stage	1439
+330	coelom	583	Echinoderms	prism stage	adult stage	1440
+331	unpaired coelomic pouch	583	Echinoderms		prism stage	1441
+332	right coelomic pouch	583	Echinoderms	early pluteus larva stage	6-arm pluteus larva stage	1442
+333	left coelomic pouch	583	Echinoderms	early pluteus larva stage	6-arm pluteus larva stage	1443
+334	right coelomic constriction	583	Echinoderms	early pluteus larva stage	6-arm pluteus larva stage	1444
+335	left coelomic constriction	583	Echinoderms	early pluteus larva stage	6-arm pluteus larva stage	1445
+336	larval epithelium	583	Echinoderms		metamorphic larva stage	1446
+338	oral epithelium	583	Echinoderms			1447
+339	aboral epithelium	583	Echinoderms			1448
+342	axocoel	583	Echinoderms	6-arm pluteus larva stage	8-arm pluteus larva stage	1449
+343	left axocoel	583	Echinoderms	8-arm pluteus larva stage	competent pluteus larva stage	1450
+344	axial coelom	583	Echinoderms	early juvenile stage		1451
+345	hydrocoel	583	Echinoderms	6-arm pluteus larva stage	8-arm pluteus larva stage	1452
+346	somatocoel	583	Echinoderms	6-arm pluteus larva stage	8-arm pluteus larva stage	1453
+347	left hydrocoel	583	Echinoderms			1454
+348	left somatocoel	583	Echinoderms			1455
+350	right somatocoel	583	Echinoderms			1456
+351	axial complex	583	Echinoderms	early juvenile stage	adult stage	1457
+352	stone canal	583	Echinoderms	8-arm pluteus larva stage	adult stage	1458
+353	ring canal	583	Echinoderms	8-arm pluteus larva stage	adult stage	1459
+354	radial canal	583	Echinoderms	8-arm pluteus larva stage	adult stage	1460
+355	primary pore canal	583	Echinoderms	4-arm pluteus larva stage	4-arm pluteus larva stage	1461
+356	hydropore	583	Echinoderms	4-arm pluteus larva stage	adult stage	1462
+357	right axocoel	583	Echinoderms			1463
+358	right hydrocoel	583	Echinoderms			1464
+360	axial organ	583	Echinoderms	early juvenile stage	adult stage	1465
+368	adult skeletogenic mesenchyme	583	Echinoderms	early juvenile stage		1466
+370	ambulacra	583	Echinoderms	8-arm pluteus larva stage	adult stage	1467
+371	interambulacra	583	Echinoderms	8-arm pluteus larva stage	adult stage	1468
+373	appendage	583	Echinoderms			1469
+382	podia	583	Echinoderms	8-arm pluteus larva stage	adult stage	1470
+383	primary podia	583	Echinoderms		late juvenile stage	1471
+388	spine	583	Echinoderms	8-arm pluteus larva stage	adult stage	1472
+389	juvenile spine	583	Echinoderms		late juvenile stage	1473
+390	definitive spine	583	Echinoderms			1474
+393	adult mouth	583	Echinoderms	late juvenile stage		1475
+394	adult anus	583	Echinoderms	late juvenile stage		1476
+396	tooth	583	Echinoderms	early juvenile stage	adult stage	1477
+397	madreporite	583	Echinoderms	early juvenile stage		1478
+398	gonopore	583	Echinoderms	early juvenile stage	adult stage	1479
+399	gonad	583	Echinoderms	adult stage		1480
+400	ovary	583	Echinoderms			1481
+401	testis	583	Echinoderms			1482
+402	juvenile digestive tract	583	Echinoderms	early juvenile stage	late juvenile stage	1483
+403	adult digestive tract	583	Echinoderms	adult stage	adult stage	1484
+404	mesentery	583	Echinoderms	early juvenile stage	adult stage	1485
+405	perivisceral cavity	583	Echinoderms	early juvenile stage	adult stage	1486
+406	photosensory cell	583	Echinoderms	early juvenile stage		1487
+1	root node	600	A. planci			2269
+2	life cycle period	600	A. planci			2270
+3	echinoderm anatomy	600	A. planci			2271
+4	anatomical structure	600	A. planci			2272
+5	anatomical system	600	A. planci			2273
+6	anatomical region	600	A. planci			2274
+7	anatomical space	600	A. planci			2275
+8	whole organism	600	A. planci	previtellogenic primary oocyte stage	adult stage	2276
+9	multicellular organism	600	A. planci	2-cell stage	adult stage	2277
+10	embryo	600	A. planci	1-cell stage	prism stage	2278
+11	larva	600	A. planci	early pluteus larva stage	metamorphic larva stage	2279
+12	juvenile	600	A. planci	early juvenile stage	late juvenile stage	2280
+13	adult	600	A. planci	adult stage		2281
+14	digestive system	600	A. planci	blastopore formation stage	adult stage	2282
+15	embryonic digestive system	600	A. planci		prism stage	2283
+16	larval digestive system	600	A. planci	early pluteus larva stage	metamorphic larva stage	2284
+17	juvenile digestive system	600	A. planci	early juvenile stage	late juvenile stage	2285
+18	adult digestive system	600	A. planci	adult stage		2286
+19	immune system	600	A. planci	late gastrula stage	adult stage	2287
+20	embryonic immune system	600	A. planci		prism stage	2288
+21	larval immune system	600	A. planci	early pluteus larva stage	metamorphic larva stage	2289
+22	juvenile immune system	600	A. planci	early juvenile stage	late juvenile stage	2290
+23	adult immune system	600	A. planci	adult stage		2291
+24	reproductive system	600	A. planci	early juvenile stage	adult stage	2292
+25	nervous system	600	A. planci	mesenchyme blastula phase	adult stage	2293
+26	embryonic nervous system	600	A. planci		prism stage	2294
+27	larval nervous system	600	A. planci	early pluteus larva stage	competent pluteus larva stage	2295
+28	juvenile nervous system	600	A. planci	early juvenile stage	late juvenile stage	2296
+29	adult nervous system	600	A. planci	adult stage		2297
+30	muscular system	600	A. planci	early pluteus larva stage	adult stage	2298
+31	larval muscular system	600	A. planci		metamorphic larva stage	2299
+32	juvenile muscular system	600	A. planci	early juvenile stage	late juvenile stage	2300
+33	adult muscular system	600	A. planci	adult stage		2301
+34	endoskeleton	600	A. planci	mid-gastrula stage	adult stage	2302
+37	rudiment endoskeleton	600	A. planci	8-arm pluteus larva stage	metamorphic larva stage	2303
+38	juvenile endoskeleton	600	A. planci	early juvenile stage	late juvenile stage	2304
+39	adult endoskeleton	600	A. planci	adult stage		2305
+40	water vascular system	600	A. planci	6-arm pluteus larva stage	adult stage	2306
+41	hemal system	600	A. planci	8-arm pluteus larva stage	adult stage	2307
+42	animal hemisphere	600	A. planci	mature oocyte stage	late swimming blastula stage	2308
+43	vegetal hemisphere	600	A. planci	mature oocyte stage	late swimming blastula stage	2309
+44	cell cortex	600	A. planci	mature oocyte stage		2310
+45	cleavage furrow	600	A. planci	1-cell stage		2311
+46	animal cortex	600	A. planci	fully grown oocyte with centered germinal vesicle stage	1-cell stage	2312
+47	vegetal cortex	600	A. planci	fully grown oocyte with centered germinal vesicle stage	1-cell stage	2313
+48	animal pole	600	A. planci	fully grown oocyte with centered germinal vesicle stage	prism stage	2314
+49	vegetal pole	600	A. planci	fully grown oocyte with centered germinal vesicle stage	prism stage	2315
+50	animal pole domain	600	A. planci	very early blastula stage	prism stage	2316
+51	blastopore	600	A. planci	blastopore formation stage	prism stage	2317
+52	blastopore lip	600	A. planci	blastopore formation stage		2318
+54	embryonic cell	600	A. planci	2-cell stage	prism stage	2319
+55	vegetal plate	600	A. planci	swimming blastula stage	late mesenchyme blastula stage	2320
+56	cell	600	A. planci	previtellogenic primary oocyte stage	adult stage	2321
+57	cell part	600	A. planci	previtellogenic primary oocyte stage	adult stage	2322
+58	digestive system element	600	A. planci	blastopore formation stage	adult stage	2323
+59	skeletal element	600	A. planci	mid-gastrula stage	adult stage	2324
+60	embryonic structure	600	A. planci	1-cell stage	prism stage	2325
+61	larval structure	600	A. planci	early pluteus larva stage	metamorphic larva stage	2326
+62	juvenile structure	600	A. planci	early juvenile stage	late juvenile stage	2327
+63	adult structure	600	A. planci	early juvenile stage	adult stage	2328
+64	tissue	600	A. planci	60-cell stage	adult stage	2329
+65	rudiment	600	A. planci	6-arm pluteus larva stage	metamorphic larva stage	2330
+66	rudiment structure	600	A. planci	6-arm pluteus larva stage	metamorphic larva stage	2331
+67	non-rudiment adult structure	600	A. planci	6-arm pluteus larva stage	metamorphic larva stage	2332
+68	intracellular part	600	A. planci			2333
+69	cytoskeleton	600	A. planci			2334
+70	microtubule	600	A. planci			2335
+71	nucleus	600	A. planci	mature oocyte stage		2336
+72	oocyte	600	A. planci	oogenesis period	oogenesis period	2337
+73	germinal vesicle	600	A. planci	not fully grown oocyte stage	fully grown oocyte with off-centered germinal vesicle stage	2338
+75	cytoplasm	600	A. planci	not fully grown oocyte stage		2339
+76	centrosome	600	A. planci	fully grown oocyte with off-centered germinal vesicle stage		2340
+77	mitotic spindle	600	A. planci	1-cell stage		2341
+78	meiotic spindle	600	A. planci	fully grown oocyte with off-centered germinal vesicle stage	fully grown oocyte with off-centered germinal vesicle stage	2342
+79	fertilization envelope	600	A. planci	1-cell stage	hatched blastula stage	2343
+80	spermatozoid	600	A. planci	spermatogenesis period	spermatogenesis period	2344
+81	aster	600	A. planci	fully grown oocyte with off-centered germinal vesicle stage		2345
+82	sperm aster	600	A. planci	mature spermatozoid stage	mature spermatozoid stage	2346
+83	acellular membrane	600	A. planci	mature oocyte stage	mature oocyte stage	2347
+84	vitelline membrane	600	A. planci			2348
+85	hyaline layer	600	A. planci	1-cell stage	prism stage	2349
+86	microvillus	600	A. planci	1-cell stage	1-cell stage	2350
+88	secretory vesicle	600	A. planci	1-cell stage	1-cell stage	2351
+89	cilium	600	A. planci	late blastula stage	adult stage	2352
+90	filopodium	600	A. planci	early mesenchyme blastula stage	late gastrula stage	2353
+91	basal lamina	600	A. planci		4-arm pluteus larva stage	2354
+94	cortical granule	600	A. planci	mature oocyte stage		2355
+96	mitochondrion	600	A. planci			2356
+97	actin cytoskeleton	600	A. planci			2357
+98	actin filament	600	A. planci			2358
+99	nuclear part	600	A. planci	mature oocyte stage		2359
+100	nucleoplasm	600	A. planci			2360
+101	nuclear envelope	600	A. planci			2361
+102	endoplasmic reticulum	600	A. planci			2362
+103	spermatozoid entry point	600	A. planci	mature oocyte stage	1-cell stage	2363
+104	plasma membrane	600	A. planci			2364
+105	polar body	600	A. planci	fully grown oocyte with off-centered germinal vesicle stage	fully grown oocyte with no nucleus stage	2365
+106	spermatozoid part	600	A. planci	spermatogenesis period	spermatogenesis period	2366
+107	spermatozoid head	600	A. planci			2367
+108	spermatozoid flagellum	600	A. planci			2368
+109	acrosomal vesicle	600	A. planci	spermatogenesis period	spermatogenesis period	2369
+111	presumptive primordial germ cell	600	A. planci	32-cell stage	metamorphic larva stage	2370
+112	primordial germ cell	600	A. planci	early juvenile stage		2371
+113	germ cell	600	A. planci	adult stage		2372
+114	gamete	600	A. planci	gametogenesis	gametogenesis	2373
+115	immature occyte	600	A. planci		fully grown oocyte with no nucleus stage	2374
+116	mature oocyte	600	A. planci	mature oocyte stage	mature oocyte stage	2375
+117	blastomere	600	A. planci		60-cell stage	2376
+118	blastomere of 2-cell embryo	600	A. planci		2-cell stage	2377
+119	blastomere of 4-cell embryo	600	A. planci	4-cell stage	4-cell stage	2378
+122	cell tier	600	A. planci	8-cell stage	late blastula stage	2379
+128	presumptive neuron	600	A. planci	mesenchyme blastula phase	adult stage	2380
+129	animal pole domain presumptive neuron	600	A. planci	mesenchyme blastula phase	prism stage	2381
+130	ectoderm presumptive neuron	600	A. planci	mesenchyme blastula phase	prism stage	2382
+131	ciliary band presumptive neuron	600	A. planci	mesenchyme blastula phase	competent pluteus larva stage	2383
+133	neuron	600	A. planci	early pluteus larva stage	adult stage	2384
+134	larval neuron	600	A. planci	early pluteus larva stage	competent pluteus larva stage	2385
+135	serotonergic neuron	600	A. planci	early pluteus larva stage	competent pluteus larva stage	2386
+139	sensory neuron	600	A. planci			2387
+142	neural structure	600	A. planci	prism stage	adult stage	2388
+143	axon tract	600	A. planci	early pluteus larva stage	adult stage	2389
+144	ciliary band neuron	600	A. planci	early pluteus larva stage	competent pluteus larva stage	2390
+145	ectoderm	600	A. planci	60-cell stage	metamorphic larva stage	2391
+146	presumptive ciliary band cell	600	A. planci	late blastula stage	late gastrula stage	2392
+148	ganglion	600	A. planci			2393
+149	apical ganglion	600	A. planci	early pluteus larva stage	competent pluteus larva stage	2394
+150	adult neuron	600	A. planci	8-arm pluteus larva stage		2395
+151	circumoral nerve ring	600	A. planci	8-arm pluteus larva stage		2396
+152	enteric nerve plexus	600	A. planci	late juvenile stage		2397
+153	radial nerve cord	600	A. planci	8-arm pluteus larva stage		2398
+154	primary podia associated neuron	600	A. planci		late juvenile stage	2399
+155	secondary podia associated neuron	600	A. planci	early juvenile stage		2400
+156	definitive spine associated neuron	600	A. planci			2401
+157	pedicellaria associated neuron	600	A. planci			2402
+158	basiepidermal nerve plexus	600	A. planci	8-arm pluteus larva stage		2403
+159	animal quartet	600	A. planci		8-cell stage	2404
+160	vegetal quartet	600	A. planci		8-cell stage	2405
+161	animal tier 1	600	A. planci	28-cell stage	60-cell stage	2406
+162	animal tier 2	600	A. planci	28-cell stage	60-cell stage	2407
+163	vegetal tier 1	600	A. planci	56-cell stage	early blastula stage	2408
+164	vegetal tier 2	600	A. planci	56-cell stage	early blastula stage	2409
+169	germ layer	600	A. planci	early mesenchyme blastula stage		2410
+170	embryonic tissue	600	A. planci	16-cell stage	prism stage	2411
+171	presumptive ectoderm	600	A. planci	16-cell stage	swimming blastula stage	2412
+174	ventral ectoderm	600	A. planci	60-cell stage	competent pluteus larva stage	2413
+175	dorsal ectoderm	600	A. planci	60-cell stage	competent pluteus larva stage	2414
+176	ectoendoderm	600	A. planci	60-cell stage	hatched blastula stage	2415
+177	endomesoderm	600	A. planci	60-cell stage	hatched blastula stage	2416
+192	apical tuft	600	A. planci	hatched blastula stage	prism stage	2417
+193	larval tissue	600	A. planci	early pluteus larva stage	competent pluteus larva stage	2418
+194	rudiment tissue	600	A. planci	6-arm pluteus larva stage	metamorphic larva stage	2419
+195	juvenile tissue	600	A. planci	early juvenile stage	late juvenile stage	2420
+196	adult tissue	600	A. planci	early juvenile stage		2421
+197	presumptive stomodeum	600	A. planci	mesenchyme blastula phase		2422
+198	stomodeum	600	A. planci	prism stage		2423
+199	ciliary band	600	A. planci	mesenchyme blastula phase	competent pluteus larva stage	2424
+224	skeletal rod	600	A. planci	late gastrula stage	early juvenile stage	2425
+251	mouth	600	A. planci	early pluteus larva stage	adult stage	2426
+252	larval mouth	600	A. planci		competent pluteus larva stage	2427
+253	anus	600	A. planci	early pluteus larva stage	adult stage	2428
+254	larval anus	600	A. planci		competent pluteus larva stage	2429
+255	presumptive endoderm	600	A. planci	early blastula stage	swimming blastula stage	2430
+256	endoderm	600	A. planci	late swimming blastula stage	competent pluteus larva stage	2431
+257	archenteron	600	A. planci	blastopore formation stage	early pluteus larva stage	2432
+258	hindgut	600	A. planci	late gastrula stage	prism stage	2433
+259	dorsal hindgut	600	A. planci	late gastrula stage	prism stage	2434
+260	ventral hindgut	600	A. planci	late gastrula stage	prism stage	2435
+261	midgut	600	A. planci	mid-gastrula stage	prism stage	2436
+262	ventral midgut	600	A. planci	mid-gastrula stage	prism stage	2437
+263	dorsal midgut	600	A. planci	mid-gastrula stage	prism stage	2438
+264	anterior midgut	600	A. planci	mid-gastrula stage	prism stage	2439
+265	posterior midgut	600	A. planci	mid-gastrula stage	prism stage	2440
+266	anterior hindgut	600	A. planci	late gastrula stage	prism stage	2441
+267	posterior hindgut	600	A. planci	late gastrula stage	prism stage	2442
+268	foregut	600	A. planci	mid-gastrula stage	prism stage	2443
+269	ventral foregut	600	A. planci	mid-gastrula stage	prism stage	2444
+270	dorsal foregut	600	A. planci	mid-gastrula stage	prism stage	2445
+271	anterior foregut	600	A. planci	mid-gastrula stage	prism stage	2446
+272	posterior foregut	600	A. planci	mid-gastrula stage	prism stage	2447
+273	tip of archenteron	600	A. planci	early gastrula stage	prism stage	2448
+274	presumptive mesoderm	600	A. planci	16-cell stage	swimming blastula stage	2449
+275	mesoderm	600	A. planci	16-cell stage	competent pluteus larva stage	2450
+288	embryonic non-skeletogenic mesoderm	600	A. planci	late swimming blastula stage	late gastrula stage	2451
+291	embryonic non-skeletogenic mesenchyme	600	A. planci	early gastrula stage	prism stage	2452
+292	embryonic non-skeletogenic mesenchyme cell	600	A. planci	early gastrula stage	prism stage	2453
+293	larval non-skeletogenic mesenchyme	600	A. planci	early pluteus larva stage	competent pluteus larva stage	2454
+294	larval non-skeletogenic mesenchyme cell	600	A. planci	early pluteus larva stage	competent pluteus larva stage	2455
+296	presumptive pigment cell	600	A. planci	mesenchyme blastula phase	late gastrula stage	2456
+297	pigment cell	600	A. planci	early gastrula stage	late juvenile stage	2457
+299	larval pigment cell	600	A. planci	early pluteus larva stage	metamorphic larva stage	2458
+300	juvenile pigment cell	600	A. planci	early juvenile stage		2459
+301	rudiment pigment cell	600	A. planci	8-arm pluteus larva stage	metamorphic larva stage	2460
+306	amoeboid cell	600	A. planci	early pluteus larva stage		2461
+307	muscle precursor cell	600	A. planci	late gastrula stage	early pluteus larva stage	2462
+308	muscle	600	A. planci			2463
+309	larval muscle	600	A. planci			2464
+310	rudiment muscle	600	A. planci	8-arm pluteus larva stage		2465
+311	juvenile muscle	600	A. planci			2466
+312	adult muscle	600	A. planci	adult stage		2467
+313	blastocoel	600	A. planci	very early blastula stage	prism stage	2468
+314	sphincter	600	A. planci	prism stage		2469
+315	pyloric sphincter	600	A. planci	early pluteus larva stage	competent pluteus larva stage	2470
+316	cardiac sphincter	600	A. planci	4-arm pluteus larva stage	competent pluteus larva stage	2471
+317	anal sphincter	600	A. planci	4-arm pluteus larva stage	competent pluteus larva stage	2472
+318	sphincter muscle	600	A. planci	4-arm pluteus larva stage		2473
+319	sphincter muscle cell	600	A. planci	4-arm pluteus larva stage		2474
+320	pyloric sphincteric muscle	600	A. planci		competent pluteus larva stage	2475
+321	cardiac sphincteric muscle	600	A. planci		competent pluteus larva stage	2476
+322	anal sphincteric muscle	600	A. planci		competent pluteus larva stage	2477
+323	larval esophagus	600	A. planci	early pluteus larva stage	competent pluteus larva stage	2478
+324	circumesophageal muscle	600	A. planci	4-arm pluteus larva stage		2479
+325	circumesophageal muscle cell	600	A. planci	4-arm pluteus larva stage	competent pluteus larva stage	2480
+326	larval stomach	600	A. planci	4-arm pluteus larva stage	competent pluteus larva stage	2481
+327	larval intestine	600	A. planci	4-arm pluteus larva stage	competent pluteus larva stage	2482
+330	coelom	600	A. planci	prism stage	adult stage	2483
+331	unpaired coelomic pouch	600	A. planci		prism stage	2484
+332	right coelomic pouch	600	A. planci	early pluteus larva stage	6-arm pluteus larva stage	2485
+333	left coelomic pouch	600	A. planci	early pluteus larva stage	6-arm pluteus larva stage	2486
+334	right coelomic constriction	600	A. planci	early pluteus larva stage	6-arm pluteus larva stage	2487
+335	left coelomic constriction	600	A. planci	early pluteus larva stage	6-arm pluteus larva stage	2488
+336	larval epithelium	600	A. planci		metamorphic larva stage	2489
+338	oral epithelium	600	A. planci			2490
+339	aboral epithelium	600	A. planci			2491
+342	axocoel	600	A. planci	6-arm pluteus larva stage	8-arm pluteus larva stage	2492
+343	left axocoel	600	A. planci	8-arm pluteus larva stage	competent pluteus larva stage	2493
+344	axial coelom	600	A. planci	early juvenile stage		2494
+345	hydrocoel	600	A. planci	6-arm pluteus larva stage	8-arm pluteus larva stage	2495
+346	somatocoel	600	A. planci	6-arm pluteus larva stage	8-arm pluteus larva stage	2496
+347	left hydrocoel	600	A. planci			2497
+348	left somatocoel	600	A. planci			2498
+350	right somatocoel	600	A. planci			2499
+351	axial complex	600	A. planci	early juvenile stage	adult stage	2500
+352	stone canal	600	A. planci	8-arm pluteus larva stage	adult stage	2501
+353	ring canal	600	A. planci	8-arm pluteus larva stage	adult stage	2502
+354	radial canal	600	A. planci	8-arm pluteus larva stage	adult stage	2503
+355	primary pore canal	600	A. planci	4-arm pluteus larva stage	4-arm pluteus larva stage	2504
+356	hydropore	600	A. planci	4-arm pluteus larva stage	adult stage	2505
+357	right axocoel	600	A. planci			2506
+358	right hydrocoel	600	A. planci			2507
+360	axial organ	600	A. planci	early juvenile stage	adult stage	2508
+368	adult skeletogenic mesenchyme	600	A. planci	early juvenile stage		2509
+370	ambulacra	600	A. planci	8-arm pluteus larva stage	adult stage	2510
+371	interambulacra	600	A. planci	8-arm pluteus larva stage	adult stage	2511
+373	appendage	600	A. planci			2512
+374	pedicellaria	600	A. planci	8-arm pluteus larva stage	adult stage	2513
+382	podia	600	A. planci	8-arm pluteus larva stage	adult stage	2514
+383	primary podia	600	A. planci		late juvenile stage	2515
+388	spine	600	A. planci	8-arm pluteus larva stage	adult stage	2516
+389	juvenile spine	600	A. planci		late juvenile stage	2517
+390	definitive spine	600	A. planci			2518
+392	ampulla	600	A. planci	early juvenile stage	adult stage	2519
+393	adult mouth	600	A. planci	late juvenile stage		2520
+394	adult anus	600	A. planci	late juvenile stage		2521
+396	tooth	600	A. planci	early juvenile stage	adult stage	2522
+397	madreporite	600	A. planci	early juvenile stage		2523
+398	gonopore	600	A. planci	early juvenile stage	adult stage	2524
+399	gonad	600	A. planci	adult stage		2525
+400	ovary	600	A. planci			2526
+401	testis	600	A. planci			2527
+402	juvenile digestive tract	600	A. planci	early juvenile stage	late juvenile stage	2528
+403	adult digestive tract	600	A. planci	adult stage	adult stage	2529
+404	mesentery	600	A. planci	early juvenile stage	adult stage	2530
+405	perivisceral cavity	600	A. planci	early juvenile stage	adult stage	2531
+406	photosensory cell	600	A. planci	early juvenile stage		2532
+489	embryonic territory	600	A. planci	16-cell stage	open mouth stage	2865
+490	adult organism	600	A. planci	adult stage		2866
+491	embryonic muscular system	600	A. planci	early pluteus stage	open mouth stage	2867
+492	extracellular matrix	600	A. planci	1-cell stage	adult stage	2868
+493	blastomere of 8-cell embryo	600	A. planci	8-cell stage	8-cell stage	2869
+494	blastomere of 16-cell embryo	600	A. planci	16-cell stage	16-cell stage	2870
+495	presumptive animal pole domain neuron	600	A. planci	vegetal plate stage	late gastrula stage	2871
+496	presumptive ectoderm neuron	600	A. planci	vegetal plate stage	late prism stage	2872
+497	presumptive ciliary band neuron	600	A. planci	early prism stage	late prism stage	2873
+498	presumptive endoderm-associated neuron	600	A. planci	late gastrula stage	late gastrula stage	2874
+499	postoral neuron	600	A. planci	early prism stage	larval development	2875
+500	presumptive postoral neuron	600	A. planci	mesenchyme blastula stage	late gastrula stage	2876
+501	synaptotagmin-B-expressing neuron	600	A. planci	late gastrula stage	adulthood	2877
+502	nitric oxide synthase-expressing neuron	600	A. planci	larval development	adulthood	2878
+503	cholinergic neuron	600	A. planci	early pluteus stage	adulthood	2879
+504	catecholaminergic/cholinergic neuron	600	A. planci	early pluteus stage	larval development	2880
+505	endoderm-associated neuron	600	A. planci	early prism stage	larval development	2881
+506	lateral ganglion	600	A. planci	late prism stage	larval development	2882
+507	right lateral ganglion	600	A. planci			2883
+508	left lateral ganglion	600	A. planci			2884
+509	presumptive ventral ectoderm	600	A. planci	60-cell stage	mid-gastrula stage	2885
+510	presumptive dorsal ectoderm	600	A. planci	vegetal plate stage	mid-gastrula stage	2886
+511	anterior neuroectoderm	600	A. planci	60-cell stage	mesenchyme blastula stage	2887
+512	equatorial ectoderm	600	A. planci	60-cell stage	mesenchyme blastula stage	2888
+513	inner anterior neuroectoderm	600	A. planci	mesenchyme blastula stage	late prism stage	2889
+514	outer anterior neuroectoderm	600	A. planci	mesenchyme blastula stage	late prism stage	2890
+515	central ventral ectoderm	600	A. planci	vegetal plate stage	late gastrula stage	2891
+516	near apical ectoderm	600	A. planci	vegetal plate stage	late gastrula stage	2892
+517	lateral border ectoderm	600	A. planci	mesenchyme blastula stage	early prism stage	2893
+518	ventral border ectoderm	600	A. planci	mesenchyme blastula stage	early prism stage	2894
+519	dorsal border ectoderm	600	A. planci	mesenchyme blastula stage	early prism stage	2895
+520	animal lateral ectoderm	600	A. planci	mesenchyme blastula stage	early gastrula stage	2896
+521	right animal lateral ectoderm	600	A. planci	mesenchyme blastula stage	early gastrula stage	2897
+522	left animal lateral ectoderm	600	A. planci	mesenchyme blastula stage	early gastrula stage	2898
+523	postoral arm tip ectoderm	600	A. planci	late prism stage	larval development	2899
+524	right postoral arm tip ectoderm	600	A. planci	late prism stage	larval development	2900
+525	left postoral arm tip ectoderm	600	A. planci	late prism stage	larval development	2901
+526	presumptive ciliary band	600	A. planci	mesenchyme blastula stage	early pluteus stage	2902
+527	arm	600	A. planci	open mouth stage	larval development	2903
+528	anterolateral arm	600	A. planci	larval development		2904
+529	postoral arm	600	A. planci			2905
+530	anterolateral rod	600	A. planci	late prism stage	larval development	2906
+531	postoral rod	600	A. planci	early prism stage	larval development	2907
+532	dorsoventral connecting rod	600	A. planci		larval development	2908
+533	ventral transverse rod	600	A. planci		larval development	2909
+534	distal tip of body rod	600	A. planci	early prism stage	larval development	2910
+535	distal tip of right body rod	600	A. planci	early prism stage	larval development	2911
+536	distal tip of left body rod	600	A. planci	early prism stage	larval development	2912
+537	recurrent rod	600	A. planci	late prism stage	larval development	2913
+538	presumptive embryonic skeletogenic mesoderm	600	A. planci	32-cell stage	vegetal plate stage	2914
+539	ventrolateral skeletogenic mesenchyme cluster	600	A. planci	mid-gastrula stage	early prism stage	2915
+540	presumptive embryonic non-skeletogenic mesoderm	600	A. planci	late blastula stage	early prism stage	2916
+541	ventral presumptive embryonic non-skeletogenic mesoderm	600	A. planci	vegetal plate stage	early gastrula stage	2917
+542	dorsal presumptive embryonic non-skeletogenic mesoderm	600	A. planci	vegetal plate stage	early gastrula stage	2918
+543	presumptive muscle cell	600	A. planci	early prism stage	larval development	2919
+544	muscle cell	600	A. planci	early pluteus stage	adulthood	2920
+545	presumptive blastocoel	600	A. planci	28-cell stage	60-cell stage	2921
+546	pyloric sphincter muscle cell	600	A. planci	open mouth stage	larval development	2922
+547	cardiac sphincter muscle cell	600	A. planci	early pluteus stage	larval development	2923
+548	anal sphincter muscle cell	600	A. planci	early pluteus stage	larval development	2924
+549	primary pore canal rudiment	600	A. planci	open mouth stage	larval development	2925
+550	posterior enterocoel	600	A. planci	late organogenesis stage	larval development	2926
+551	left anterior coelomic pouch	600	A. planci	mid-organogenesis stage	larval development	2927
+552	right anterior coelomic pouch	600	A. planci	mid-organogenesis stage	larval development	2928
+553	preoral ciliary band	600	A. planci	open mouth stage	larval development	2929
+554	postoral ciliary band	600	A. planci	open mouth stage	larval development	2930
