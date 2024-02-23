@@ -1,0 +1,37 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "CUR_EXP_PHENO_STATUS_CURRENT_V" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "CUR_EXP_PHENO_STATUS_CURRENT_V" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">CUR_EXP_PHENO_STATUS_CURRENT_V</TD></TR>
+      <TR><TD PORT="PHENO_ID" COLSPAN="3" ALIGN="LEFT">PHENO_ID</TD></TR>
+      <TR><TD PORT="CUR_RECORD_ID" COLSPAN="3" ALIGN="LEFT">CUR_RECORD_ID</TD></TR>
+      <TR><TD PORT="CURXPSTS_ID" COLSPAN="3" ALIGN="LEFT">CURXPSTS_ID</TD></TR>
+      <TR><TD PORT="CUR_STATUS_ID" COLSPAN="3" ALIGN="LEFT">CUR_STATUS_ID</TD></TR>
+      <TR><TD PORT="NAME" COLSPAN="3" ALIGN="LEFT">NAME</TD></TR>
+      <TR><TD PORT="DESCRIPTION" COLSPAN="3" ALIGN="LEFT">DESCRIPTION</TD></TR>
+      <TR><TD PORT="RANK" COLSPAN="3" ALIGN="LEFT">RANK</TD></TR>
+      <TR><TD PORT="STATUS_TYPE" COLSPAN="3" ALIGN="LEFT">STATUS_TYPE</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">view</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/CUR_EXP_PHENO_STATUS_CURRENT_V.html"
+    tooltip="CUR_EXP_PHENO_STATUS_CURRENT_V"
+  ];
+}

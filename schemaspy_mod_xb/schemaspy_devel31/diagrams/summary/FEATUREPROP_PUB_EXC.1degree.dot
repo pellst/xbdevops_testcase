@@ -1,0 +1,34 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "FEATUREPROP_PUB_EXC" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "FEATUREPROP_PUB_EXC" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">FEATUREPROP_PUB_EXC</TD></TR>
+      <TR><TD PORT="FEATUREPROP_PUB_ID" COLSPAN="3" ALIGN="LEFT">FEATUREPROP_PUB_ID</TD></TR>
+      <TR><TD PORT="FEATUREPROP_ID" COLSPAN="3" ALIGN="LEFT">FEATUREPROP_ID</TD></TR>
+      <TR><TD PORT="PUB_ID" COLSPAN="3" ALIGN="LEFT">PUB_ID</TD></TR>
+      <TR><TD PORT="EXCEPTION_TS" COLSPAN="3" ALIGN="LEFT">EXCEPTION_TS</TD></TR>
+      <TR><TD PORT="MESSAGE" COLSPAN="3" ALIGN="LEFT">MESSAGE</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">0 rows</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/FEATUREPROP_PUB_EXC.html"
+    tooltip="FEATUREPROP_PUB_EXC"
+  ];
+}

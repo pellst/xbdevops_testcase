@@ -1,0 +1,36 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "ANATOMY_GENE_EXPRESSION_COUNTS_MQT" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "ANATOMY_GENE_EXPRESSION_COUNTS_MQT" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">ANATOMY_GENE_EXPRESSION_COUNTS_MQT</TD></TR>
+      <TR><TD PORT="UMBRELLA_GENE_ID" COLSPAN="3" BGCOLOR="#f4f7da" ALIGN="LEFT">UMBRELLA_GENE_ID</TD></TR>
+      <TR><TD PORT="UMBRELLA_GENE_SYMBOL" COLSPAN="3" BGCOLOR="#f4f7da" ALIGN="LEFT">UMBRELLA_GENE_SYMBOL</TD></TR>
+      <TR><TD PORT="ANATOMYITEM" COLSPAN="3" BGCOLOR="#f4f7da" ALIGN="LEFT">ANATOMYITEM</TD></TR>
+      <TR><TD PORT="ANATOMY_ITEM_ID" COLSPAN="3" BGCOLOR="#f4f7da" ALIGN="LEFT">ANATOMY_ITEM_ID</TD></TR>
+      <TR><TD PORT="NUMIMAGES" COLSPAN="3" ALIGN="LEFT">NUMIMAGES</TD></TR>
+      <TR><TD PORT="NUMCLONES" COLSPAN="3" ALIGN="LEFT">NUMCLONES</TD></TR>
+      <TR><TD PORT="NUMPAPERS" COLSPAN="3" ALIGN="LEFT">NUMPAPERS</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">1,209,906 rows</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/ANATOMY_GENE_EXPRESSION_COUNTS_MQT.html"
+    tooltip="ANATOMY_GENE_EXPRESSION_COUNTS_MQT"
+  ];
+}

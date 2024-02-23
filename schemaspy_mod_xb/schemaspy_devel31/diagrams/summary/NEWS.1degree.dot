@@ -1,0 +1,42 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "NEWS" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "NEWS" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">NEWS</TD></TR>
+      <TR><TD PORT="NEWS_ID" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">NEWS_ID</TD></TR>
+      <TR><TD PORT="TITLE" COLSPAN="3" ALIGN="LEFT">TITLE</TD></TR>
+      <TR><TD PORT="ARTICLE_DATE" COLSPAN="3" ALIGN="LEFT">ARTICLE_DATE</TD></TR>
+      <TR><TD PORT="ARTICLE_TEXT" COLSPAN="3" ALIGN="LEFT">ARTICLE_TEXT</TD></TR>
+      <TR><TD PORT="MAIN_IMAGE" COLSPAN="3" ALIGN="LEFT">MAIN_IMAGE</TD></TR>
+      <TR><TD PORT="SIDEBAR_TEXT" COLSPAN="3" ALIGN="LEFT">SIDEBAR_TEXT</TD></TR>
+      <TR><TD PORT="SLIDER_TEXT" COLSPAN="3" ALIGN="LEFT">SLIDER_TEXT</TD></TR>
+      <TR><TD PORT="SHOWIN_ANNOUNCEMENTS" COLSPAN="3" ALIGN="LEFT">SHOWIN_ANNOUNCEMENTS</TD></TR>
+      <TR><TD PORT="SHOWIN_SLIDER" COLSPAN="3" ALIGN="LEFT">SHOWIN_SLIDER</TD></TR>
+      <TR><TD PORT="SORTORDER" COLSPAN="3" ALIGN="LEFT">SORTORDER</TD></TR>
+      <TR><TD PORT="PUBLISHED" COLSPAN="3" ALIGN="LEFT">PUBLISHED</TD></TR>
+      <TR><TD PORT="SHOWIN_STRIP" COLSPAN="3" ALIGN="LEFT">SHOWIN_STRIP</TD></TR>
+      <TR><TD PORT="TEMPLATE" COLSPAN="3" ALIGN="LEFT">TEMPLATE</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">304 rows</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/NEWS.html"
+    tooltip="NEWS"
+  ];
+}

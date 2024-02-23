@@ -1,0 +1,37 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "CORAL_ANNOT_454_SOLEXA_BLAST" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "CORAL_ANNOT_454_SOLEXA_BLAST" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">CORAL_ANNOT_454_SOLEXA_BLAST</TD></TR>
+      <TR><TD PORT="SEQINDEX" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">SEQINDEX</TD></TR>
+      <TR><TD PORT="DESCRIPTION" COLSPAN="3" ALIGN="LEFT">DESCRIPTION</TD></TR>
+      <TR><TD PORT="DAY_COUNT" COLSPAN="3" ALIGN="LEFT">DAY_COUNT</TD></TR>
+      <TR><TD PORT="NIGHT_COUNT" COLSPAN="3" ALIGN="LEFT">NIGHT_COUNT</TD></TR>
+      <TR><TD PORT="NEG_CONTROL" COLSPAN="3" ALIGN="LEFT">NEG_CONTROL</TD></TR>
+      <TR><TD PORT="POS_CONTROL" COLSPAN="3" ALIGN="LEFT">POS_CONTROL</TD></TR>
+      <TR><TD PORT="DAY_COUNT_3" COLSPAN="3" ALIGN="LEFT">DAY_COUNT_3</TD></TR>
+      <TR><TD PORT="NIGHT_COUNT_3" COLSPAN="3" ALIGN="LEFT">NIGHT_COUNT_3</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">104,005 rows</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/CORAL_ANNOT_454_SOLEXA_BLAST.html"
+    tooltip="CORAL_ANNOT_454_SOLEXA_BLAST"
+  ];
+}

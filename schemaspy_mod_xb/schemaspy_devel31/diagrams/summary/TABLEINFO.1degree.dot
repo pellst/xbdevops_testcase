@@ -1,0 +1,41 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "TABLEINFO" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "TABLEINFO" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">TABLEINFO</TD></TR>
+      <TR><TD PORT="TABLEINFO_ID" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">TABLEINFO_ID</TD></TR>
+      <TR><TD PORT="NAME" COLSPAN="3" BGCOLOR="#f4f7da" ALIGN="LEFT">NAME</TD></TR>
+      <TR><TD PORT="PRIMARY_KEY_COLUMN" COLSPAN="3" ALIGN="LEFT">PRIMARY_KEY_COLUMN</TD></TR>
+      <TR><TD PORT="IS_VIEW" COLSPAN="3" ALIGN="LEFT">IS_VIEW</TD></TR>
+      <TR><TD PORT="VIEW_ON_TABLE_ID" COLSPAN="3" ALIGN="LEFT">VIEW_ON_TABLE_ID</TD></TR>
+      <TR><TD PORT="SUPERCLASS_TABLE_ID" COLSPAN="3" ALIGN="LEFT">SUPERCLASS_TABLE_ID</TD></TR>
+      <TR><TD PORT="IS_UPDATEABLE" COLSPAN="3" ALIGN="LEFT">IS_UPDATEABLE</TD></TR>
+      <TR><TD PORT="MODIFICATION_DATE" COLSPAN="3" ALIGN="LEFT">MODIFICATION_DATE</TD></TR>
+      <TR><TD PORT="CREATED_BY" COLSPAN="3" ALIGN="LEFT">CREATED_BY</TD></TR>
+      <TR><TD PORT="CREATED_AT" COLSPAN="3" ALIGN="LEFT">CREATED_AT</TD></TR>
+      <TR><TD PORT="MODIFIED_BY" COLSPAN="3" ALIGN="LEFT">MODIFIED_BY</TD></TR>
+      <TR><TD PORT="MODIFIED_AT" COLSPAN="3" ALIGN="LEFT">MODIFIED_AT</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">0 rows</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/TABLEINFO.html"
+    tooltip="TABLEINFO"
+  ];
+}

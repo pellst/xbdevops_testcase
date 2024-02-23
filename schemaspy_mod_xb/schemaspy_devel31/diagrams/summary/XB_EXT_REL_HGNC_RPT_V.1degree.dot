@@ -1,0 +1,43 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "XB_EXT_REL_HGNC_RPT_V" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "XB_EXT_REL_HGNC_RPT_V" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">XB_EXT_REL_HGNC_RPT_V</TD></TR>
+      <TR><TD PORT="XENBASE_GENE_ID" COLSPAN="3" ALIGN="LEFT">XENBASE_GENE_ID</TD></TR>
+      <TR><TD PORT="SYMBOL" COLSPAN="3" ALIGN="LEFT">SYMBOL</TD></TR>
+      <TR><TD PORT="XENBASE_GENEPAGE_ID" COLSPAN="3" ALIGN="LEFT">XENBASE_GENEPAGE_ID</TD></TR>
+      <TR><TD PORT="XENBASE_TRANSCRIPT_ID" COLSPAN="3" ALIGN="LEFT">XENBASE_TRANSCRIPT_ID</TD></TR>
+      <TR><TD PORT="ENTREZ_GENE_ID" COLSPAN="3" ALIGN="LEFT">ENTREZ_GENE_ID</TD></TR>
+      <TR><TD PORT="MODEL_NAME" COLSPAN="3" ALIGN="LEFT">MODEL_NAME</TD></TR>
+      <TR><TD PORT="NCBI_GENE_ID" COLSPAN="3" ALIGN="LEFT">NCBI_GENE_ID</TD></TR>
+      <TR><TD PORT="DB_ID" COLSPAN="3" ALIGN="LEFT">DB_ID</TD></TR>
+      <TR><TD PORT="GENOME_ASSEMBLY" COLSPAN="3" ALIGN="LEFT">GENOME_ASSEMBLY</TD></TR>
+      <TR><TD PORT="ENSEMBL" COLSPAN="3" ALIGN="LEFT">ENSEMBL</TD></TR>
+      <TR><TD PORT="HGNC_ID" COLSPAN="3" ALIGN="LEFT">HGNC_ID</TD></TR>
+      <TR><TD PORT="ORTHOLOG_HUMAN_SYMBOL" COLSPAN="3" ALIGN="LEFT">ORTHOLOG_HUMAN_SYMBOL</TD></TR>
+      <TR><TD PORT="ORTHOLOG_HUMAN_ENTREZ" COLSPAN="3" ALIGN="LEFT">ORTHOLOG_HUMAN_ENTREZ</TD></TR>
+      <TR><TD PORT="NCBI_TAXON" COLSPAN="3" ALIGN="LEFT">NCBI_TAXON</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">view</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/XB_EXT_REL_HGNC_RPT_V.html"
+    tooltip="XB_EXT_REL_HGNC_RPT_V"
+  ];
+}

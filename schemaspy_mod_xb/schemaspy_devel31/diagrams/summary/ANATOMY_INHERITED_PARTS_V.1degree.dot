@@ -1,0 +1,38 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "ANATOMY_INHERITED_PARTS_V" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "ANATOMY_INHERITED_PARTS_V" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">ANATOMY_INHERITED_PARTS_V</TD></TR>
+      <TR><TD PORT="ROOT" COLSPAN="3" ALIGN="LEFT">ROOT</TD></TR>
+      <TR><TD PORT="ROOTID" COLSPAN="3" ALIGN="LEFT">ROOTID</TD></TR>
+      <TR><TD PORT="BASE" COLSPAN="3" ALIGN="LEFT">BASE</TD></TR>
+      <TR><TD PORT="BASEID" COLSPAN="3" ALIGN="LEFT">BASEID</TD></TR>
+      <TR><TD PORT="SUPERTYPE" COLSPAN="3" ALIGN="LEFT">SUPERTYPE</TD></TR>
+      <TR><TD PORT="SUPERTYPEID" COLSPAN="3" ALIGN="LEFT">SUPERTYPEID</TD></TR>
+      <TR><TD PORT="NAME" COLSPAN="3" ALIGN="LEFT">NAME</TD></TR>
+      <TR><TD PORT="ANATOMY_ITEM_ID" COLSPAN="3" ALIGN="LEFT">ANATOMY_ITEM_ID</TD></TR>
+      <TR><TD PORT="RANK" COLSPAN="3" ALIGN="LEFT">RANK</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">view</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/ANATOMY_INHERITED_PARTS_V.html"
+    tooltip="ANATOMY_INHERITED_PARTS_V"
+  ];
+}

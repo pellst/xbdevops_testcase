@@ -1,0 +1,36 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "PHYLONODE_ORGANISM" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "PHYLONODE_ORGANISM" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">PHYLONODE_ORGANISM</TD></TR>
+      <TR><TD PORT="PHYLONODE_ORGANISM_ID" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">PHYLONODE_ORGANISM_ID</TD></TR>
+      <TR><TD PORT="PHYLONODE_ID" COLSPAN="3" ALIGN="LEFT">PHYLONODE_ID</TD></TR>
+      <TR><TD PORT="ORGANISM_ID" COLSPAN="3" ALIGN="LEFT">ORGANISM_ID</TD></TR>
+      <TR><TD PORT="CREATED_AT" COLSPAN="3" ALIGN="LEFT">CREATED_AT</TD></TR>
+      <TR><TD PORT="CREATED_BY" COLSPAN="3" ALIGN="LEFT">CREATED_BY</TD></TR>
+      <TR><TD PORT="MODIFIED_AT" COLSPAN="3" ALIGN="LEFT">MODIFIED_AT</TD></TR>
+      <TR><TD PORT="MODIFIED_BY" COLSPAN="3" ALIGN="LEFT">MODIFIED_BY</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">39 rows</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/PHYLONODE_ORGANISM.html"
+    tooltip="PHYLONODE_ORGANISM"
+  ];
+}

@@ -1,0 +1,39 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "F_TYPE" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "F_TYPE" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">F_TYPE</TD></TR>
+      <TR><TD PORT="FEATURE_ID" COLSPAN="3" ALIGN="LEFT">FEATURE_ID</TD></TR>
+      <TR><TD PORT="NAME" COLSPAN="3" ALIGN="LEFT">NAME</TD></TR>
+      <TR><TD PORT="DBXREF_ID" COLSPAN="3" ALIGN="LEFT">DBXREF_ID</TD></TR>
+      <TR><TD PORT="TYPE" COLSPAN="3" ALIGN="LEFT">TYPE</TD></TR>
+      <TR><TD PORT="RESIDUES" COLSPAN="3" ALIGN="LEFT">RESIDUES</TD></TR>
+      <TR><TD PORT="SEQLEN" COLSPAN="3" ALIGN="LEFT">SEQLEN</TD></TR>
+      <TR><TD PORT="MD5CHECKSUM" COLSPAN="3" ALIGN="LEFT">MD5CHECKSUM</TD></TR>
+      <TR><TD PORT="TYPE_ID" COLSPAN="3" ALIGN="LEFT">TYPE_ID</TD></TR>
+      <TR><TD PORT="TIMEACCESSIONED" COLSPAN="3" ALIGN="LEFT">TIMEACCESSIONED</TD></TR>
+      <TR><TD PORT="TIMELASTMODIFIED" COLSPAN="3" ALIGN="LEFT">TIMELASTMODIFIED</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">view</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/F_TYPE.html"
+    tooltip="F_TYPE"
+  ];
+}

@@ -1,0 +1,36 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "GENE_MP_MQT" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "GENE_MP_MQT" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">GENE_MP_MQT</TD></TR>
+      <TR><TD PORT="GENEPAGE_ID" COLSPAN="3" BGCOLOR="#f4f7da" ALIGN="LEFT">GENEPAGE_ID</TD></TR>
+      <TR><TD PORT="SYMBOL" COLSPAN="3" ALIGN="LEFT">SYMBOL</TD></TR>
+      <TR><TD PORT="MGI_ID" COLSPAN="3" ALIGN="LEFT">MGI_ID</TD></TR>
+      <TR><TD PORT="MOUSE_GENE_ID" COLSPAN="3" BGCOLOR="#f4f7da" ALIGN="LEFT">MOUSE_GENE_ID</TD></TR>
+      <TR><TD PORT="DBXREF_ID" COLSPAN="3" BGCOLOR="#f4f7da" ALIGN="LEFT">DBXREF_ID</TD></TR>
+      <TR><TD PORT="DB_ID" COLSPAN="3" ALIGN="LEFT">DB_ID</TD></TR>
+      <TR><TD PORT="CVTERM_ID" COLSPAN="3" BGCOLOR="#f4f7da" ALIGN="LEFT">CVTERM_ID</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">148,580 rows</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/GENE_MP_MQT.html"
+    tooltip="GENE_MP_MQT"
+  ];
+}

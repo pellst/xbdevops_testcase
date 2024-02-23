@@ -1,0 +1,36 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "DISEASE_ARTICLE_LIST_V" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "DISEASE_ARTICLE_LIST_V" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">DISEASE_ARTICLE_LIST_V</TD></TR>
+      <TR><TD PORT="DESCRIPTION" COLSPAN="3" ALIGN="LEFT">DESCRIPTION</TD></TR>
+      <TR><TD PORT="CVTERM_ID" COLSPAN="3" ALIGN="LEFT">CVTERM_ID</TD></TR>
+      <TR><TD PORT="DBXREF_ID" COLSPAN="3" ALIGN="LEFT">DBXREF_ID</TD></TR>
+      <TR><TD PORT="DB_ID" COLSPAN="3" ALIGN="LEFT">DB_ID</TD></TR>
+      <TR><TD PORT="ACCESSION" COLSPAN="3" ALIGN="LEFT">ACCESSION</TD></TR>
+      <TR><TD PORT="ARTICLE_COUNT" COLSPAN="3" ALIGN="LEFT">ARTICLE_COUNT</TD></TR>
+      <TR><TD PORT="PAPER_ID" COLSPAN="3" ALIGN="LEFT">PAPER_ID</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">view</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/DISEASE_ARTICLE_LIST_V.html"
+    tooltip="DISEASE_ARTICLE_LIST_V"
+  ];
+}

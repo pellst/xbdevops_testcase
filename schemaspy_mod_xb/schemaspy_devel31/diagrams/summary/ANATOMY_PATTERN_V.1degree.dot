@@ -1,0 +1,34 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "ANATOMY_PATTERN_V" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "ANATOMY_PATTERN_V" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">ANATOMY_PATTERN_V</TD></TR>
+      <TR><TD PORT="EXPRESSIONASSAY_ID" COLSPAN="3" ALIGN="LEFT">EXPRESSIONASSAY_ID</TD></TR>
+      <TR><TD PORT="ANATOMY_ITEM_ID" COLSPAN="3" ALIGN="LEFT">ANATOMY_ITEM_ID</TD></TR>
+      <TR><TD PORT="ANATOMY_ITEM" COLSPAN="3" ALIGN="LEFT">ANATOMY_ITEM</TD></TR>
+      <TR><TD PORT="BIOMEDIA_ID" COLSPAN="3" ALIGN="LEFT">BIOMEDIA_ID</TD></TR>
+      <TR><TD PORT="EXPRESSIONSTAGESTESTED_ID" COLSPAN="3" ALIGN="LEFT">EXPRESSIONSTAGESTESTED_ID</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">view</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/ANATOMY_PATTERN_V.html"
+    tooltip="ANATOMY_PATTERN_V"
+  ];
+}

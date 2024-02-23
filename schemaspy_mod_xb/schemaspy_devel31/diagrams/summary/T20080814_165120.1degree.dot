@@ -1,0 +1,37 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "T20080814_165120" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "T20080814_165120" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">T20080814_165120</TD></TR>
+      <TR><TD PORT="XML_REQUEST" COLSPAN="3" ALIGN="LEFT">XML_REQUEST</TD></TR>
+      <TR><TD PORT="STATE" COLSPAN="3" ALIGN="LEFT">STATE</TD></TR>
+      <TR><TD PORT="ATTEMPTS" COLSPAN="3" ALIGN="LEFT">ATTEMPTS</TD></TR>
+      <TR><TD PORT="OBJECT_ID" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">OBJECT_ID</TD></TR>
+      <TR><TD PORT="NOTIFICATION" COLSPAN="3" ALIGN="LEFT">NOTIFICATION</TD></TR>
+      <TR><TD PORT="OBJECT_TYPE" COLSPAN="3" ALIGN="LEFT">OBJECT_TYPE</TD></TR>
+      <TR><TD PORT="MESSAGE" COLSPAN="3" ALIGN="LEFT">MESSAGE</TD></TR>
+      <TR><TD PORT="TIMESTAMP" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">TIMESTAMP</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">13 rows</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/T20080814_165120.html"
+    tooltip="T20080814_165120"
+  ];
+}

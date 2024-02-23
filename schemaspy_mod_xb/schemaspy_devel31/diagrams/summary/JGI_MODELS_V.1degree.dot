@@ -1,0 +1,33 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "JGI_MODELS_V" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "JGI_MODELS_V" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">JGI_MODELS_V</TD></TR>
+      <TR><TD PORT="XT_GENE_ID" COLSPAN="3" ALIGN="LEFT">XT_GENE_ID</TD></TR>
+      <TR><TD PORT="JGI_GENE_ID" COLSPAN="3" ALIGN="LEFT">JGI_GENE_ID</TD></TR>
+      <TR><TD PORT="JGI_MRNA_ID" COLSPAN="3" ALIGN="LEFT">JGI_MRNA_ID</TD></TR>
+      <TR><TD PORT="JGI_POLYPEPTIDE_ID" COLSPAN="3" ALIGN="LEFT">JGI_POLYPEPTIDE_ID</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">view</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/JGI_MODELS_V.html"
+    tooltip="JGI_MODELS_V"
+  ];
+}

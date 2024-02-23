@@ -1,0 +1,40 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "CUR_EXP_GEO_PIPE_SRR_V" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "CUR_EXP_GEO_PIPE_SRR_V" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">CUR_EXP_GEO_PIPE_SRR_V</TD></TR>
+      <TR><TD PORT="GSE_ID" COLSPAN="3" ALIGN="LEFT">GSE_ID</TD></TR>
+      <TR><TD PORT="RECNUM" COLSPAN="3" ALIGN="LEFT">RECNUM</TD></TR>
+      <TR><TD PORT="SRR" COLSPAN="3" ALIGN="LEFT">SRR</TD></TR>
+      <TR><TD PORT="URL_SRR_SOURCE" COLSPAN="3" ALIGN="LEFT">URL_SRR_SOURCE</TD></TR>
+      <TR><TD PORT="GSM" COLSPAN="3" ALIGN="LEFT">GSM</TD></TR>
+      <TR><TD PORT="SRA" COLSPAN="3" ALIGN="LEFT">SRA</TD></TR>
+      <TR><TD PORT="SRX" COLSPAN="3" ALIGN="LEFT">SRX</TD></TR>
+      <TR><TD PORT="ASSAYTYPE" COLSPAN="3" ALIGN="LEFT">ASSAYTYPE</TD></TR>
+      <TR><TD PORT="LIBRARYLAYOUT" COLSPAN="3" ALIGN="LEFT">LIBRARYLAYOUT</TD></TR>
+      <TR><TD PORT="SRP" COLSPAN="3" ALIGN="LEFT">SRP</TD></TR>
+      <TR><TD PORT="BIOPROJECT" COLSPAN="3" ALIGN="LEFT">BIOPROJECT</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">view</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/CUR_EXP_GEO_PIPE_SRR_V.html"
+    tooltip="CUR_EXP_GEO_PIPE_SRR_V"
+  ];
+}

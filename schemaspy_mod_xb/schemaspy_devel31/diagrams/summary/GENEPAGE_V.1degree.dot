@@ -1,0 +1,37 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "GENEPAGE_V" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "GENEPAGE_V" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">GENEPAGE_V</TD></TR>
+      <TR><TD PORT="FEATURE_ID" COLSPAN="3" ALIGN="LEFT">FEATURE_ID</TD></TR>
+      <TR><TD PORT="NAME" COLSPAN="3" ALIGN="LEFT">NAME</TD></TR>
+      <TR><TD PORT="FULL_NAME" COLSPAN="3" ALIGN="LEFT">FULL_NAME</TD></TR>
+      <TR><TD PORT="ORGANISM_ID" COLSPAN="3" ALIGN="LEFT">ORGANISM_ID</TD></TR>
+      <TR><TD PORT="TYPE_ID" COLSPAN="3" ALIGN="LEFT">TYPE_ID</TD></TR>
+      <TR><TD PORT="SORTABLE_NAME" COLSPAN="3" ALIGN="LEFT">SORTABLE_NAME</TD></TR>
+      <TR><TD PORT="IS_ANALYSIS" COLSPAN="3" ALIGN="LEFT">IS_ANALYSIS</TD></TR>
+      <TR><TD PORT="DESCRIPTION" COLSPAN="3" ALIGN="LEFT">DESCRIPTION</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">view</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/GENEPAGE_V.html"
+    tooltip="GENEPAGE_V"
+  ];
+}

@@ -1,0 +1,41 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "AUDIT_AUTHORMAP" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "AUDIT_AUTHORMAP" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">AUDIT_AUTHORMAP</TD></TR>
+      <TR><TD PORT="AUTHORMAP_ID" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">AUTHORMAP_ID</TD></TR>
+      <TR><TD PORT="FORENAME" COLSPAN="3" ALIGN="LEFT">FORENAME</TD></TR>
+      <TR><TD PORT="INITIALS" COLSPAN="3" ALIGN="LEFT">INITIALS</TD></TR>
+      <TR><TD PORT="LASTNAME" COLSPAN="3" ALIGN="LEFT">LASTNAME</TD></TR>
+      <TR><TD PORT="MATCHSTATUS_ID" COLSPAN="3" ALIGN="LEFT">MATCHSTATUS_ID</TD></TR>
+      <TR><TD PORT="PERSON_ID" COLSPAN="3" ALIGN="LEFT">PERSON_ID</TD></TR>
+      <TR><TD PORT="CREATED_BY" COLSPAN="3" ALIGN="LEFT">CREATED_BY</TD></TR>
+      <TR><TD PORT="CREATED_AT" COLSPAN="3" ALIGN="LEFT">CREATED_AT</TD></TR>
+      <TR><TD PORT="MODIFIED_AT" COLSPAN="3" ALIGN="LEFT">MODIFIED_AT</TD></TR>
+      <TR><TD PORT="MODIFIED_BY" COLSPAN="3" ALIGN="LEFT">MODIFIED_BY</TD></TR>
+      <TR><TD PORT="TRANSACTION_DATE" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">TRANSACTION_DATE</TD></TR>
+      <TR><TD PORT="TRANSACTION_TYPE" COLSPAN="3" ALIGN="LEFT">TRANSACTION_TYPE</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">0 rows</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/AUDIT_AUTHORMAP.html"
+    tooltip="AUDIT_AUTHORMAP"
+  ];
+}

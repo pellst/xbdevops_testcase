@@ -1,0 +1,40 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "AUDIT_DBXREFPROP" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "AUDIT_DBXREFPROP" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">AUDIT_DBXREFPROP</TD></TR>
+      <TR><TD PORT="DBXREFPROP_ID" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">DBXREFPROP_ID</TD></TR>
+      <TR><TD PORT="DBXREF_ID" COLSPAN="3" ALIGN="LEFT">DBXREF_ID</TD></TR>
+      <TR><TD PORT="TYPE_ID" COLSPAN="3" ALIGN="LEFT">TYPE_ID</TD></TR>
+      <TR><TD PORT="VALUE" COLSPAN="3" ALIGN="LEFT">VALUE</TD></TR>
+      <TR><TD PORT="RANK" COLSPAN="3" ALIGN="LEFT">RANK</TD></TR>
+      <TR><TD PORT="CREATED_BY" COLSPAN="3" ALIGN="LEFT">CREATED_BY</TD></TR>
+      <TR><TD PORT="CREATED_AT" COLSPAN="3" ALIGN="LEFT">CREATED_AT</TD></TR>
+      <TR><TD PORT="MODIFIED_BY" COLSPAN="3" ALIGN="LEFT">MODIFIED_BY</TD></TR>
+      <TR><TD PORT="MODIFIED_AT" COLSPAN="3" ALIGN="LEFT">MODIFIED_AT</TD></TR>
+      <TR><TD PORT="TRANSACTION_DATE" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">TRANSACTION_DATE</TD></TR>
+      <TR><TD PORT="TRANSACTION_TYPE" COLSPAN="3" ALIGN="LEFT">TRANSACTION_TYPE</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">19,920 rows</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/AUDIT_DBXREFPROP.html"
+    tooltip="AUDIT_DBXREFPROP"
+  ];
+}

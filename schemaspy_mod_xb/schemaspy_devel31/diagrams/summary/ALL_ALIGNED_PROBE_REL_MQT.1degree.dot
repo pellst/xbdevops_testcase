@@ -1,0 +1,41 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "ALL_ALIGNED_PROBE_REL_MQT" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "ALL_ALIGNED_PROBE_REL_MQT" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">ALL_ALIGNED_PROBE_REL_MQT</TD></TR>
+      <TR><TD PORT="UMBRELLA_GENE_ID" COLSPAN="3" BGCOLOR="#f4f7da" ALIGN="LEFT">UMBRELLA_GENE_ID</TD></TR>
+      <TR><TD PORT="UMBRELLA_GENE_SYMBOL" COLSPAN="3" BGCOLOR="#f4f7da" ALIGN="LEFT">UMBRELLA_GENE_SYMBOL</TD></TR>
+      <TR><TD PORT="GENE_ID" COLSPAN="3" BGCOLOR="#f4f7da" ALIGN="LEFT">GENE_ID</TD></TR>
+      <TR><TD PORT="GENE_SYMBOL" COLSPAN="3" ALIGN="LEFT">GENE_SYMBOL</TD></TR>
+      <TR><TD PORT="SPECIES_ID" COLSPAN="3" BGCOLOR="#f4f7da" ALIGN="LEFT">SPECIES_ID</TD></TR>
+      <TR><TD PORT="MRNA_ID" COLSPAN="3" BGCOLOR="#f4f7da" ALIGN="LEFT">MRNA_ID</TD></TR>
+      <TR><TD PORT="PROBE_ID" COLSPAN="3" ALIGN="LEFT">PROBE_ID</TD></TR>
+      <TR><TD PORT="CDNA_ID" COLSPAN="3" BGCOLOR="#f4f7da" ALIGN="LEFT">CDNA_ID</TD></TR>
+      <TR><TD PORT="CDNA_NAME" COLSPAN="3" BGCOLOR="#f4f7da" ALIGN="LEFT">CDNA_NAME</TD></TR>
+      <TR><TD PORT="CONNECTION_TYPE" COLSPAN="3" ALIGN="LEFT">CONNECTION_TYPE</TD></TR>
+      <TR><TD PORT="EXPRESSED_FEATURE_ID" COLSPAN="3" ALIGN="LEFT">EXPRESSED_FEATURE_ID</TD></TR>
+      <TR><TD PORT="EXPRESSED_FEATURE_NAME" COLSPAN="3" ALIGN="LEFT">EXPRESSED_FEATURE_NAME</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">28,787 rows</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/ALL_ALIGNED_PROBE_REL_MQT.html"
+    tooltip="ALL_ALIGNED_PROBE_REL_MQT"
+  ];
+}

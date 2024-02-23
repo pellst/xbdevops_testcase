@@ -1,0 +1,42 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "ANALYSISFEATURE_EXC" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "ANALYSISFEATURE_EXC" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">ANALYSISFEATURE_EXC</TD></TR>
+      <TR><TD PORT="ANALYSISFEATURE_ID" COLSPAN="3" ALIGN="LEFT">ANALYSISFEATURE_ID</TD></TR>
+      <TR><TD PORT="FEATURE_ID" COLSPAN="3" ALIGN="LEFT">FEATURE_ID</TD></TR>
+      <TR><TD PORT="ANALYSIS_ID" COLSPAN="3" ALIGN="LEFT">ANALYSIS_ID</TD></TR>
+      <TR><TD PORT="RAWSCORE" COLSPAN="3" ALIGN="LEFT">RAWSCORE</TD></TR>
+      <TR><TD PORT="NORMSCORE" COLSPAN="3" ALIGN="LEFT">NORMSCORE</TD></TR>
+      <TR><TD PORT="SIGNIFICANCE" COLSPAN="3" ALIGN="LEFT">SIGNIFICANCE</TD></TR>
+      <TR><TD PORT="IDENTITY" COLSPAN="3" ALIGN="LEFT">IDENTITY</TD></TR>
+      <TR><TD PORT="CREATED_BY" COLSPAN="3" ALIGN="LEFT">CREATED_BY</TD></TR>
+      <TR><TD PORT="CREATED_AT" COLSPAN="3" ALIGN="LEFT">CREATED_AT</TD></TR>
+      <TR><TD PORT="MODIFIED_BY" COLSPAN="3" ALIGN="LEFT">MODIFIED_BY</TD></TR>
+      <TR><TD PORT="MODIFIED_AT" COLSPAN="3" ALIGN="LEFT">MODIFIED_AT</TD></TR>
+      <TR><TD PORT="EXCEPTION_TS" COLSPAN="3" ALIGN="LEFT">EXCEPTION_TS</TD></TR>
+      <TR><TD PORT="MESSAGE" COLSPAN="3" ALIGN="LEFT">MESSAGE</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">0 rows</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/ANALYSISFEATURE_EXC.html"
+    tooltip="ANALYSISFEATURE_EXC"
+  ];
+}

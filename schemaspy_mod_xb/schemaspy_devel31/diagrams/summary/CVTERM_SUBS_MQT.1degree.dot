@@ -1,0 +1,40 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "CVTERM_SUBS_MQT" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "CVTERM_SUBS_MQT" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">CVTERM_SUBS_MQT</TD></TR>
+      <TR><TD PORT="CT_SUBJ_NAME" COLSPAN="3" ALIGN="LEFT">CT_SUBJ_NAME</TD></TR>
+      <TR><TD PORT="CT_SUBJ_ID" COLSPAN="3" ALIGN="LEFT">CT_SUBJ_ID</TD></TR>
+      <TR><TD PORT="CT_SUBJ_IS_OBSOLETE" COLSPAN="3" ALIGN="LEFT">CT_SUBJ_IS_OBSOLETE</TD></TR>
+      <TR><TD PORT="CT_SUBJ_DBXREF_ID" COLSPAN="3" ALIGN="LEFT">CT_SUBJ_DBXREF_ID</TD></TR>
+      <TR><TD PORT="CT_SUBJ_CV_ID" COLSPAN="3" ALIGN="LEFT">CT_SUBJ_CV_ID</TD></TR>
+      <TR><TD PORT="CT_OBJ_NAME" COLSPAN="3" ALIGN="LEFT">CT_OBJ_NAME</TD></TR>
+      <TR><TD PORT="CT_OBJ_ID" COLSPAN="3" ALIGN="LEFT">CT_OBJ_ID</TD></TR>
+      <TR><TD PORT="CT_OBJ_IS_OBSOLETE" COLSPAN="3" ALIGN="LEFT">CT_OBJ_IS_OBSOLETE</TD></TR>
+      <TR><TD PORT="CT_OBJ_DBXREF_ID" COLSPAN="3" ALIGN="LEFT">CT_OBJ_DBXREF_ID</TD></TR>
+      <TR><TD PORT="CT_OBJ_CV_ID" COLSPAN="3" ALIGN="LEFT">CT_OBJ_CV_ID</TD></TR>
+      <TR><TD PORT="TYPE_ID" COLSPAN="3" ALIGN="LEFT">TYPE_ID</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">13,938 rows</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/CVTERM_SUBS_MQT.html"
+    tooltip="CVTERM_SUBS_MQT"
+  ];
+}

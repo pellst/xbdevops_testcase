@@ -1,0 +1,40 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "CV_INCL_DEL_V" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "CV_INCL_DEL_V" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">CV_INCL_DEL_V</TD></TR>
+      <TR><TD PORT="CV_ID" COLSPAN="3" ALIGN="LEFT">CV_ID</TD></TR>
+      <TR><TD PORT="NAME" COLSPAN="3" ALIGN="LEFT">NAME</TD></TR>
+      <TR><TD PORT="VERSION" COLSPAN="3" ALIGN="LEFT">VERSION</TD></TR>
+      <TR><TD PORT="VERSION_TS" COLSPAN="3" ALIGN="LEFT">VERSION_TS</TD></TR>
+      <TR><TD PORT="PREFIX" COLSPAN="3" ALIGN="LEFT">PREFIX</TD></TR>
+      <TR><TD PORT="CREATED_BY" COLSPAN="3" ALIGN="LEFT">CREATED_BY</TD></TR>
+      <TR><TD PORT="CREATED_AT" COLSPAN="3" ALIGN="LEFT">CREATED_AT</TD></TR>
+      <TR><TD PORT="MODIFIED_BY" COLSPAN="3" ALIGN="LEFT">MODIFIED_BY</TD></TR>
+      <TR><TD PORT="MODIFIED_AT" COLSPAN="3" ALIGN="LEFT">MODIFIED_AT</TD></TR>
+      <TR><TD PORT="TRANSACTION_DATE" COLSPAN="3" ALIGN="LEFT">TRANSACTION_DATE</TD></TR>
+      <TR><TD PORT="TRANSACTION_TYPE" COLSPAN="3" ALIGN="LEFT">TRANSACTION_TYPE</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">view</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/CV_INCL_DEL_V.html"
+    tooltip="CV_INCL_DEL_V"
+  ];
+}

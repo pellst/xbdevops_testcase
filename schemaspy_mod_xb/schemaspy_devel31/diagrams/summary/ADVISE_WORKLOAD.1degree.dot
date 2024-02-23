@@ -1,0 +1,39 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev Unknown
+digraph "ADVISE_WORKLOAD" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "ADVISE_WORKLOAD" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">ADVISE_WORKLOAD</TD></TR>
+      <TR><TD PORT="WORKLOAD_NAME" COLSPAN="3" ALIGN="LEFT">WORKLOAD_NAME</TD></TR>
+      <TR><TD PORT="STATEMENT_NO" COLSPAN="3" ALIGN="LEFT">STATEMENT_NO</TD></TR>
+      <TR><TD PORT="STATEMENT_TEXT" COLSPAN="3" ALIGN="LEFT">STATEMENT_TEXT</TD></TR>
+      <TR><TD PORT="STATEMENT_TAG" COLSPAN="3" ALIGN="LEFT">STATEMENT_TAG</TD></TR>
+      <TR><TD PORT="FREQUENCY" COLSPAN="3" ALIGN="LEFT">FREQUENCY</TD></TR>
+      <TR><TD PORT="IMPORTANCE" COLSPAN="3" ALIGN="LEFT">IMPORTANCE</TD></TR>
+      <TR><TD PORT="WEIGHT" COLSPAN="3" ALIGN="LEFT">WEIGHT</TD></TR>
+      <TR><TD PORT="COST_BEFORE" COLSPAN="3" ALIGN="LEFT">COST_BEFORE</TD></TR>
+      <TR><TD PORT="COST_AFTER" COLSPAN="3" ALIGN="LEFT">COST_AFTER</TD></TR>
+      <TR><TD PORT="COMPILABLE" COLSPAN="3" ALIGN="LEFT">COMPILABLE</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">0 rows</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/ADVISE_WORKLOAD.html"
+    tooltip="ADVISE_WORKLOAD"
+  ];
+}
