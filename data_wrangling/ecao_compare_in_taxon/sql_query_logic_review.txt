@@ -1,0 +1,161 @@
+ ask simple Q&A that involves UNION statements, GROUP BY, OUTER JOIN.
+No problem giving the link to the XB  schemaspy , but even that is a lot to take in under test conditions. 
+https://xenbase-bio1.ucalgary.ca/schemaspy/prod/schemaspy_xbprod27/
+
+A SQL cheat sheet is here. 
+https://www.datacamp.com/cheat-sheet/sql-basics-cheat-sheet
+
+
+https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-cte/
+Provide a common table expression and ask them what they would change to achieve a specific goal that involves using RANK or 
+
+Q:How would you go about finding duplicates in a table that does not have a PK. 
+
+A:)
+with m1 as (
+select
+t6.stm_pheno_id
+, t6.curxps_id
+, t6.pheno_id
+, dense_rank() over ( partition by
+t6.curxps_id
+, t6.pheno_id
+order by t6.created_at
+) rankit
+from cur_exp_stm_pheno t6
+where 1=1
+--and t6.curxps_id = 62706
+--and t6.pheno_id = 26313
+)
+select m1.stm_pheno_id
+, curxps_id
+, pheno_id
+,  rankit
+from m1
+where rankit > 1
+--order by
+-- curxps_id
+--, pheno_id
+--,  rankit
+;
+
+
+Ask them to describe what this is doing:
+
+ with m1 as (
+select t1.*
+, (select ai.name from anatomy_item ai where ai.anatomy_item_id = t1.anatomy_item_id ) name
+, ( select org.abbreviation from organism org where org.phylonode_id = t1.phylonode_id ) organism_name
+, (select st.name from stage st where st.stage_id = t1.starts_stage_id ) starts_at_stage_name
+, (select st.name from stage st where st.stage_id = t1.end_stage_id ) ends_at_stage_name
+, (select d.accession NCBItaxon from cvterm c, dbxref d, phylonode py
+    where py.label = c.name
+    and c.dbxref_id=d.dbxref_id
+      --and d.accession='82377'
+      and d.db_id=764
+      and py.phylonode_id = t1.phylonode_id
+    ) NCBItaxon
+from phylonode_anatomyitem t1
+--where t1.phylonode_id = 560 -- S.pur -- org id 12 -- 7668 ncbitax ntx
+ where t1.phylonode_id != 608 -- Perischoechinoidea -- not setup in organism table
+),  m3 as (
+select t1.*
+, (select ai.name from stage ai where ai.stage_id = t1.stage_id ) name
+, ( select org.abbreviation from organism org where org.phylonode_id = t1.phylonode_id ) organism_name
+, '' starts_at_stage_name
+, '' ends_at_stage_name
+, (select d.accession NCBItaxon from cvterm c, dbxref d, phylonode py
+    where py.label = c.name
+    and c.dbxref_id=d.dbxref_id
+      --and d.accession='82377'
+      and d.db_id=764
+      and py.phylonode_id = t1.phylonode_id
+    ) NCBItaxon
+from phylonode_stages t1
+--where t1.phylonode_id = 560 -- S.pur -- org id 12 -- 7668 ncbitax ntx
+ where t1.phylonode_id != 608 -- Perischoechinoidea -- not setup in organism table
+)
+select 'anat' namespace, m1.anatomy_item_id term_id, m1.name
+, m1.phylonode_id , m1.NCBItaxon
+, m1.organism_name
+, m1.starts_at_stage_name, m1.ends_at_stage_name
+
+, m1.phylonode_anatomyitem_id phylonode_term_id
+from m1
+UNION ALL
+select '' namespace, m1.stage_id term_id, m1.name
+, m1.phylonode_id , m1.NCBItaxon
+, m1.organism_name
+, m1.starts_at_stage_name, m1.ends_at_stage_name
+
+, m1.phylonode_stages_id phylonode_term_id
+from m3 m1
+--order by m1.phylonode_id, m1.anatomy_item_id
+--order by m1.stage_id, m1.phylonode_id
+--order by m1.phylonode_id, m1.anatomy_item_id;
+
+What does the rank() give us in the following query: 
+
+select py.phylonode_id
+, org.organism_id
+, org.species
+, ( select 'NCBITaxon:'||accession from dbxref dbx where dbx.dbxref_id = py.dbxref_id ) ncbitaxon
+, dbx.db_id
+, cvt.name
+, cvt.cvterm_id
+, org.organism_id || coalesce('-'||ogs.type_id,'')  geneset
+, org.abbreviation|| coalesce('.'|| value ,'') org_abbrev_geneset
+--, rank() over ( partition by cvt.cvterm_id order by org.organism_id ) rankit
+from organism org, phylonode_dbxref py
+, dbxref dbx
+, cvterm cvt
+, cvterm_category_term cvtt
+, organismprop ogs
+where cvterm_category_id = 20
+and cvtt.cvterm_id = cvt.cvterm_id
+--where org.genus = 'Echinodermata'
+and org.phylonode_id = py.phylonode_id
+and dbx.dbxref_id = py.dbxref_id
+and cvt.dbxref_id = dbx.dbxref_id
+and ogs.organism_id (+) = org.organism_id
+and exists ( select 'found' from feature f1 where f1.organism_id = org.organism_id )
+order by organism_id
+;
+
+Q:)Why is the left outer join needed here 
+
+with m1 as (
+select t1.co_prop_id, t1.trackname
+,t1.curxpa_id
+,t1.curxpx_id
+,t1.curxprel_id
+,t1.is_for_bigwig
+, t20.gsms_ctrl_id, t20.co_prop_id exp_co_prop_id, t20.control_co_prop_id ctrl_co_prop_id
+--, ( select gsms_ctrl_id from cur_exp_gsms_ctrl t20 where t20.co_prop_id = t1.co_prop_id ) gsms_ctrl_id
+from cur_exp_co_prop t1 left outer join cur_exp_gsms_ctrl t20 ON t1.co_prop_id = t20.co_prop_id
+where t1.curxpx_id in ( select t10.curxpx_id
+from cur_exp_experiment t10, cur_exp_method t11
+where t10.curxprel_id = t11.curxprel_id
+--and t11.gse_id in ( '93195' , '87653' , '75278' , '73430' )
+)
+and t1.trackname is not null
+--and t1.co_prop_id in ( 10,11)
+--order by t1.co_prop_id
+), 
+
+Q:) What does row_number()  give us here. Why is this helpful. 
+
+with m1 as (
+select st.name, org.organism_id, org.phylonode_id
+,row_number() over ( partition by st.stage_id )  recnum
+,count(*) over ( partition by st.stage_id ) reccount
+from stage st, phylonode_stages ps, phylonode_organism org
+  WHERE 1=1
+  AND ps.stage_id = st.stage_id
+  AND org.phylonode_id = ps.phylonode_id
+  --AND org.organism_id = 14
+  )
+  select *
+  from m1
+ 
+  ;
